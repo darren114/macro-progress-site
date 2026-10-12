@@ -9572,10 +9572,10 @@ window.MACRO_DATA = {
   },
   "2026-10-12": {
    "date": "2026-10-12",
-   "calories": 1701.0,
-   "protein_g": 138.1,
-   "carbs_g": 95.7,
-   "fat_g": 80.75,
+   "calories": 1848.0,
+   "protein_g": 166.1,
+   "carbs_g": 100.7,
+   "fat_g": 81.75,
    "meals": [
     {
      "time": "lunch",
@@ -9620,6 +9620,24 @@ window.MACRO_DATA = {
      "protein_g": 83.0,
      "carbs_g": 0.0,
      "fat_g": 29.6,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Protein shake (Transparent Labs Chocolate Protein, 35g/1 scoop)",
+     "calories": 130.0,
+     "protein_g": 28.0,
+     "carbs_g": 1.0,
+     "fat_g": 1.0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Matcha (2 tsp)",
+     "calories": 17.0,
+     "protein_g": 0.0,
+     "carbs_g": 4.0,
+     "fat_g": 0.0,
      "confidence": "high"
     }
    ]
