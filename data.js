@@ -9572,10 +9572,10 @@ window.MACRO_DATA = {
   },
   "2026-10-12": {
    "date": "2026-10-12",
-   "calories": 1079.0,
-   "protein_g": 55.1,
+   "calories": 1701.0,
+   "protein_g": 138.1,
    "carbs_g": 95.7,
-   "fat_g": 51.15,
+   "fat_g": 80.75,
    "meals": [
     {
      "time": "lunch",
@@ -9612,6 +9612,15 @@ window.MACRO_DATA = {
      "carbs_g": 33.0,
      "fat_g": 20.55,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie dark meat chicken, 304g",
+     "calories": 622.0,
+     "protein_g": 83.0,
+     "carbs_g": 0.0,
+     "fat_g": 29.6,
+     "confidence": "high"
     }
    ]
   }
