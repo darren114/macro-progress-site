@@ -9554,10 +9554,10 @@ window.MACRO_DATA = {
   },
   "2026-10-11": {
    "date": "2026-10-11",
-   "calories": 419,
-   "protein_g": 24,
-   "carbs_g": 24,
-   "fat_g": 24,
+   "calories": 1719,
+   "protein_g": 119,
+   "carbs_g": 119.7,
+   "fat_g": 80.65,
    "meals": [
     {
      "time": "morning",
@@ -9567,16 +9567,16 @@ window.MACRO_DATA = {
      "carbs_g": 24,
      "fat_g": 24,
      "confidence": "high"
-    }
-   ]
-  },
-  "2026-10-12": {
-   "date": "2026-10-12",
-   "calories": 1848.0,
-   "protein_g": 166.1,
-   "carbs_g": 100.7,
-   "fat_g": 81.75,
-   "meals": [
+    },
+    {
+     "time": "snack",
+     "description": "Beef jerky (People's Choice, Original), 62g",
+     "calories": 221,
+     "protein_g": 39.9,
+     "carbs_g": 0,
+     "fat_g": 5.5,
+     "confidence": "high"
+    },
     {
      "time": "lunch",
      "description": "Chicken meatballs with basil in lemon sauce, zucchini, potatoes and olives (plane meal), full 240g package",
@@ -9612,7 +9612,16 @@ window.MACRO_DATA = {
      "carbs_g": 33.0,
      "fat_g": 20.55,
      "confidence": "medium"
-    },
+    }
+   ]
+  },
+  "2026-10-12": {
+   "date": "2026-10-12",
+   "calories": 769.0,
+   "protein_g": 111.0,
+   "carbs_g": 5.0,
+   "fat_g": 30.6,
+   "meals": [
     {
      "time": "lunch",
      "description": "Costco rotisserie dark meat chicken, 304g",
