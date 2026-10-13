@@ -9716,10 +9716,10 @@ window.MACRO_DATA = {
   },
   "2026-10-13": {
    "date": "2026-10-13",
-   "calories": 338,
-   "protein_g": 70,
-   "carbs_g": 9,
-   "fat_g": 2,
+   "calories": 701,
+   "protein_g": 124,
+   "carbs_g": 27,
+   "fat_g": 9,
    "meals": [
     {
      "time": "morning",
@@ -9747,6 +9747,15 @@ window.MACRO_DATA = {
      "carbs_g": 4,
      "fat_g": 1,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Greek chicken bowl: Kirkland 0% Greek yogurt (104g), Costco rotisserie chicken white meat (150g), cucumber (100g), campari tomatoes (130g), feta (9g), diced red onion, fresh dill, lemon squeeze, Bragg nutritional yeast (9g)",
+     "calories": 363,
+     "protein_g": 54,
+     "carbs_g": 18,
+     "fat_g": 7,
+     "confidence": "medium"
     }
    ]
   }
