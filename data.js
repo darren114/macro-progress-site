@@ -9797,10 +9797,10 @@ window.MACRO_DATA = {
   },
   "2026-10-14": {
    "date": "2026-10-14",
-   "calories": 500,
-   "protein_g": 79,
-   "carbs_g": 42,
-   "fat_g": 1,
+   "calories": 1079,
+   "protein_g": 131,
+   "carbs_g": 91,
+   "fat_g": 18,
    "meals": [
     {
      "time": "morning",
@@ -9819,6 +9819,15 @@ window.MACRO_DATA = {
      "carbs_g": 32,
      "fat_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie dark meat chicken, skin removed (173g), cooked jasmine rice (174g)",
+     "calories": 579,
+     "protein_g": 52,
+     "carbs_g": 49,
+     "fat_g": 17,
+     "confidence": "high"
     }
    ]
   }
