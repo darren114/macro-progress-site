@@ -9716,10 +9716,10 @@ window.MACRO_DATA = {
   },
   "2026-10-13": {
    "date": "2026-10-13",
-   "calories": 849,
-   "protein_g": 149,
-   "carbs_g": 27,
-   "fat_g": 13,
+   "calories": 882,
+   "protein_g": 147,
+   "carbs_g": 39,
+   "fat_g": 12,
    "meals": [
     {
      "time": "morning",
@@ -9760,10 +9760,10 @@ window.MACRO_DATA = {
     {
      "time": "snack",
      "description": "People's Choice Hot & Spicy Beef Jerky (46g)",
-     "calories": 148,
-     "protein_g": 25,
-     "carbs_g": 0,
-     "fat_g": 4,
+     "calories": 181,
+     "protein_g": 23,
+     "carbs_g": 12,
+     "fat_g": 3,
      "confidence": "high"
     }
    ]
