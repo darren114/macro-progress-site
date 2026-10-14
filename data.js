@@ -9716,9 +9716,9 @@ window.MACRO_DATA = {
   },
   "2026-10-13": {
    "date": "2026-10-13",
-   "calories": 1185,
+   "calories": 1235,
    "protein_g": 198,
-   "carbs_g": 51,
+   "carbs_g": 65,
    "fat_g": 16,
    "meals": [
     {
@@ -9780,7 +9780,16 @@ window.MACRO_DATA = {
      "description": "Kirkland nonfat Greek yogurt (220g) with apricot jam (1 tsp)",
      "calories": 146,
      "protein_g": 23,
-     "carbs_g": 12,
+     "carbs_g": 13,
+     "fat_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Apricot jam (1 tbsp)",
+     "calories": 50,
+     "protein_g": 0,
+     "carbs_g": 13,
      "fat_g": 0,
      "confidence": "medium"
     }
