@@ -9716,10 +9716,10 @@ window.MACRO_DATA = {
   },
   "2026-10-13": {
    "date": "2026-10-13",
-   "calories": 1218,
-   "protein_g": 198,
-   "carbs_g": 61,
-   "fat_g": 16,
+   "calories": 1605,
+   "protein_g": 239,
+   "carbs_g": 90,
+   "fat_g": 33,
    "meals": [
     {
      "time": "morning",
@@ -9783,6 +9783,15 @@ window.MACRO_DATA = {
      "carbs_g": 22,
      "fat_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Sandwich: Thomas Plain Bagel Thins (1, 46g), Costco low net carb breaded chicken strips (193g frozen), Trader Joe's Buttermilk Ranch (2 tbsp), tomato, butter lettuce",
+     "calories": 387,
+     "protein_g": 41,
+     "carbs_g": 29,
+     "fat_g": 17,
+     "confidence": "medium"
     }
    ]
   }
