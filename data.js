@@ -9794,6 +9794,33 @@ window.MACRO_DATA = {
      "confidence": "medium"
     }
    ]
+  },
+  "2026-10-14": {
+   "date": "2026-10-14",
+   "calories": 500,
+   "protein_g": 79,
+   "carbs_g": 42,
+   "fat_g": 1,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Fairlife fat free milk (354g) with Transparent Labs Chocolate Protein (1 scoop)",
+     "calories": 248,
+     "protein_g": 47,
+     "carbs_g": 10,
+     "fat_g": 1,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Kirkland nonfat Greek yogurt (301g) with apricot jam (30g)",
+     "calories": 252,
+     "protein_g": 32,
+     "carbs_g": 32,
+     "fat_g": 0,
+     "confidence": "medium"
+    }
+   ]
   }
  },
  "WEIGHT_DAILY": [
