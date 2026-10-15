@@ -9867,10 +9867,10 @@ window.MACRO_DATA = {
   },
   "2026-10-15": {
    "date": "2026-10-15",
-   "calories": 1160,
-   "protein_g": 121.2,
-   "carbs_g": 115,
-   "fat_g": 24.099999999999998,
+   "calories": 1190,
+   "protein_g": 121.7,
+   "carbs_g": 115.5,
+   "fat_g": 27.099999999999998,
    "meals": [
     {
      "time": "morning",
@@ -9906,6 +9906,15 @@ window.MACRO_DATA = {
      "protein_g": 53.7,
      "carbs_g": 42,
      "fat_g": 6.2,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Trader Joe's Green Goddess-style dressing (1 tbsp, 15g, added to rice)",
+     "calories": 30,
+     "protein_g": 0.5,
+     "carbs_g": 0.5,
+     "fat_g": 3,
      "confidence": "high"
     }
    ]
