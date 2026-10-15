@@ -9797,10 +9797,10 @@ window.MACRO_DATA = {
   },
   "2026-10-14": {
    "date": "2026-10-14",
-   "calories": 1079,
-   "protein_g": 131,
-   "carbs_g": 91,
-   "fat_g": 18,
+   "calories": 2224,
+   "protein_g": 201,
+   "carbs_g": 250,
+   "fat_g": 43,
    "meals": [
     {
      "time": "morning",
@@ -9828,6 +9828,33 @@ window.MACRO_DATA = {
      "carbs_g": 49,
      "fat_g": 17,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Yuanbao Jiaozi: Shiitake mushroom & sole fish dumplings (7 pcs, 231g @ 33g each)",
+     "calories": 347,
+     "protein_g": 16,
+     "carbs_g": 55,
+     "fat_g": 7,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Yuanbao Jiaozi: Shredded potato salad (\u571f\u8c46\u7d72), 53g eaten",
+     "calories": 80,
+     "protein_g": 1,
+     "carbs_g": 11,
+     "fat_g": 3,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Yuanbao Jiaozi: House special beef noodle soup -- noodles (347g), beef (95g), broth (~250g est.)",
+     "calories": 718,
+     "protein_g": 53,
+     "carbs_g": 93,
+     "fat_g": 15,
+     "confidence": "medium"
     }
    ]
   }
