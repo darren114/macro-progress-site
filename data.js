@@ -9910,7 +9910,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Trader Joe's Green Goddess-style dressing (1 tbsp, 15g, added to rice)",
+     "description": "Trader Joe's Vegan Creamy Dill Dressing (1 tbsp, 15g, added to rice)",
      "calories": 30,
      "protein_g": 0.5,
      "carbs_g": 0.5,
