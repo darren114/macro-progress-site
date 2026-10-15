@@ -9867,10 +9867,10 @@ window.MACRO_DATA = {
   },
   "2026-10-15": {
    "date": "2026-10-15",
-   "calories": 527,
-   "protein_g": 36,
+   "calories": 702,
+   "protein_g": 67.5,
    "carbs_g": 73,
-   "fat_g": 13.5,
+   "fat_g": 17.9,
    "meals": [
     {
      "time": "morning",
@@ -9889,6 +9889,15 @@ window.MACRO_DATA = {
      "carbs_g": 58,
      "fat_g": 9,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "People's Choice Original Beef Jerky, 49g",
+     "calories": 175,
+     "protein_g": 31.5,
+     "carbs_g": 0,
+     "fat_g": 4.4,
+     "confidence": "high"
     }
    ]
   }
