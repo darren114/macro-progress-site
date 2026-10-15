@@ -1729,7 +1729,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People's Choice - beef jerky carne seca, 1.3 oz; Poppi - Strawberry Lemon Prebiotic Soda, 1 can (12 fl oz); People’s choice - Old Fashioned Beef Jerky, 84 g",
+     "description": "People's Choice - beef jerky carne seca, 1.3 oz; Poppi - Strawberry Lemon Prebiotic Soda, 1 can (12 fl oz); People\u2019s choice - Old Fashioned Beef Jerky, 84 g",
      "calories": 434,
      "protein_g": 71,
      "carbs_g": 9,
@@ -1778,7 +1778,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 51 g; Apricot Jam, 24 gram(s); Kirkland Signature - Greek Yogurt, 250 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 51 g; Apricot Jam, 24 gram(s); Kirkland Signature - Greek Yogurt, 250 g",
      "calories": 383,
      "protein_g": 59,
      "carbs_g": 22,
@@ -1827,7 +1827,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 35 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 35 g",
      "calories": 125,
      "protein_g": 23,
      "carbs_g": 0,
@@ -1876,7 +1876,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 9 g; Watermelon And Feta Salad, 2 cup; People’s choice - Old Fashioned Beef Jerky, 50 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 9 g; Watermelon And Feta Salad, 2 cup; People\u2019s choice - Old Fashioned Beef Jerky, 50 g",
      "calories": 407,
      "protein_g": 41,
      "carbs_g": 26,
@@ -1964,7 +1964,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 61 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 61 g",
      "calories": 218,
      "protein_g": 39,
      "carbs_g": 0,
@@ -2022,7 +2022,7 @@ window.MACRO_DATA = {
    "meals": [
     {
      "time": "morning",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 56 g; Matcha Powder - Matcha, 2 tsp; Organic - Organic Protein Powder, 2 scoops",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 56 g; Matcha Powder - Matcha, 2 tsp; Organic - Organic Protein Powder, 2 scoops",
      "calories": 367,
      "protein_g": 57,
      "carbs_g": 19,
@@ -2052,7 +2052,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Kirkland Signature - Cottage Cheese, 201 g; People’s choice - Old Fashioned Beef Jerky, 46 g",
+     "description": "Kirkland Signature - Cottage Cheese, 201 g; People\u2019s choice - Old Fashioned Beef Jerky, 46 g",
      "calories": 325,
      "protein_g": 53,
      "carbs_g": 11,
@@ -2101,7 +2101,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 63 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 63 g",
      "calories": 225,
      "protein_g": 41,
      "carbs_g": 0,
@@ -2150,7 +2150,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 21 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 21 g",
      "calories": 75,
      "protein_g": 14,
      "carbs_g": 0,
@@ -2188,7 +2188,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; Lays - Potato Chips, 20 g; Sour cream, 20 g; Caviar, 1 tbsp; Olinas Bakehouse - Artisan Crackwrs, 25 gram; Pâté - Duck Liver Pâté, 50 gram; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Fat - Fats, 0.5 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram; Protein - Proteins, 3 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram",
+     "description": "1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; Lays - Potato Chips, 20 g; Sour cream, 20 g; Caviar, 1 tbsp; Olinas Bakehouse - Artisan Crackwrs, 25 gram; P\u00e2t\u00e9 - Duck Liver P\u00e2t\u00e9, 50 gram; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Fat - Fats, 0.5 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram; Protein - Proteins, 3 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram",
      "calories": 1098,
      "protein_g": 24,
      "carbs_g": 165,
@@ -2286,7 +2286,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 25 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 25 g",
      "calories": 89,
      "protein_g": 16,
      "carbs_g": 0,
@@ -2364,7 +2364,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Blueberries, 19 g; Apricot Jam, 9 gram(s); Kirkland Signature - Greek Yogurt, 146 g; People’s Choice - Hot and Spicy Beef Jerky, 44 g",
+     "description": "Blueberries, 19 g; Apricot Jam, 9 gram(s); Kirkland Signature - Greek Yogurt, 146 g; People\u2019s Choice - Hot and Spicy Beef Jerky, 44 g",
      "calories": 290,
      "protein_g": 37,
      "carbs_g": 24,
@@ -2452,7 +2452,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 60 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 60 g",
      "calories": 214,
      "protein_g": 39,
      "carbs_g": 0,
@@ -2501,7 +2501,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 69 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 69 g",
      "calories": 246,
      "protein_g": 44,
      "carbs_g": 0,
@@ -2726,7 +2726,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 15 g; People’s choice - Old Fashioned Beef Jerky, 51 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 15 g; People\u2019s choice - Old Fashioned Beef Jerky, 51 g",
      "calories": 236,
      "protein_g": 43,
      "carbs_g": 0,
@@ -2812,7 +2812,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 64 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 64 g",
      "calories": 229,
      "protein_g": 41,
      "carbs_g": 0,
@@ -2860,7 +2860,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s Choice - Hot and Spicy Beef Jerky, 43 g",
+     "description": "People\u2019s Choice - Hot and Spicy Beef Jerky, 43 g",
      "calories": 169,
      "protein_g": 22,
      "carbs_g": 11,
@@ -2909,7 +2909,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 154,
      "protein_g": 28,
      "carbs_g": 0,
@@ -2957,7 +2957,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 40 g; Kirkland Signature - Greek Yogurt, 165 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 40 g; Kirkland Signature - Greek Yogurt, 165 g",
      "calories": 237,
      "protein_g": 43,
      "carbs_g": 5,
@@ -3035,7 +3035,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Homemade - Onion, Sauteed, No Oil , 30 milliliter; Yuho - Konjac Noodles, 75 g; Atlanta Meal Prep - Sautéed Shredded Cabbage, 75 gram; Sauteed carrots, 50 g; Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan Fried, 201 g (one fillet)",
+     "description": "Homemade - Onion, Sauteed, No Oil , 30 milliliter; Yuho - Konjac Noodles, 75 g; Atlanta Meal Prep - Saut\u00e9ed Shredded Cabbage, 75 gram; Sauteed carrots, 50 g; Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan Fried, 201 g (one fillet)",
      "calories": 314,
      "protein_g": 41,
      "carbs_g": 12,
@@ -3073,7 +3073,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Sauteed carrots, 45 g; Homemade - Onion, Sauteed, No Oil , 25 milliliter; Yuho - Konjac Noodles, 60 g; Atlanta Meal Prep - Sautéed Shredded Cabbage, 60 gram Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan; Fried, 150 g (one fillet)",
+     "description": "Sauteed carrots, 45 g; Homemade - Onion, Sauteed, No Oil , 25 milliliter; Yuho - Konjac Noodles, 60 g; Atlanta Meal Prep - Saut\u00e9ed Shredded Cabbage, 60 gram Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan; Fried, 150 g (one fillet)",
      "calories": 240,
      "protein_g": 30,
      "carbs_g": 9,
@@ -3218,7 +3218,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "MGL - Fairlife Milk nonfat cup, 111 milliliter; Choc Zero - Baking Chips, 0.5 tbsp; Transparent Labs - Chocolate Protein, 25 gram; Homemade - Costco Rotisserie Chicken Bone Broth, 0.5 Cups; Costco - Cooked Rotisserie Chicken, 20 gram; Carrots, boiled, 40 g; Costco - Cooked Rotisserie Chicken, 155 gram; People’s Choice - Hot and Spicy Beef Jerky, 43 g",
+     "description": "MGL - Fairlife Milk nonfat cup, 111 milliliter; Choc Zero - Baking Chips, 0.5 tbsp; Transparent Labs - Chocolate Protein, 25 gram; Homemade - Costco Rotisserie Chicken Bone Broth, 0.5 Cups; Costco - Cooked Rotisserie Chicken, 20 gram; Carrots, boiled, 40 g; Costco - Cooked Rotisserie Chicken, 155 gram; People\u2019s Choice - Hot and Spicy Beef Jerky, 43 g",
      "calories": 614,
      "protein_g": 84,
      "carbs_g": 21,
@@ -3267,7 +3267,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 50 g; People’s choice - Old Fashioned Beef Jerky, 41 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 50 g; People\u2019s choice - Old Fashioned Beef Jerky, 41 g",
      "calories": 325,
      "protein_g": 58,
      "carbs_g": 0,
@@ -3355,7 +3355,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Cashews, roasted, unsalted, 30 pieces; Fly by Jing - Chili Crisp Salmon Skin, 17 g; Fly by Jing - Chili Crisp Salmon Skin, 2 pieces; Choc Zero - Baking Chips, 1.25 tbsp; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People’s choice - Old Fashioned Beef Jerky, 23 g; Sugar snap peas, raw, 50 gram; RedHat - Cucumber, 70 g; Celery, 40 gram(s)",
+     "description": "Cashews, roasted, unsalted, 30 pieces; Fly by Jing - Chili Crisp Salmon Skin, 17 g; Fly by Jing - Chili Crisp Salmon Skin, 2 pieces; Choc Zero - Baking Chips, 1.25 tbsp; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 23 g; Sugar snap peas, raw, 50 gram; RedHat - Cucumber, 70 g; Celery, 40 gram(s)",
      "calories": 767,
      "protein_g": 53,
      "carbs_g": 37,
@@ -3403,7 +3403,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; People’s choice - Old Fashioned Beef Jerky, 61 g",
+     "description": "Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; People\u2019s choice - Old Fashioned Beef Jerky, 61 g",
      "calories": 618,
      "protein_g": 39,
      "carbs_g": 100,
@@ -3656,7 +3656,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 36 g; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People’s choice - Old Fashioned Beef Jerky, 52 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 36 g; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People\u2019s choice - Old Fashioned Beef Jerky, 52 g",
      "calories": 612,
      "protein_g": 107,
      "carbs_g": 7,
@@ -3754,7 +3754,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Churro, 1 mini; People’s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "Churro, 1 mini; People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 217,
      "protein_g": 29,
      "carbs_g": 7,
@@ -3987,7 +3987,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "1g - Carbs, 19 gram; The Snak Yard - Organic Shiitake Mushroom, 31 g; Choc Zero - Baking Chips, 2 tbsp; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People’s Choice - Hot and Spicy Beef Jerky, 20 g; People’s Choice - Hot and Spicy Beef Jerky, 43 g",
+     "description": "1g - Carbs, 19 gram; The Snak Yard - Organic Shiitake Mushroom, 31 g; Choc Zero - Baking Chips, 2 tbsp; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People\u2019s Choice - Hot and Spicy Beef Jerky, 20 g; People\u2019s Choice - Hot and Spicy Beef Jerky, 43 g",
      "calories": 895,
      "protein_g": 87,
      "carbs_g": 78,
@@ -4035,7 +4035,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Chinese bbq pork - BBQ pork, 68 gram; Chinese bbq pork - BBQ pork, 84 gram; People’s Choice - Hot and Spicy Beef Jerky, 54 g",
+     "description": "Chinese bbq pork - BBQ pork, 68 gram; Chinese bbq pork - BBQ pork, 84 gram; People\u2019s Choice - Hot and Spicy Beef Jerky, 54 g",
      "calories": 462,
      "protein_g": 52,
      "carbs_g": 34,
@@ -4200,7 +4200,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 222 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 1 scoop; People’s choice - Old Fashioned Beef Jerky, 30 g",
+     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 222 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 1 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 30 g",
      "calories": 347,
      "protein_g": 56,
      "carbs_g": 8,
@@ -4248,7 +4248,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 62.2 g; Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g; Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop",
      "calories": 416,
      "protein_g": 69,
      "carbs_g": 6,
@@ -4296,7 +4296,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Protein - Proteins, 18 gram; Fat - Fats, 11 gram; People’s choice - Old Fashioned Beef Jerky, 62.2 g; David - Peanut Butter Chocolate Chunk Flavored Bar, 1 bar",
+     "description": "Protein - Proteins, 18 gram; Fat - Fats, 11 gram; People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g; David - Peanut Butter Chocolate Chunk Flavored Bar, 1 bar",
      "calories": 543,
      "protein_g": 86,
      "carbs_g": 12,
@@ -4390,7 +4390,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 62.2 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g",
      "calories": 222,
      "protein_g": 40,
      "carbs_g": 0,
@@ -4409,7 +4409,7 @@ window.MACRO_DATA = {
    "meals": [
     {
      "time": "morning",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 62.2 g; Matcha Powder - Matcha, 2 tsp; Transparent Labs - Chocolate Protein, 35 grams",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g; Matcha Powder - Matcha, 2 tsp; Transparent Labs - Chocolate Protein, 35 grams",
      "calories": 369,
      "protein_g": 68,
      "carbs_g": 5,
@@ -4516,7 +4516,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Fat - Fats, 4 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop; People’s choice - Old Fashioned Beef Jerky, 62.2 g",
+     "description": "Fat - Fats, 4 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g",
      "calories": 407,
      "protein_g": 69,
      "carbs_g": 6,
@@ -4613,7 +4613,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Wine Carbs for Macro - Wine, 5 oz; Apricot Jam, 16 gram(s); Kirkland Signature - Greek Yogurt, 240 g; People’s Choice - Hot and Spicy Beef Jerky, 54 g",
+     "description": "Wine Carbs for Macro - Wine, 5 oz; Apricot Jam, 16 gram(s); Kirkland Signature - Greek Yogurt, 240 g; People\u2019s Choice - Hot and Spicy Beef Jerky, 54 g",
      "calories": 513,
      "protein_g": 52,
      "carbs_g": 62,
@@ -4652,7 +4652,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People’s choice - Old Fashioned Beef Jerky, 36 g",
+     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 36 g",
      "calories": 272,
      "protein_g": 42,
      "carbs_g": 4,
@@ -4747,7 +4747,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 154,
      "protein_g": 28,
      "carbs_g": 0,
@@ -4844,7 +4844,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Cashews, roasted, unsalted, 18 pieces; Better Body PBFit - PBFit Powder, 2 Tbsp; People’s choice - Old Fashioned Beef Jerky, 48 g",
+     "description": "Cashews, roasted, unsalted, 18 pieces; Better Body PBFit - PBFit Powder, 2 Tbsp; People\u2019s choice - Old Fashioned Beef Jerky, 48 g",
      "calories": 379,
      "protein_g": 41,
      "carbs_g": 13,
@@ -4990,7 +4990,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; People’s Choice - Hot and Spicy Beef Jerky, 30 g; People’s choice - Old Fashioned Beef Jerky, 30 g; Fat - Fats, 5 gram; Iso100 - Fruity Pebbles Protein Powder, 1 scoop",
+     "description": "Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; People\u2019s Choice - Hot and Spicy Beef Jerky, 30 g; People\u2019s choice - Old Fashioned Beef Jerky, 30 g; Fat - Fats, 5 gram; Iso100 - Fruity Pebbles Protein Powder, 1 scoop",
      "calories": 453,
      "protein_g": 71,
      "carbs_g": 15,
@@ -5038,7 +5038,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "1g - Carbs, 2.5 gram; Fat - Fats, 3 gram; Protein - Proteins, 1.5 gram; People’s choice - Old Fashioned Beef Jerky, 62 g",
+     "description": "1g - Carbs, 2.5 gram; Fat - Fats, 3 gram; Protein - Proteins, 1.5 gram; People\u2019s choice - Old Fashioned Beef Jerky, 62 g",
      "calories": 264,
      "protein_g": 42,
      "carbs_g": 3,
@@ -5115,7 +5115,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "1g - Carbs, 27 gram; Athena’s reduced fat feta - Reduced-fat Feta, 18 gram; Grape tomatoes, 7 tomato; Persian Cucumber, 1 miniature; Grilled chicken thigh, no skin, 150 g; Kirkland Signature - Greek Yogurt, 100 g",
+     "description": "1g - Carbs, 27 gram; Athena\u2019s reduced fat feta - Reduced-fat Feta, 18 gram; Grape tomatoes, 7 tomato; Persian Cucumber, 1 miniature; Grilled chicken thigh, no skin, 150 g; Kirkland Signature - Greek Yogurt, 100 g",
      "calories": 506,
      "protein_g": 49,
      "carbs_g": 35,
@@ -5134,7 +5134,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 62 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
      "calories": 449,
      "protein_g": 77,
      "carbs_g": 8,
@@ -5163,7 +5163,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Grilled chicken thigh, no skin, 140 g; Athena’s reduced fat feta - Reduced-fat Feta, 18 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Olive oil, 0.5 tsp",
+     "description": "Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Grilled chicken thigh, no skin, 140 g; Athena\u2019s reduced fat feta - Reduced-fat Feta, 18 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Olive oil, 0.5 tsp",
      "calories": 413,
      "protein_g": 48,
      "carbs_g": 11,
@@ -5173,7 +5173,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "Wild Planet - Wild Sardine, 3 ounces; Athena’s reduced fat feta - Reduced-fat Feta, 21 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature",
+     "description": "Wild Planet - Wild Sardine, 3 ounces; Athena\u2019s reduced fat feta - Reduced-fat Feta, 21 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature",
      "calories": 269,
      "protein_g": 33,
      "carbs_g": 11,
@@ -5183,7 +5183,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s Choice - Hot and Spicy Beef Jerky, 45 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
+     "description": "People\u2019s Choice - Hot and Spicy Beef Jerky, 45 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
      "calories": 405,
      "protein_g": 60,
      "carbs_g": 19,
@@ -5212,7 +5212,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Athena’s reduced fat feta - Reduced-fat Feta, 21 gram; Olive oil, 0.5 tsp; Grilled chicken thigh, no skin, 140 g; Dark meat chicken - Dark Meat Chicken, 156 gram",
+     "description": "Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Athena\u2019s reduced fat feta - Reduced-fat Feta, 21 gram; Olive oil, 0.5 tsp; Grilled chicken thigh, no skin, 140 g; Dark meat chicken - Dark Meat Chicken, 156 gram",
      "calories": 738,
      "protein_g": 91,
      "carbs_g": 11,
@@ -5260,7 +5260,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Costco...victoria's - Rotisserie Chicken - White Meat- Packaged, 156 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature; Athena’s reduced fat feta - Reduced-fat Feta, 21 gram",
+     "description": "Costco...victoria's - Rotisserie Chicken - White Meat- Packaged, 156 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature; Athena\u2019s reduced fat feta - Reduced-fat Feta, 21 gram",
      "calories": 331,
      "protein_g": 54,
      "carbs_g": 11,
@@ -5280,7 +5280,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People’s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 154,
      "protein_g": 28,
      "carbs_g": 0,
@@ -5694,7 +5694,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "evening",
-     "description": "Omakase dinner at Hibari (Portola Valley) -- 尾瀬の雪どけ Junmai Daiginjo sake (4 small cups), saba oshizushi, eggplant dashi-rice, sashimi assortment (tuna/bonito, squid, white fish); tofu+uni, kampachi sashimi, soy-simmered octopus, dobin mushi (broth+fish/shrimp/mushroom), fried whole fish+vegetable+herb tartar, rock cod+kabocha+shishito; freshwater eel, egg drop soup+rice, red bean paste pastry",
+     "description": "Omakase dinner at Hibari (Portola Valley) -- \u5c3e\u702c\u306e\u96ea\u3069\u3051 Junmai Daiginjo sake (4 small cups), saba oshizushi, eggplant dashi-rice, sashimi assortment (tuna/bonito, squid, white fish); tofu+uni, kampachi sashimi, soy-simmered octopus, dobin mushi (broth+fish/shrimp/mushroom), fried whole fish+vegetable+herb tartar, rock cod+kabocha+shishito; freshwater eel, egg drop soup+rice, red bean paste pastry",
      "calories": 1237,
      "protein_g": 82,
      "carbs_g": 135.5,
@@ -7145,7 +7145,7 @@ window.MACRO_DATA = {
    "meals": [
     {
      "time": "morning",
-     "description": "Fage yogurt (Αγελαδίτσα, 4% fat), full 200g container",
+     "description": "Fage yogurt (\u0391\u03b3\u03b5\u03bb\u03b1\u03b4\u03af\u03c4\u03c3\u03b1, 4% fat), full 200g container",
      "calories": 160,
      "protein_g": 9,
      "carbs_g": 13,
@@ -9838,7 +9838,7 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "Yuanbao Jiaozi: Shredded potato salad (土豆絲), 53g eaten",
+     "description": "Yuanbao Jiaozi: Shredded potato salad (\u571f\u8c46\u7d72), 53g eaten",
      "calories": 80,
      "protein_g": 1,
      "carbs_g": 11,
@@ -9867,10 +9867,10 @@ window.MACRO_DATA = {
   },
   "2026-10-15": {
    "date": "2026-10-15",
-   "calories": 150,
-   "protein_g": 21,
-   "carbs_g": 15,
-   "fat_g": 4.5,
+   "calories": 527,
+   "protein_g": 36,
+   "carbs_g": 73,
+   "fat_g": 13.5,
    "meals": [
     {
      "time": "morning",
@@ -9880,6 +9880,15 @@ window.MACRO_DATA = {
      "carbs_g": 15,
      "fat_g": 4.5,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Yuanbao Jiaozi: Shiitake mushroom & sole fish dumplings (6 pcs, 198g @ 33g each) + Shredded potato salad (\u571f\u8c46\u7d72), 53g eaten",
+     "calories": 377,
+     "protein_g": 15,
+     "carbs_g": 58,
+     "fat_g": 9,
+     "confidence": "medium"
     }
    ]
   }
