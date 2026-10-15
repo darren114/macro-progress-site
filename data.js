@@ -9867,10 +9867,10 @@ window.MACRO_DATA = {
   },
   "2026-10-15": {
    "date": "2026-10-15",
-   "calories": 702,
-   "protein_g": 67.5,
-   "carbs_g": 73,
-   "fat_g": 17.9,
+   "calories": 1096,
+   "protein_g": 111.5,
+   "carbs_g": 115,
+   "fat_g": 22.4,
    "meals": [
     {
      "time": "morning",
@@ -9898,6 +9898,15 @@ window.MACRO_DATA = {
      "carbs_g": 0,
      "fat_g": 4.4,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie chicken white meat (160g) + cooked rice (150g)",
+     "calories": 394,
+     "protein_g": 44,
+     "carbs_g": 42,
+     "fat_g": 4.5,
+     "confidence": "medium"
     }
    ]
   }
