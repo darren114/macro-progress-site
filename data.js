@@ -9797,9 +9797,9 @@ window.MACRO_DATA = {
   },
   "2026-10-14": {
    "date": "2026-10-14",
-   "calories": 2224,
+   "calories": 2540,
    "protein_g": 201,
-   "carbs_g": 250,
+   "carbs_g": 328,
    "fat_g": 43,
    "meals": [
     {
@@ -9855,6 +9855,15 @@ window.MACRO_DATA = {
      "carbs_g": 93,
      "fat_g": 15,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "UMe Grape Green Tea w/ Tea Jelly (large, 70% sugar, green tea jelly + sago, light ice)",
+     "calories": 316,
+     "protein_g": 0,
+     "carbs_g": 78,
+     "fat_g": 0,
+     "confidence": "low"
     }
    ]
   }
