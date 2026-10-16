@@ -434,29 +434,11 @@
   // Weekly-average waist, backfilled from logs/weekly_reports.csv's waist column -- same
   // program weeks/dates as WEIGHT_HISTORY, including the same week-1-not-0 display offset
   // for the first entry (see CLAUDE.md).
-  const WAIST_HISTORY = [
-    {date:"2026-05-22", week:1,  waist_in:34.5},
-    {date:"2026-05-29", week:2,  waist_in:33.94},
-    {date:"2026-06-05", week:3,  waist_in:35.38},
-    {date:"2026-06-11", week:4,  waist_in:34.25},
-    {date:"2026-06-18", week:5,  waist_in:33.62},
-    {date:"2026-06-25", week:6,  waist_in:33.44},
-    {date:"2026-07-02", week:7,  waist_in:33.5},
-    {date:"2026-07-09", week:8,  waist_in:32.81},
-    {date:"2026-07-17", week:9,  waist_in:32.62},
-    {date:"2026-07-24", week:10, waist_in:32.31},
-    {date:"2026-07-30", week:11, waist_in:32.06},
-    {date:"2026-08-06", week:12, waist_in:31.375},
-    {date:"2026-08-14", week:13, waist_in:31.06},
-    {date:"2026-08-20", week:14, waist_in:30.4375},
-    {date:"2026-08-28", week:15, waist_in:30.25},
-    {date:"2026-09-04", week:16, waist_in:30.00},
-    {date:"2026-09-11", week:17, waist_in:29.81},
-    {date:"2026-09-19", week:18, waist_in:29.69},
-    {date:"2026-09-26", week:19, waist_in:29.56},
-    {date:"2026-10-02", week:20, waist_in:30.3125},
-    {date:"2026-10-09", week:21, waist_in:30.5625}
-  ];
+  // Sourced from window.MACRO_DATA.MEASUREMENTS (logs/measurements.csv via
+  // scripts/sync-site/generate-data.mjs) -- do not hand-edit, see CLAUDE.md.
+  const WAIST_HISTORY = (window.MACRO_DATA.MEASUREMENTS || [])
+    .filter(m => m.waist_in != null)
+    .map(m => ({date: m.date, waist_in: m.waist_in}));
 
   // Daily step count, backfilled 2026-09-15 from Darren's Apple Health export via
   // scripts/apple-health-export/ (extract_records.py + aggregate_steps.py), reconciling
