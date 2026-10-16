@@ -9928,6 +9928,56 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 10
+  },
+  "2026-10-16": {
+   "date": "2026-10-16",
+   "calories": 653,
+   "protein_g": 59.1,
+   "carbs_g": 48.1,
+   "fat_g": 27.6,
+   "fiber_g": 7.9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), Creamy Chocolate Fudge, 2 scoops (46g) mixed w/ water",
+     "calories": 150,
+     "protein_g": 21,
+     "carbs_g": 15,
+     "fat_g": 4.5,
+     "fiber_g": 7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Matcha (2 tsp)",
+     "calories": 17,
+     "protein_g": 0,
+     "carbs_g": 4,
+     "fat_g": 0,
+     "fiber_g": 0.5,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie chicken dark meat, with skin (151g) + cooked jasmine rice (102g)",
+     "calories": 456,
+     "protein_g": 37.6,
+     "carbs_g": 28.6,
+     "fat_g": 20.1,
+     "fiber_g": 0.4,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Trader Joe's Vegan Creamy Dill Dressing (1 tbsp, 15g, added to rice)",
+     "calories": 30,
+     "protein_g": 0.5,
+     "carbs_g": 0.5,
+     "fat_g": 3,
+     "fiber_g": 0,
+     "confidence": "high"
+    }
+   ]
   }
  },
  "WEIGHT_DAILY": [
