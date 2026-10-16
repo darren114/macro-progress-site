@@ -9828,26 +9828,6 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 7.9
-  },
-  "2099-01-01": {
-   "date": "2099-01-01",
-   "calories": 1,
-   "protein_g": 0,
-   "carbs_g": 0,
-   "fat_g": 0,
-   "meals": [
-    {
-     "time": "snack",
-     "description": "CI test row - safe to ignore, will be removed",
-     "calories": 1,
-     "protein_g": 0,
-     "carbs_g": 0,
-     "fat_g": 0,
-     "fiber_g": 0,
-     "confidence": "high"
-    }
-   ],
-   "fiber_g": 0
   }
  },
  "WEIGHT_DAILY": [
