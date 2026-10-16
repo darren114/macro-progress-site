@@ -9867,10 +9867,10 @@ window.MACRO_DATA = {
   },
   "2026-10-15": {
    "date": "2026-10-15",
-   "calories": 2145,
-   "protein_g": 190.7,
-   "carbs_g": 207.5,
-   "fat_g": 66.1,
+   "calories": 2345,
+   "protein_g": 199.7,
+   "carbs_g": 221.5,
+   "fat_g": 77.1,
    "meals": [
     {
      "time": "morning",
@@ -9919,15 +9919,15 @@ window.MACRO_DATA = {
     },
     {
      "name": "Dinner",
-     "description": "Dash Japanese Tapas: agedashi tofu (1pc) + chicken cartilage karaage, sashimi/salad items, negitoro rolls x2, spicy tuna/salmon roll+chip+avocado, spicy salmon roll, chanko nabe (chicken/udon/bokchoy/beef ball), mentaiko udon, unagi fried rice x2",
-     "calories": 955,
-     "protein_g": 69,
-     "carbs_g": 92,
-     "fat_g": 39,
-     "fiber_g": 8
+     "description": "Dash Japanese Tapas: agedashi tofu (1pc) + chicken cartilage karaage, sashimi/salad items, negitoro rolls x2, spicy tuna/salmon roll+chip+avocado, spicy salmon roll, chanko nabe (chicken/udon/bokchoy/beef ball), mentaiko udon, unagi fried rice x2, sushi taco (crispy shell w/ diced tuna/salmon, tomato, onion, avocado, sauce)",
+     "calories": 1155,
+     "protein_g": 78,
+     "carbs_g": 106,
+     "fat_g": 50,
+     "fiber_g": 10
     }
    ],
-   "fiber_g": 8
+   "fiber_g": 10
   }
  },
  "WEIGHT_DAILY": [
