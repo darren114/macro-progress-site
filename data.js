@@ -1,3 +1,6 @@
+// GENERATED FILE -- do not hand-edit. Run:
+//   node scripts/sync-site/generate-data.mjs
+// from the macro-tracker repo root. Source of truth is logs/*.csv.
 window.MACRO_DATA = {
  "TARGETS_HISTORY": [
   {
@@ -151,7 +154,6 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 65,
      "fat_g": 32,
-     "fiber_g": 6.1,
      "confidence": "high"
     },
     {
@@ -161,7 +163,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 54,
      "fat_g": 14,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -171,7 +172,6 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 26,
      "fat_g": 29,
-     "fiber_g": 9.4,
      "confidence": "high"
     }
    ]
@@ -190,7 +190,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 22,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -200,7 +199,6 @@ window.MACRO_DATA = {
      "protein_g": 63,
      "carbs_g": 70,
      "fat_g": 38,
-     "fiber_g": 14.8,
      "confidence": "high"
     },
     {
@@ -210,7 +208,6 @@ window.MACRO_DATA = {
      "protein_g": 42,
      "carbs_g": 98,
      "fat_g": 17,
-     "fiber_g": 5.1,
      "confidence": "high"
     },
     {
@@ -220,7 +217,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 53,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -239,7 +235,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -249,7 +244,6 @@ window.MACRO_DATA = {
      "protein_g": 51,
      "carbs_g": 24,
      "fat_g": 22,
-     "fiber_g": 3.6,
      "confidence": "high"
     },
     {
@@ -259,7 +253,6 @@ window.MACRO_DATA = {
      "protein_g": 83,
      "carbs_g": 43,
      "fat_g": 28,
-     "fiber_g": 2.8,
      "confidence": "high"
     },
     {
@@ -269,7 +262,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -288,7 +280,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -298,7 +289,6 @@ window.MACRO_DATA = {
      "protein_g": 46,
      "carbs_g": 39,
      "fat_g": 37,
-     "fiber_g": 5.3,
      "confidence": "high"
     },
     {
@@ -308,7 +298,6 @@ window.MACRO_DATA = {
      "protein_g": 80,
      "carbs_g": 252,
      "fat_g": 72,
-     "fiber_g": 3.6,
      "confidence": "high"
     },
     {
@@ -318,7 +307,6 @@ window.MACRO_DATA = {
      "protein_g": 27,
      "carbs_g": 15,
      "fat_g": 9,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -337,7 +325,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -347,7 +334,6 @@ window.MACRO_DATA = {
      "protein_g": 52,
      "carbs_g": 143,
      "fat_g": 29,
-     "fiber_g": 3.9,
      "confidence": "high"
     },
     {
@@ -357,7 +343,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 49,
      "fat_g": 21,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -367,7 +352,6 @@ window.MACRO_DATA = {
      "protein_g": 60,
      "carbs_g": 31,
      "fat_g": 26,
-     "fiber_g": 11,
      "confidence": "high"
     }
    ]
@@ -386,7 +370,6 @@ window.MACRO_DATA = {
      "protein_g": 41,
      "carbs_g": 17,
      "fat_g": 25,
-     "fiber_g": 14,
      "confidence": "high"
     },
     {
@@ -396,7 +379,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 7,
      "fat_g": 22,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -406,7 +388,6 @@ window.MACRO_DATA = {
      "protein_g": 85,
      "carbs_g": 106,
      "fat_g": 36,
-     "fiber_g": 7.1,
      "confidence": "high"
     }
    ]
@@ -425,7 +406,6 @@ window.MACRO_DATA = {
      "protein_g": 58,
      "carbs_g": 81,
      "fat_g": 19,
-     "fiber_g": 4.2,
      "confidence": "high"
     },
     {
@@ -435,7 +415,6 @@ window.MACRO_DATA = {
      "protein_g": 90,
      "carbs_g": 177,
      "fat_g": 71,
-     "fiber_g": 6.5,
      "confidence": "high"
     },
     {
@@ -445,7 +424,6 @@ window.MACRO_DATA = {
      "protein_g": 50,
      "carbs_g": 34,
      "fat_g": 21,
-     "fiber_g": 7.4,
      "confidence": "high"
     }
    ]
@@ -464,7 +442,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 5,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -474,7 +451,6 @@ window.MACRO_DATA = {
      "protein_g": 71,
      "carbs_g": 43,
      "fat_g": 29,
-     "fiber_g": 1.3,
      "confidence": "high"
     },
     {
@@ -484,7 +460,6 @@ window.MACRO_DATA = {
      "protein_g": 71,
      "carbs_g": 58,
      "fat_g": 52,
-     "fiber_g": 4.1,
      "confidence": "high"
     }
    ]
@@ -503,7 +478,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 22,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -513,7 +487,6 @@ window.MACRO_DATA = {
      "protein_g": 46,
      "carbs_g": 57,
      "fat_g": 26,
-     "fiber_g": 0.7,
      "confidence": "high"
     },
     {
@@ -523,7 +496,6 @@ window.MACRO_DATA = {
      "protein_g": 71,
      "carbs_g": 108,
      "fat_g": 52,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -533,7 +505,6 @@ window.MACRO_DATA = {
      "protein_g": 27,
      "carbs_g": 5,
      "fat_g": 12,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -552,7 +523,6 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 44,
      "fat_g": 20,
-     "fiber_g": 7.2,
      "confidence": "high"
     },
     {
@@ -562,7 +532,6 @@ window.MACRO_DATA = {
      "protein_g": 46,
      "carbs_g": 57,
      "fat_g": 26,
-     "fiber_g": 0.7,
      "confidence": "high"
     },
     {
@@ -572,7 +541,6 @@ window.MACRO_DATA = {
      "protein_g": 69,
      "carbs_g": 40,
      "fat_g": 27,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -582,7 +550,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 27,
      "fat_g": 0,
-     "fiber_g": 3.1,
      "confidence": "high"
     }
    ]
@@ -601,7 +568,6 @@ window.MACRO_DATA = {
      "protein_g": 29,
      "carbs_g": 67,
      "fat_g": 8,
-     "fiber_g": 13.5,
      "confidence": "high"
     },
     {
@@ -611,7 +577,6 @@ window.MACRO_DATA = {
      "protein_g": 47,
      "carbs_g": 58,
      "fat_g": 27,
-     "fiber_g": 0.7,
      "confidence": "high"
     },
     {
@@ -621,7 +586,6 @@ window.MACRO_DATA = {
      "protein_g": 54,
      "carbs_g": 108,
      "fat_g": 39,
-     "fiber_g": 9.1,
      "confidence": "high"
     },
     {
@@ -649,7 +613,6 @@ window.MACRO_DATA = {
      "protein_g": 82,
      "carbs_g": 92,
      "fat_g": 37,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -659,7 +622,6 @@ window.MACRO_DATA = {
      "protein_g": 108,
      "carbs_g": 72,
      "fat_g": 25,
-     "fiber_g": 5.9,
      "confidence": "high"
     },
     {
@@ -669,7 +631,6 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 23,
      "fat_g": 7,
-     "fiber_g": 3.4,
      "confidence": "high"
     }
    ]
@@ -688,7 +649,6 @@ window.MACRO_DATA = {
      "protein_g": 56,
      "carbs_g": 43,
      "fat_g": 16,
-     "fiber_g": 9.1,
      "confidence": "high"
     },
     {
@@ -698,7 +658,6 @@ window.MACRO_DATA = {
      "protein_g": 48,
      "carbs_g": 111,
      "fat_g": 49,
-     "fiber_g": 2,
      "confidence": "high"
     },
     {
@@ -708,7 +667,6 @@ window.MACRO_DATA = {
      "protein_g": 44,
      "carbs_g": 155,
      "fat_g": 24,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -727,7 +685,6 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 21,
      "fat_g": 19,
-     "fiber_g": 0.3,
      "confidence": "high"
     },
     {
@@ -737,7 +694,6 @@ window.MACRO_DATA = {
      "protein_g": 53,
      "carbs_g": 50,
      "fat_g": 19,
-     "fiber_g": 0.7,
      "confidence": "high"
     },
     {
@@ -747,7 +703,6 @@ window.MACRO_DATA = {
      "protein_g": 50,
      "carbs_g": 29,
      "fat_g": 51,
-     "fiber_g": 0.4,
      "confidence": "high"
     }
    ]
@@ -766,7 +721,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 49,
      "fat_g": 6,
-     "fiber_g": 9.6,
      "confidence": "high"
     },
     {
@@ -776,7 +730,6 @@ window.MACRO_DATA = {
      "protein_g": 67,
      "carbs_g": 60,
      "fat_g": 27,
-     "fiber_g": 0.7,
      "confidence": "high"
     },
     {
@@ -786,7 +739,6 @@ window.MACRO_DATA = {
      "protein_g": 68,
      "carbs_g": 166,
      "fat_g": 72,
-     "fiber_g": 0.9,
      "confidence": "high"
     }
    ]
@@ -805,7 +757,6 @@ window.MACRO_DATA = {
      "protein_g": 118,
      "carbs_g": 152,
      "fat_g": 42,
-     "fiber_g": 2.3,
      "confidence": "high"
     },
     {
@@ -815,7 +766,6 @@ window.MACRO_DATA = {
      "protein_g": 8,
      "carbs_g": 38,
      "fat_g": 19,
-     "fiber_g": 2,
      "confidence": "high"
     },
     {
@@ -825,7 +775,6 @@ window.MACRO_DATA = {
      "protein_g": 47,
      "carbs_g": 21,
      "fat_g": 20,
-     "fiber_g": 3.5,
      "confidence": "high"
     }
    ]
@@ -844,7 +793,6 @@ window.MACRO_DATA = {
      "protein_g": 151,
      "carbs_g": 100,
      "fat_g": 31,
-     "fiber_g": 1.4,
      "confidence": "high"
     },
     {
@@ -854,7 +802,6 @@ window.MACRO_DATA = {
      "protein_g": 23,
      "carbs_g": 59,
      "fat_g": 20,
-     "fiber_g": 2.1,
      "confidence": "high"
     },
     {
@@ -864,7 +811,6 @@ window.MACRO_DATA = {
      "protein_g": 26,
      "carbs_g": 42,
      "fat_g": 14,
-     "fiber_g": 7,
      "confidence": "high"
     }
    ]
@@ -883,7 +829,6 @@ window.MACRO_DATA = {
      "protein_g": 85,
      "carbs_g": 32,
      "fat_g": 34,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -893,7 +838,6 @@ window.MACRO_DATA = {
      "protein_g": 63,
      "carbs_g": 32,
      "fat_g": 51,
-     "fiber_g": 3.2,
      "confidence": "high"
     },
     {
@@ -903,7 +847,6 @@ window.MACRO_DATA = {
      "protein_g": 17,
      "carbs_g": 48,
      "fat_g": 12,
-     "fiber_g": 5.7,
      "confidence": "high"
     },
     {
@@ -913,7 +856,6 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 78,
      "fat_g": 31,
-     "fiber_g": 8.9,
      "confidence": "high"
     }
    ]
@@ -932,7 +874,6 @@ window.MACRO_DATA = {
      "protein_g": 96,
      "carbs_g": 84,
      "fat_g": 50,
-     "fiber_g": 14.3,
      "confidence": "high"
     },
     {
@@ -942,7 +883,6 @@ window.MACRO_DATA = {
      "protein_g": 78,
      "carbs_g": 212,
      "fat_g": 87,
-     "fiber_g": 20.1,
      "confidence": "high"
     }
    ]
@@ -961,7 +901,6 @@ window.MACRO_DATA = {
      "protein_g": 76,
      "carbs_g": 65,
      "fat_g": 32,
-     "fiber_g": 6.9,
      "confidence": "high"
     },
     {
@@ -971,7 +910,6 @@ window.MACRO_DATA = {
      "protein_g": 79,
      "carbs_g": 111,
      "fat_g": 68,
-     "fiber_g": 3.7,
      "confidence": "high"
     },
     {
@@ -981,7 +919,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -1000,7 +937,6 @@ window.MACRO_DATA = {
      "protein_g": 59,
      "carbs_g": 30,
      "fat_g": 5,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1010,7 +946,6 @@ window.MACRO_DATA = {
      "protein_g": 80,
      "carbs_g": 58,
      "fat_g": 10,
-     "fiber_g": 1.9,
      "confidence": "high"
     },
     {
@@ -1020,7 +955,6 @@ window.MACRO_DATA = {
      "protein_g": 31,
      "carbs_g": 0,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1030,7 +964,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 1,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1049,7 +982,6 @@ window.MACRO_DATA = {
      "protein_g": 23,
      "carbs_g": 14,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1059,7 +991,6 @@ window.MACRO_DATA = {
      "protein_g": 80,
      "carbs_g": 58,
      "fat_g": 10,
-     "fiber_g": 1.9,
      "confidence": "high"
     },
     {
@@ -1069,7 +1000,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 0,
      "fat_g": 3,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1079,7 +1009,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 127,
      "fat_g": 13,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -1098,7 +1027,6 @@ window.MACRO_DATA = {
      "protein_g": 26,
      "carbs_g": 1,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1108,7 +1036,6 @@ window.MACRO_DATA = {
      "protein_g": 79,
      "carbs_g": 56,
      "fat_g": 10,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -1118,7 +1045,6 @@ window.MACRO_DATA = {
      "protein_g": 30,
      "carbs_g": 8,
      "fat_g": 31,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1137,7 +1063,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1147,7 +1072,6 @@ window.MACRO_DATA = {
      "protein_g": 81,
      "carbs_g": 56,
      "fat_g": 11,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -1157,7 +1081,6 @@ window.MACRO_DATA = {
      "protein_g": 39,
      "carbs_g": 8,
      "fat_g": 4,
-     "fiber_g": 1.7,
      "confidence": "high"
     },
     {
@@ -1167,7 +1090,6 @@ window.MACRO_DATA = {
      "protein_g": 35,
      "carbs_g": 17,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1186,7 +1108,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 71,
      "fat_g": 24,
-     "fiber_g": 7.5,
      "confidence": "high"
     },
     {
@@ -1196,7 +1117,6 @@ window.MACRO_DATA = {
      "protein_g": 192,
      "carbs_g": 29,
      "fat_g": 32,
-     "fiber_g": 5.4,
      "confidence": "high"
     }
    ]
@@ -1215,7 +1135,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 1,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1225,7 +1144,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 11,
      "fat_g": 16,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -1235,7 +1153,6 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 16,
      "fat_g": 15,
-     "fiber_g": 4.8,
      "confidence": "high"
     },
     {
@@ -1245,7 +1162,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 22,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1264,7 +1180,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 29,
      "fat_g": 9,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1274,7 +1189,6 @@ window.MACRO_DATA = {
      "protein_g": 31,
      "carbs_g": 61,
      "fat_g": 29,
-     "fiber_g": 4.8,
      "confidence": "high"
     },
     {
@@ -1284,7 +1198,6 @@ window.MACRO_DATA = {
      "protein_g": 88,
      "carbs_g": 52,
      "fat_g": 23,
-     "fiber_g": 1.4,
      "confidence": "high"
     },
     {
@@ -1294,7 +1207,6 @@ window.MACRO_DATA = {
      "protein_g": 41,
      "carbs_g": 4,
      "fat_g": 12,
-     "fiber_g": 0.6,
      "confidence": "high"
     }
    ]
@@ -1303,7 +1215,7 @@ window.MACRO_DATA = {
    "date": "2026-06-15",
    "calories": 1678,
    "protein_g": 145,
-   "carbs_g": 132,
+   "carbs_g": 142,
    "fat_g": 55,
    "meals": [
     {
@@ -1313,7 +1225,6 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 5,
      "fat_g": 2,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1323,7 +1234,6 @@ window.MACRO_DATA = {
      "protein_g": 79,
      "carbs_g": 58,
      "fat_g": 16,
-     "fiber_g": 2.1,
      "confidence": "high"
     },
     {
@@ -1333,7 +1243,6 @@ window.MACRO_DATA = {
      "protein_g": 24,
      "carbs_g": 9,
      "fat_g": 21,
-     "fiber_g": 1.3,
      "confidence": "high"
     },
     {
@@ -1343,7 +1252,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 70,
      "fat_g": 16,
-     "fiber_g": 2,
      "confidence": "high"
     }
    ]
@@ -1362,7 +1270,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1372,7 +1279,6 @@ window.MACRO_DATA = {
      "protein_g": 80,
      "carbs_g": 54,
      "fat_g": 16,
-     "fiber_g": 2.2,
      "confidence": "high"
     },
     {
@@ -1382,7 +1288,6 @@ window.MACRO_DATA = {
      "protein_g": 74,
      "carbs_g": 33,
      "fat_g": 36,
-     "fiber_g": 7.6,
      "confidence": "high"
     },
     {
@@ -1392,7 +1297,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 9,
      "fat_g": 0,
-     "fiber_g": 0.6,
      "confidence": "high"
     }
    ]
@@ -1411,7 +1315,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 33,
      "fat_g": 17,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -1421,7 +1324,6 @@ window.MACRO_DATA = {
      "protein_g": 12,
      "carbs_g": 10,
      "fat_g": 13,
-     "fiber_g": 3.6,
      "confidence": "high"
     },
     {
@@ -1431,7 +1333,6 @@ window.MACRO_DATA = {
      "protein_g": 44,
      "carbs_g": 32,
      "fat_g": 27,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -1441,7 +1342,6 @@ window.MACRO_DATA = {
      "protein_g": 48,
      "carbs_g": 42,
      "fat_g": 5,
-     "fiber_g": 6.9,
      "confidence": "high"
     }
    ]
@@ -1460,7 +1360,6 @@ window.MACRO_DATA = {
      "protein_g": 52,
      "carbs_g": 59,
      "fat_g": 26,
-     "fiber_g": 4,
      "confidence": "high"
     },
     {
@@ -1470,7 +1369,6 @@ window.MACRO_DATA = {
      "protein_g": 32,
      "carbs_g": 66,
      "fat_g": 30,
-     "fiber_g": 5.1,
      "confidence": "high"
     },
     {
@@ -1480,7 +1378,6 @@ window.MACRO_DATA = {
      "protein_g": 104,
      "carbs_g": 146,
      "fat_g": 6,
-     "fiber_g": 11.6,
      "confidence": "high"
     }
    ]
@@ -1499,7 +1396,6 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 28,
      "fat_g": 7,
-     "fiber_g": 0.4,
      "confidence": "high"
     },
     {
@@ -1509,7 +1405,6 @@ window.MACRO_DATA = {
      "protein_g": 50,
      "carbs_g": 137,
      "fat_g": 19,
-     "fiber_g": 0.4,
      "confidence": "high"
     }
    ]
@@ -1528,7 +1423,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1538,7 +1432,6 @@ window.MACRO_DATA = {
      "protein_g": 81,
      "carbs_g": 68,
      "fat_g": 35,
-     "fiber_g": 9.4,
      "confidence": "high"
     },
     {
@@ -1548,7 +1441,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 198,
      "fat_g": 19,
-     "fiber_g": 5.7,
      "confidence": "high"
     },
     {
@@ -1558,7 +1450,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 28,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1577,7 +1468,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1587,7 +1477,6 @@ window.MACRO_DATA = {
      "protein_g": 84,
      "carbs_g": 44,
      "fat_g": 34,
-     "fiber_g": 4.1,
      "confidence": "high"
     },
     {
@@ -1597,7 +1486,6 @@ window.MACRO_DATA = {
      "protein_g": 54,
      "carbs_g": 15,
      "fat_g": 15,
-     "fiber_g": 2.7,
      "confidence": "high"
     }
    ]
@@ -1616,7 +1504,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 5,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1626,7 +1513,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 16,
      "fat_g": 7,
-     "fiber_g": 9.9,
      "confidence": "high"
     },
     {
@@ -1636,7 +1522,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 14,
      "fat_g": 7,
-     "fiber_g": 8.6,
      "confidence": "high"
     },
     {
@@ -1646,7 +1531,6 @@ window.MACRO_DATA = {
      "protein_g": 32,
      "carbs_g": 35,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1665,7 +1549,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 6,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1675,7 +1558,6 @@ window.MACRO_DATA = {
      "protein_g": 74,
      "carbs_g": 19,
      "fat_g": 18,
-     "fiber_g": 10.4,
      "confidence": "high"
     },
     {
@@ -1685,7 +1567,6 @@ window.MACRO_DATA = {
      "protein_g": 66,
      "carbs_g": 42,
      "fat_g": 21,
-     "fiber_g": 1.6,
      "confidence": "high"
     }
    ]
@@ -1704,7 +1585,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1714,7 +1594,6 @@ window.MACRO_DATA = {
      "protein_g": 48,
      "carbs_g": 10,
      "fat_g": 13,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -1724,17 +1603,15 @@ window.MACRO_DATA = {
      "protein_g": 58,
      "carbs_g": 20,
      "fat_g": 11,
-     "fiber_g": 8,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People's Choice - beef jerky carne seca, 1.3 oz; Poppi - Strawberry Lemon Prebiotic Soda, 1 can (12 fl oz); People\u2019s choice - Old Fashioned Beef Jerky, 84 g",
+     "description": "People's Choice - beef jerky carne seca, 1.3 oz; Poppi - Strawberry Lemon Prebiotic Soda, 1 can (12 fl oz); People’s choice - Old Fashioned Beef Jerky, 84 g",
      "calories": 434,
      "protein_g": 71,
      "carbs_g": 9,
      "fat_g": 11,
-     "fiber_g": 0.6,
      "confidence": "high"
     }
    ]
@@ -1753,7 +1630,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 23,
      "fat_g": 8,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1763,7 +1639,6 @@ window.MACRO_DATA = {
      "protein_g": 62,
      "carbs_g": 47,
      "fat_g": 8,
-     "fiber_g": 10.5,
      "confidence": "high"
     },
     {
@@ -1773,17 +1648,15 @@ window.MACRO_DATA = {
      "protein_g": 77,
      "carbs_g": 0,
      "fat_g": 67,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 51 g; Apricot Jam, 24 gram(s); Kirkland Signature - Greek Yogurt, 250 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 51 g; Apricot Jam, 24 gram(s); Kirkland Signature - Greek Yogurt, 250 g",
      "calories": 383,
      "protein_g": 59,
      "carbs_g": 22,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1802,7 +1675,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1812,7 +1684,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 16,
      "fat_g": 7,
-     "fiber_g": 9.6,
      "confidence": "high"
     },
     {
@@ -1822,17 +1693,15 @@ window.MACRO_DATA = {
      "protein_g": 78,
      "carbs_g": 179,
      "fat_g": 74,
-     "fiber_g": 4.3,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 35 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 35 g",
      "calories": 125,
      "protein_g": 23,
      "carbs_g": 0,
      "fat_g": 3,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1842,7 +1711,7 @@ window.MACRO_DATA = {
    "calories": 2715,
    "protein_g": 192,
    "carbs_g": 250,
-   "fat_g": 97,
+   "fat_g": 107,
    "meals": [
     {
      "time": "morning",
@@ -1851,7 +1720,6 @@ window.MACRO_DATA = {
      "protein_g": 59,
      "carbs_g": 114,
      "fat_g": 55,
-     "fiber_g": 4.9,
      "confidence": "high"
     },
     {
@@ -1861,7 +1729,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -1871,17 +1738,15 @@ window.MACRO_DATA = {
      "protein_g": 92,
      "carbs_g": 106,
      "fat_g": 37,
-     "fiber_g": 7.2,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 9 g; Watermelon And Feta Salad, 2 cup; People\u2019s choice - Old Fashioned Beef Jerky, 50 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 9 g; Watermelon And Feta Salad, 2 cup; People’s choice - Old Fashioned Beef Jerky, 50 g",
      "calories": 407,
      "protein_g": 41,
      "carbs_g": 26,
      "fat_g": 15,
-     "fiber_g": 0.2,
      "confidence": "high"
     }
    ]
@@ -1900,7 +1765,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -1910,7 +1774,6 @@ window.MACRO_DATA = {
      "protein_g": 46,
      "carbs_g": 25,
      "fat_g": 4,
-     "fiber_g": 3,
      "confidence": "high"
     },
     {
@@ -1920,7 +1783,6 @@ window.MACRO_DATA = {
      "protein_g": 70,
      "carbs_g": 100,
      "fat_g": 18,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1939,7 +1801,6 @@ window.MACRO_DATA = {
      "protein_g": 78,
      "carbs_g": 75,
      "fat_g": 26,
-     "fiber_g": 10.6,
      "confidence": "high"
     },
     {
@@ -1949,7 +1810,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 27,
      "fat_g": 12,
-     "fiber_g": 6.3,
      "confidence": "high"
     },
     {
@@ -1959,17 +1819,15 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 7,
      "fat_g": 19,
-     "fiber_g": 1.8,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 61 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 61 g",
      "calories": 218,
      "protein_g": 39,
      "carbs_g": 0,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -1988,7 +1846,6 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 21,
      "fat_g": 17,
-     "fiber_g": 14.3,
      "confidence": "high"
     },
     {
@@ -1998,7 +1855,6 @@ window.MACRO_DATA = {
      "protein_g": 86,
      "carbs_g": 8,
      "fat_g": 16,
-     "fiber_g": 2.1,
      "confidence": "high"
     },
     {
@@ -2008,7 +1864,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -2022,12 +1877,11 @@ window.MACRO_DATA = {
    "meals": [
     {
      "time": "morning",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 56 g; Matcha Powder - Matcha, 2 tsp; Organic - Organic Protein Powder, 2 scoops",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 56 g; Matcha Powder - Matcha, 2 tsp; Organic - Organic Protein Powder, 2 scoops",
      "calories": 367,
      "protein_g": 57,
      "carbs_g": 19,
      "fat_g": 9,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2037,7 +1891,6 @@ window.MACRO_DATA = {
      "protein_g": 41,
      "carbs_g": 13,
      "fat_g": 20,
-     "fiber_g": 3.7,
      "confidence": "high"
     },
     {
@@ -2047,17 +1900,15 @@ window.MACRO_DATA = {
      "protein_g": 33,
      "carbs_g": 20,
      "fat_g": 26,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Kirkland Signature - Cottage Cheese, 201 g; People\u2019s choice - Old Fashioned Beef Jerky, 46 g",
+     "description": "Kirkland Signature - Cottage Cheese, 201 g; People’s choice - Old Fashioned Beef Jerky, 46 g",
      "calories": 325,
      "protein_g": 53,
      "carbs_g": 11,
      "fat_g": 8,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2076,7 +1927,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2086,7 +1936,6 @@ window.MACRO_DATA = {
      "protein_g": 59,
      "carbs_g": 0,
      "fat_g": 21,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2096,17 +1945,15 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 0,
      "fat_g": 3,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 63 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 63 g",
      "calories": 225,
      "protein_g": 41,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2125,7 +1972,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2135,7 +1981,6 @@ window.MACRO_DATA = {
      "protein_g": 72,
      "carbs_g": 17,
      "fat_g": 43,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -2145,17 +1990,15 @@ window.MACRO_DATA = {
      "protein_g": 70,
      "carbs_g": 24,
      "fat_g": 14,
-     "fiber_g": 0.2,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 21 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 21 g",
      "calories": 75,
      "protein_g": 14,
      "carbs_g": 0,
      "fat_g": 2,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2174,7 +2017,6 @@ window.MACRO_DATA = {
      "protein_g": 94,
      "carbs_g": 19,
      "fat_g": 10,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2188,12 +2030,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; Lays - Potato Chips, 20 g; Sour cream, 20 g; Caviar, 1 tbsp; Olinas Bakehouse - Artisan Crackwrs, 25 gram; P\u00e2t\u00e9 - Duck Liver P\u00e2t\u00e9, 50 gram; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Fat - Fats, 0.5 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram; Protein - Proteins, 3 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram",
+     "description": "1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; 1g - Carbs, 25 gram; Lays - Potato Chips, 20 g; Sour cream, 20 g; Caviar, 1 tbsp; Olinas Bakehouse - Artisan Crackwrs, 25 gram; Pâté - Duck Liver Pâté, 50 gram; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Mortadella panini - Mortadella, 1 slice; Fat - Fats, 0.5 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram; Protein - Proteins, 3 gram; Fat - Fats, 0.5 gram; Protein - Proteins, 3 gram",
      "calories": 1098,
      "protein_g": 24,
      "carbs_g": 165,
      "fat_g": 38,
-     "fiber_g": 0.4,
      "confidence": "high"
     },
     {
@@ -2203,7 +2044,6 @@ window.MACRO_DATA = {
      "protein_g": 20,
      "carbs_g": 0,
      "fat_g": 2,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2222,7 +2062,6 @@ window.MACRO_DATA = {
      "protein_g": 43,
      "carbs_g": 19,
      "fat_g": 7,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2232,7 +2071,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 0,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2242,7 +2080,6 @@ window.MACRO_DATA = {
      "protein_g": 94,
      "carbs_g": 1,
      "fat_g": 23,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2261,7 +2098,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2271,7 +2107,6 @@ window.MACRO_DATA = {
      "protein_g": 100,
      "carbs_g": 0,
      "fat_g": 22,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2281,17 +2116,15 @@ window.MACRO_DATA = {
      "protein_g": 41,
      "carbs_g": 113,
      "fat_g": 19,
-     "fiber_g": 3.7,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 25 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 25 g",
      "calories": 89,
      "protein_g": 16,
      "carbs_g": 0,
      "fat_g": 2,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2310,7 +2143,6 @@ window.MACRO_DATA = {
      "protein_g": 83,
      "carbs_g": 19,
      "fat_g": 23,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2320,7 +2152,6 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 5,
      "fat_g": 2,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -2330,7 +2161,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 28,
      "fat_g": 11,
-     "fiber_g": 1.2,
      "confidence": "high"
     }
    ]
@@ -2346,10 +2176,9 @@ window.MACRO_DATA = {
      "time": "morning",
      "description": "Matcha Powder - Matcha, 2 tsp; Organic - Organic Protein Powder, 2 scoops; Costco - Ground Beef 12% Fat Cooked, 3.7 oz cooked; Cardinal Meat - Chicken Breast, 61 g; Kirkland Egg Whites Corrected - Egg White, 230 gram",
      "calories": 612,
-     "protein_g": 77,
+     "protein_g": 87,
      "carbs_g": 19,
      "fat_g": 19,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2359,17 +2188,15 @@ window.MACRO_DATA = {
      "protein_g": 51,
      "carbs_g": 4,
      "fat_g": 2,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Blueberries, 19 g; Apricot Jam, 9 gram(s); Kirkland Signature - Greek Yogurt, 146 g; People\u2019s Choice - Hot and Spicy Beef Jerky, 44 g",
+     "description": "Blueberries, 19 g; Apricot Jam, 9 gram(s); Kirkland Signature - Greek Yogurt, 146 g; People’s Choice - Hot and Spicy Beef Jerky, 44 g",
      "calories": 290,
      "protein_g": 37,
      "carbs_g": 24,
      "fat_g": 3,
-     "fiber_g": 0.5,
      "confidence": "high"
     }
    ]
@@ -2388,7 +2215,6 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 19,
      "fat_g": 15,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2398,7 +2224,6 @@ window.MACRO_DATA = {
      "protein_g": 53,
      "carbs_g": 5,
      "fat_g": 2,
-     "fiber_g": 1.2,
      "confidence": "high"
     },
     {
@@ -2408,7 +2233,6 @@ window.MACRO_DATA = {
      "protein_g": 58,
      "carbs_g": 43,
      "fat_g": 61,
-     "fiber_g": 2.3,
      "confidence": "high"
     }
    ]
@@ -2427,7 +2251,6 @@ window.MACRO_DATA = {
      "protein_g": 63,
      "carbs_g": 19,
      "fat_g": 14,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2437,7 +2260,6 @@ window.MACRO_DATA = {
      "protein_g": 29,
      "carbs_g": 0,
      "fat_g": 12,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2447,17 +2269,15 @@ window.MACRO_DATA = {
      "protein_g": 53,
      "carbs_g": 124,
      "fat_g": 28,
-     "fiber_g": 1.5,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 60 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 60 g",
      "calories": 214,
      "protein_g": 39,
      "carbs_g": 0,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2476,7 +2296,6 @@ window.MACRO_DATA = {
      "protein_g": 43,
      "carbs_g": 0,
      "fat_g": 14,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2486,7 +2305,6 @@ window.MACRO_DATA = {
      "protein_g": 31,
      "carbs_g": 5,
      "fat_g": 12,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -2496,17 +2314,15 @@ window.MACRO_DATA = {
      "protein_g": 81,
      "carbs_g": 98,
      "fat_g": 50,
-     "fiber_g": 2.8,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 69 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 69 g",
      "calories": 246,
      "protein_g": 44,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2525,7 +2341,6 @@ window.MACRO_DATA = {
      "protein_g": 62,
      "carbs_g": 19,
      "fat_g": 13,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2535,7 +2350,6 @@ window.MACRO_DATA = {
      "protein_g": 67,
      "carbs_g": 2,
      "fat_g": 27,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -2545,7 +2359,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 23,
      "fat_g": 23,
-     "fiber_g": 0.7,
      "confidence": "high"
     },
     {
@@ -2555,7 +2368,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 9,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2574,7 +2386,6 @@ window.MACRO_DATA = {
      "protein_g": 42,
      "carbs_g": 0,
      "fat_g": 10,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2584,7 +2395,6 @@ window.MACRO_DATA = {
      "protein_g": 56,
      "carbs_g": 0,
      "fat_g": 23,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2594,7 +2404,6 @@ window.MACRO_DATA = {
      "protein_g": 50,
      "carbs_g": 39,
      "fat_g": 10,
-     "fiber_g": 0.1,
      "confidence": "high"
     },
     {
@@ -2604,7 +2413,6 @@ window.MACRO_DATA = {
      "protein_g": 27,
      "carbs_g": 24,
      "fat_g": 4,
-     "fiber_g": 0.3,
      "confidence": "high"
     }
    ]
@@ -2623,7 +2431,6 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 19,
      "fat_g": 12,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2633,7 +2440,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 0,
      "fat_g": 22,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2643,7 +2449,6 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 62,
      "fat_g": 31,
-     "fiber_g": 0.9,
      "confidence": "high"
     },
     {
@@ -2653,7 +2458,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 25,
      "fat_g": 8,
-     "fiber_g": 6,
      "confidence": "high"
     }
    ]
@@ -2672,7 +2476,6 @@ window.MACRO_DATA = {
      "protein_g": 68,
      "carbs_g": 19,
      "fat_g": 12,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2682,7 +2485,6 @@ window.MACRO_DATA = {
      "protein_g": 60,
      "carbs_g": 7,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2692,7 +2494,6 @@ window.MACRO_DATA = {
      "protein_g": 43,
      "carbs_g": 37,
      "fat_g": 13,
-     "fiber_g": 2,
      "confidence": "high"
     }
    ]
@@ -2711,7 +2512,6 @@ window.MACRO_DATA = {
      "protein_g": 69,
      "carbs_g": 19,
      "fat_g": 13,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2721,17 +2521,15 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 26,
      "fat_g": 4,
-     "fiber_g": 0.4,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 15 g; People\u2019s choice - Old Fashioned Beef Jerky, 51 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 15 g; People’s choice - Old Fashioned Beef Jerky, 51 g",
      "calories": 236,
      "protein_g": 43,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2750,7 +2548,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 19,
      "fat_g": 10,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2760,7 +2557,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 6,
      "fat_g": 12,
-     "fiber_g": 2.1,
      "confidence": "high"
     },
     {
@@ -2770,7 +2566,6 @@ window.MACRO_DATA = {
      "protein_g": 81,
      "carbs_g": 91,
      "fat_g": 44,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2789,7 +2584,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2812,12 +2606,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 64 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 64 g",
      "calories": 229,
      "protein_g": 41,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2836,7 +2629,6 @@ window.MACRO_DATA = {
      "protein_g": 29,
      "carbs_g": 16,
      "fat_g": 3,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2855,17 +2647,15 @@ window.MACRO_DATA = {
      "protein_g": 91,
      "carbs_g": 0,
      "fat_g": 34,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s Choice - Hot and Spicy Beef Jerky, 43 g",
+     "description": "People’s Choice - Hot and Spicy Beef Jerky, 43 g",
      "calories": 169,
      "protein_g": 22,
      "carbs_g": 11,
      "fat_g": 3,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2884,7 +2674,6 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 5,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2894,7 +2683,6 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 1,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2904,17 +2692,15 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 12,
      "fat_g": 22,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 154,
      "protein_g": 28,
      "carbs_g": 0,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2933,7 +2719,6 @@ window.MACRO_DATA = {
      "protein_g": 60,
      "carbs_g": 2,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -2952,17 +2737,15 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 83,
      "fat_g": 25,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 40 g; Kirkland Signature - Greek Yogurt, 165 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 40 g; Kirkland Signature - Greek Yogurt, 165 g",
      "calories": 237,
      "protein_g": 43,
      "carbs_g": 5,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -2981,7 +2764,6 @@ window.MACRO_DATA = {
      "protein_g": 58,
      "carbs_g": 19,
      "fat_g": 11,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -2991,7 +2773,6 @@ window.MACRO_DATA = {
      "protein_g": 80,
      "carbs_g": 4,
      "fat_g": 3,
-     "fiber_g": 1.4,
      "confidence": "high"
     },
     {
@@ -3001,7 +2782,6 @@ window.MACRO_DATA = {
      "protein_g": 34,
      "carbs_g": 18,
      "fat_g": 26,
-     "fiber_g": 0.3,
      "confidence": "high"
     },
     {
@@ -3011,7 +2791,6 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 30,
      "fat_g": 1,
-     "fiber_g": 4.6,
      "confidence": "high"
     }
    ]
@@ -3030,17 +2809,15 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "lunch",
-     "description": "Homemade - Onion, Sauteed, No Oil , 30 milliliter; Yuho - Konjac Noodles, 75 g; Atlanta Meal Prep - Saut\u00e9ed Shredded Cabbage, 75 gram; Sauteed carrots, 50 g; Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan Fried, 201 g (one fillet)",
+     "description": "Homemade - Onion, Sauteed, No Oil , 30 milliliter; Yuho - Konjac Noodles, 75 g; Atlanta Meal Prep - Sautéed Shredded Cabbage, 75 gram; Sauteed carrots, 50 g; Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan Fried, 201 g (one fillet)",
      "calories": 314,
      "protein_g": 41,
      "carbs_g": 12,
      "fat_g": 13,
-     "fiber_g": 4.5,
      "confidence": "high"
     },
     {
@@ -3068,17 +2845,15 @@ window.MACRO_DATA = {
      "protein_g": 66,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "lunch",
-     "description": "Sauteed carrots, 45 g; Homemade - Onion, Sauteed, No Oil , 25 milliliter; Yuho - Konjac Noodles, 60 g; Atlanta Meal Prep - Saut\u00e9ed Shredded Cabbage, 60 gram Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan; Fried, 150 g (one fillet)",
+     "description": "Sauteed carrots, 45 g; Homemade - Onion, Sauteed, No Oil , 25 milliliter; Yuho - Konjac Noodles, 60 g; Atlanta Meal Prep - Sautéed Shredded Cabbage, 60 gram Meat - Chicken - Thigh Fillet - Without Skin - Lean - Pan; Fried, 150 g (one fillet)",
      "calories": 240,
      "protein_g": 30,
      "carbs_g": 9,
      "fat_g": 10,
-     "fiber_g": 3.8,
      "confidence": "high"
     },
     {
@@ -3097,7 +2872,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 9,
      "fat_g": 0,
-     "fiber_g": 0.6,
      "confidence": "high"
     }
    ]
@@ -3116,7 +2890,6 @@ window.MACRO_DATA = {
      "protein_g": 56,
      "carbs_g": 6,
      "fat_g": 2,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3135,7 +2908,6 @@ window.MACRO_DATA = {
      "protein_g": 95,
      "carbs_g": 63,
      "fat_g": 37,
-     "fiber_g": 2.2,
      "confidence": "high"
     }
    ]
@@ -3154,7 +2926,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 7,
      "fat_g": 2,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -3164,7 +2935,6 @@ window.MACRO_DATA = {
      "protein_g": 35,
      "carbs_g": 1,
      "fat_g": 12,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -3174,7 +2944,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 12,
      "fat_g": 14,
-     "fiber_g": 3.9,
      "confidence": "high"
     },
     {
@@ -3184,7 +2953,6 @@ window.MACRO_DATA = {
      "protein_g": 60,
      "carbs_g": 26,
      "fat_g": 11,
-     "fiber_g": 0.9,
      "confidence": "high"
     }
    ]
@@ -3203,7 +2971,6 @@ window.MACRO_DATA = {
      "protein_g": 63,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3213,17 +2980,15 @@ window.MACRO_DATA = {
      "protein_g": 32,
      "carbs_g": 7,
      "fat_g": 8,
-     "fiber_g": 1.8,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "MGL - Fairlife Milk nonfat cup, 111 milliliter; Choc Zero - Baking Chips, 0.5 tbsp; Transparent Labs - Chocolate Protein, 25 gram; Homemade - Costco Rotisserie Chicken Bone Broth, 0.5 Cups; Costco - Cooked Rotisserie Chicken, 20 gram; Carrots, boiled, 40 g; Costco - Cooked Rotisserie Chicken, 155 gram; People\u2019s Choice - Hot and Spicy Beef Jerky, 43 g",
+     "description": "MGL - Fairlife Milk nonfat cup, 111 milliliter; Choc Zero - Baking Chips, 0.5 tbsp; Transparent Labs - Chocolate Protein, 25 gram; Homemade - Costco Rotisserie Chicken Bone Broth, 0.5 Cups; Costco - Cooked Rotisserie Chicken, 20 gram; Carrots, boiled, 40 g; Costco - Cooked Rotisserie Chicken, 155 gram; People’s Choice - Hot and Spicy Beef Jerky, 43 g",
      "calories": 614,
      "protein_g": 84,
      "carbs_g": 21,
      "fat_g": 17,
-     "fiber_g": 1.2,
      "confidence": "high"
     }
    ]
@@ -3242,7 +3007,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -3252,7 +3016,6 @@ window.MACRO_DATA = {
      "protein_g": 31,
      "carbs_g": 7,
      "fat_g": 10,
-     "fiber_g": 1.3,
      "confidence": "high"
     },
     {
@@ -3262,17 +3025,15 @@ window.MACRO_DATA = {
      "protein_g": 86,
      "carbs_g": 105,
      "fat_g": 74,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 50 g; People\u2019s choice - Old Fashioned Beef Jerky, 41 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 50 g; People’s choice - Old Fashioned Beef Jerky, 41 g",
      "calories": 325,
      "protein_g": 58,
      "carbs_g": 0,
      "fat_g": 8,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -3291,7 +3052,6 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 6,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3301,7 +3061,6 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 8,
      "fat_g": 22,
-     "fiber_g": 2.7,
      "confidence": "high"
     },
     {
@@ -3311,7 +3070,6 @@ window.MACRO_DATA = {
      "protein_g": 43,
      "carbs_g": 0,
      "fat_g": 3,
-     "fiber_g": 0.2,
      "confidence": "high"
     },
     {
@@ -3321,7 +3079,6 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 37,
      "fat_g": 1,
-     "fiber_g": 1,
      "confidence": "high"
     }
    ]
@@ -3340,7 +3097,6 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 10,
      "fat_g": 19,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3350,17 +3106,15 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 0,
-     "fiber_g": 6.9,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Cashews, roasted, unsalted, 30 pieces; Fly by Jing - Chili Crisp Salmon Skin, 17 g; Fly by Jing - Chili Crisp Salmon Skin, 2 pieces; Choc Zero - Baking Chips, 1.25 tbsp; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 23 g; Sugar snap peas, raw, 50 gram; RedHat - Cucumber, 70 g; Celery, 40 gram(s)",
+     "description": "Cashews, roasted, unsalted, 30 pieces; Fly by Jing - Chili Crisp Salmon Skin, 17 g; Fly by Jing - Chili Crisp Salmon Skin, 2 pieces; Choc Zero - Baking Chips, 1.25 tbsp; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People’s choice - Old Fashioned Beef Jerky, 23 g; Sugar snap peas, raw, 50 gram; RedHat - Cucumber, 70 g; Celery, 40 gram(s)",
      "calories": 767,
      "protein_g": 53,
      "carbs_g": 37,
      "fat_g": 47,
-     "fiber_g": 2.9,
      "confidence": "high"
     }
    ]
@@ -3379,7 +3133,6 @@ window.MACRO_DATA = {
      "protein_g": 63,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3389,7 +3142,6 @@ window.MACRO_DATA = {
      "protein_g": 30,
      "carbs_g": 9,
      "fat_g": 9,
-     "fiber_g": 2.8,
      "confidence": "high"
     },
     {
@@ -3403,12 +3155,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; People\u2019s choice - Old Fashioned Beef Jerky, 61 g",
+     "description": "Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; Wine Carbs for Macro - Wine, 4 oz; People’s choice - Old Fashioned Beef Jerky, 61 g",
      "calories": 618,
      "protein_g": 39,
      "carbs_g": 100,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -3427,7 +3178,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3437,7 +3187,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 8,
      "fat_g": 11,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -3447,7 +3196,6 @@ window.MACRO_DATA = {
      "protein_g": 34,
      "carbs_g": 6,
      "fat_g": 19,
-     "fiber_g": 1.5,
      "confidence": "high"
     }
    ]
@@ -3466,7 +3214,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3476,7 +3223,6 @@ window.MACRO_DATA = {
      "protein_g": 39,
      "carbs_g": 8,
      "fat_g": 7,
-     "fiber_g": 4.5,
      "confidence": "high"
     },
     {
@@ -3504,7 +3250,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3514,7 +3259,6 @@ window.MACRO_DATA = {
      "protein_g": 34,
      "carbs_g": 0,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3524,7 +3268,6 @@ window.MACRO_DATA = {
      "protein_g": 73,
      "carbs_g": 6,
      "fat_g": 17,
-     "fiber_g": 0.6,
      "confidence": "high"
     },
     {
@@ -3534,7 +3277,6 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 2,
      "fat_g": 1,
-     "fiber_g": 0.1,
      "confidence": "high"
     }
    ]
@@ -3553,7 +3295,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3563,7 +3304,6 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 3,
      "fat_g": 11,
-     "fiber_g": 2.1,
      "confidence": "high"
     },
     {
@@ -3573,7 +3313,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 8,
      "fat_g": 0,
-     "fiber_g": 3.1,
      "confidence": "high"
     }
    ]
@@ -3592,7 +3331,6 @@ window.MACRO_DATA = {
      "protein_g": 59,
      "carbs_g": 5,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3602,7 +3340,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 8,
      "fat_g": 0,
-     "fiber_g": 3,
      "confidence": "high"
     },
     {
@@ -3612,7 +3349,6 @@ window.MACRO_DATA = {
      "protein_g": 87,
      "carbs_g": 10,
      "fat_g": 15,
-     "fiber_g": 1.6,
      "confidence": "high"
     },
     {
@@ -3622,7 +3358,6 @@ window.MACRO_DATA = {
      "protein_g": 26,
      "carbs_g": 13,
      "fat_g": 5,
-     "fiber_g": 0.4,
      "confidence": "high"
     }
    ]
@@ -3641,7 +3376,6 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 7,
      "fat_g": 4,
-     "fiber_g": 2.6,
      "confidence": "high"
     },
     {
@@ -3651,17 +3385,15 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 3,
      "fat_g": 16,
-     "fiber_g": 2.4,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 36 g; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People\u2019s choice - Old Fashioned Beef Jerky, 52 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 36 g; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People’s choice - Old Fashioned Beef Jerky, 52 g",
      "calories": 612,
      "protein_g": 107,
      "carbs_g": 7,
      "fat_g": 15,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -3680,7 +3412,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3690,7 +3421,6 @@ window.MACRO_DATA = {
      "protein_g": 35,
      "carbs_g": 10,
      "fat_g": 18,
-     "fiber_g": 3,
      "confidence": "high"
     },
     {
@@ -3700,7 +3430,6 @@ window.MACRO_DATA = {
      "protein_g": 86,
      "carbs_g": 95,
      "fat_g": 56,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3710,7 +3439,6 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -3729,7 +3457,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3739,7 +3466,6 @@ window.MACRO_DATA = {
      "protein_g": 73,
      "carbs_g": 39,
      "fat_g": 26,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3749,17 +3475,15 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 44,
      "fat_g": 23,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Churro, 1 mini; People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "Churro, 1 mini; People’s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 217,
      "protein_g": 29,
      "carbs_g": 7,
      "fat_g": 7,
-     "fiber_g": 0.5,
      "confidence": "high"
     }
    ]
@@ -3778,7 +3502,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3797,7 +3520,6 @@ window.MACRO_DATA = {
      "protein_g": 39,
      "carbs_g": 15,
      "fat_g": 9,
-     "fiber_g": 3.2,
      "confidence": "high"
     },
     {
@@ -3807,7 +3529,6 @@ window.MACRO_DATA = {
      "protein_g": 54,
      "carbs_g": 19,
      "fat_g": 13,
-     "fiber_g": 0.4,
      "confidence": "high"
     }
    ]
@@ -3826,7 +3547,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 5,
      "fat_g": 11,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3836,7 +3556,6 @@ window.MACRO_DATA = {
      "protein_g": 34,
      "carbs_g": 7,
      "fat_g": 6,
-     "fiber_g": 3.6,
      "confidence": "high"
     },
     {
@@ -3855,7 +3574,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 2,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -3874,7 +3592,6 @@ window.MACRO_DATA = {
      "protein_g": 54,
      "carbs_g": 5,
      "fat_g": 10,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3884,7 +3601,6 @@ window.MACRO_DATA = {
      "protein_g": 42,
      "carbs_g": 9,
      "fat_g": 8,
-     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -3894,7 +3610,6 @@ window.MACRO_DATA = {
      "protein_g": 74,
      "carbs_g": 2,
      "fat_g": 14,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -3913,7 +3628,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3923,7 +3637,6 @@ window.MACRO_DATA = {
      "protein_g": 41,
      "carbs_g": 6,
      "fat_g": 8,
-     "fiber_g": 0.6,
      "confidence": "high"
     },
     {
@@ -3933,7 +3646,6 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 0,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3943,7 +3655,6 @@ window.MACRO_DATA = {
      "protein_g": 52,
      "carbs_g": 16,
      "fat_g": 8,
-     "fiber_g": 0.4,
      "confidence": "high"
     }
    ]
@@ -3962,7 +3673,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -3972,7 +3682,6 @@ window.MACRO_DATA = {
      "protein_g": 64,
      "carbs_g": 7,
      "fat_g": 18,
-     "fiber_g": 0.6,
      "confidence": "high"
     },
     {
@@ -3982,17 +3691,15 @@ window.MACRO_DATA = {
      "protein_g": 30,
      "carbs_g": 13,
      "fat_g": 10,
-     "fiber_g": 4.2,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "1g - Carbs, 19 gram; The Snak Yard - Organic Shiitake Mushroom, 31 g; Choc Zero - Baking Chips, 2 tbsp; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People\u2019s Choice - Hot and Spicy Beef Jerky, 20 g; People\u2019s Choice - Hot and Spicy Beef Jerky, 43 g",
+     "description": "1g - Carbs, 19 gram; The Snak Yard - Organic Shiitake Mushroom, 31 g; Choc Zero - Baking Chips, 2 tbsp; Fairlife - Whole Ultra Filtered Milk, 145 ml; Fairlife - Protein Shake, Chocolate, 0.5 bottle; Transparent Labs - Chocolate Protein, 35 grams; People’s Choice - Hot and Spicy Beef Jerky, 20 g; People’s Choice - Hot and Spicy Beef Jerky, 43 g",
      "calories": 895,
      "protein_g": 87,
      "carbs_g": 78,
      "fat_g": 25,
-     "fiber_g": 1.7,
      "confidence": "high"
     }
    ]
@@ -4011,7 +3718,6 @@ window.MACRO_DATA = {
      "protein_g": 59,
      "carbs_g": 6,
      "fat_g": 13,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4021,7 +3727,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 7,
      "fat_g": 9,
-     "fiber_g": 0.6,
      "confidence": "high"
     },
     {
@@ -4035,12 +3740,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Chinese bbq pork - BBQ pork, 68 gram; Chinese bbq pork - BBQ pork, 84 gram; People\u2019s Choice - Hot and Spicy Beef Jerky, 54 g",
+     "description": "Chinese bbq pork - BBQ pork, 68 gram; Chinese bbq pork - BBQ pork, 84 gram; People’s Choice - Hot and Spicy Beef Jerky, 54 g",
      "calories": 462,
      "protein_g": 52,
      "carbs_g": 34,
      "fat_g": 11,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4059,7 +3763,6 @@ window.MACRO_DATA = {
      "protein_g": 29,
      "carbs_g": 22,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4078,7 +3781,6 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 50,
      "fat_g": 13,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4097,7 +3799,6 @@ window.MACRO_DATA = {
      "protein_g": 54,
      "carbs_g": 82,
      "fat_g": 34,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4107,7 +3808,6 @@ window.MACRO_DATA = {
      "protein_g": 57,
      "carbs_g": 0,
      "fat_g": 10,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4117,7 +3817,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 0,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4136,7 +3835,6 @@ window.MACRO_DATA = {
      "protein_g": 69,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4146,7 +3844,6 @@ window.MACRO_DATA = {
      "protein_g": 56,
      "carbs_g": 5,
      "fat_g": 4,
-     "fiber_g": 2,
      "confidence": "high"
     },
     {
@@ -4156,7 +3853,6 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 8,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4175,7 +3871,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4185,7 +3880,6 @@ window.MACRO_DATA = {
      "protein_g": 26,
      "carbs_g": 6,
      "fat_g": 7,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -4195,17 +3889,15 @@ window.MACRO_DATA = {
      "protein_g": 74,
      "carbs_g": 4,
      "fat_g": 8,
-     "fiber_g": 1.9,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 222 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 1 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 30 g",
+     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 222 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 1 scoop; People’s choice - Old Fashioned Beef Jerky, 30 g",
      "calories": 347,
      "protein_g": 56,
      "carbs_g": 8,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4224,7 +3916,6 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4234,7 +3925,6 @@ window.MACRO_DATA = {
      "protein_g": 70,
      "carbs_g": 4,
      "fat_g": 8,
-     "fiber_g": 1.7,
      "confidence": "high"
     },
     {
@@ -4248,12 +3938,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g; Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 62.2 g; Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop",
      "calories": 416,
      "protein_g": 69,
      "carbs_g": 6,
      "fat_g": 12,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4272,7 +3961,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4291,17 +3979,15 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 0,
      "fat_g": 3,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Protein - Proteins, 18 gram; Fat - Fats, 11 gram; People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g; David - Peanut Butter Chocolate Chunk Flavored Bar, 1 bar",
+     "description": "Protein - Proteins, 18 gram; Fat - Fats, 11 gram; People’s choice - Old Fashioned Beef Jerky, 62.2 g; David - Peanut Butter Chocolate Chunk Flavored Bar, 1 bar",
      "calories": 543,
      "protein_g": 86,
      "carbs_g": 12,
      "fat_g": 20,
-     "fiber_g": 3,
      "confidence": "high"
     }
    ]
@@ -4320,7 +4006,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4339,7 +4024,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 88,
      "fat_g": 37,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4367,7 +4051,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4390,12 +4073,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 62.2 g",
      "calories": 222,
      "protein_g": 40,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4409,12 +4091,11 @@ window.MACRO_DATA = {
    "meals": [
     {
      "time": "morning",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g; Matcha Powder - Matcha, 2 tsp; Transparent Labs - Chocolate Protein, 35 grams",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 62.2 g; Matcha Powder - Matcha, 2 tsp; Transparent Labs - Chocolate Protein, 35 grams",
      "calories": 369,
      "protein_g": 68,
      "carbs_g": 5,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4442,7 +4123,6 @@ window.MACRO_DATA = {
      "protein_g": 35,
      "carbs_g": 0,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4452,7 +4132,6 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 3,
      "fat_g": 6,
-     "fiber_g": 0.6,
      "confidence": "high"
     },
     {
@@ -4462,7 +4141,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 2,
      "fat_g": 3,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -4472,7 +4150,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 8,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4491,7 +4168,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 6,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4501,7 +4177,6 @@ window.MACRO_DATA = {
      "protein_g": 39,
      "carbs_g": 2,
      "fat_g": 6,
-     "fiber_g": 0.8,
      "confidence": "high"
     },
     {
@@ -4511,17 +4186,15 @@ window.MACRO_DATA = {
      "protein_g": 52,
      "carbs_g": 12,
      "fat_g": 5,
-     "fiber_g": 4.9,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Fat - Fats, 4 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 62.2 g",
+     "description": "Fat - Fats, 4 gram; MGL - Fairlife Milk nonfat cup, 175 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.75 scoop; People’s choice - Old Fashioned Beef Jerky, 62.2 g",
      "calories": 407,
      "protein_g": 69,
      "carbs_g": 6,
      "fat_g": 11,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4540,7 +4213,6 @@ window.MACRO_DATA = {
      "protein_g": 30,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4550,7 +4222,6 @@ window.MACRO_DATA = {
      "protein_g": 71,
      "carbs_g": 3,
      "fat_g": 7,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -4569,7 +4240,6 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 2,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4588,7 +4258,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4598,7 +4267,6 @@ window.MACRO_DATA = {
      "protein_g": 56,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4608,17 +4276,15 @@ window.MACRO_DATA = {
      "protein_g": 44,
      "carbs_g": 52,
      "fat_g": 23,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Wine Carbs for Macro - Wine, 5 oz; Apricot Jam, 16 gram(s); Kirkland Signature - Greek Yogurt, 240 g; People\u2019s Choice - Hot and Spicy Beef Jerky, 54 g",
+     "description": "Wine Carbs for Macro - Wine, 5 oz; Apricot Jam, 16 gram(s); Kirkland Signature - Greek Yogurt, 240 g; People’s Choice - Hot and Spicy Beef Jerky, 54 g",
      "calories": 513,
      "protein_g": 52,
      "carbs_g": 62,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4637,7 +4303,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 19,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -4647,17 +4312,15 @@ window.MACRO_DATA = {
      "protein_g": 53,
      "carbs_g": 8,
      "fat_g": 18,
-     "fiber_g": 3.5,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People\u2019s choice - Old Fashioned Beef Jerky, 36 g",
+     "description": "Fat - Fats, 5 gram; MGL - Fairlife Milk nonfat cup, 111 milliliter; Iso100 - Iso100 Rich Chocolate Protein Powder, 0.5 scoop; People’s choice - Old Fashioned Beef Jerky, 36 g",
      "calories": 272,
      "protein_g": 42,
      "carbs_g": 4,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4676,7 +4339,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4704,7 +4366,6 @@ window.MACRO_DATA = {
      "protein_g": 20,
      "carbs_g": 4,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4723,7 +4384,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 6,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4742,17 +4402,15 @@ window.MACRO_DATA = {
      "protein_g": 44,
      "carbs_g": 10,
      "fat_g": 15,
-     "fiber_g": 4.4,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 154,
      "protein_g": 28,
      "carbs_g": 0,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4771,7 +4429,6 @@ window.MACRO_DATA = {
      "protein_g": 63,
      "carbs_g": 5,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4781,7 +4438,6 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 11,
      "fat_g": 16,
-     "fiber_g": 4.7,
      "confidence": "high"
     },
     {
@@ -4800,7 +4456,6 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 8,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4819,7 +4474,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 1,
      "fat_g": 3,
-     "fiber_g": 0.3,
      "confidence": "high"
     },
     {
@@ -4829,7 +4483,6 @@ window.MACRO_DATA = {
      "protein_g": 46,
      "carbs_g": 3,
      "fat_g": 8,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -4839,17 +4492,15 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 8,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Cashews, roasted, unsalted, 18 pieces; Better Body PBFit - PBFit Powder, 2 Tbsp; People\u2019s choice - Old Fashioned Beef Jerky, 48 g",
+     "description": "Cashews, roasted, unsalted, 18 pieces; Better Body PBFit - PBFit Powder, 2 Tbsp; People’s choice - Old Fashioned Beef Jerky, 48 g",
      "calories": 379,
      "protein_g": 41,
      "carbs_g": 13,
      "fat_g": 19,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4868,7 +4519,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4878,7 +4528,6 @@ window.MACRO_DATA = {
      "protein_g": 49,
      "carbs_g": 0,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4888,7 +4537,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 113,
      "fat_g": 31,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4898,7 +4546,6 @@ window.MACRO_DATA = {
      "protein_g": 47,
      "carbs_g": 13,
      "fat_g": 20,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4917,7 +4564,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 5,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4927,7 +4573,6 @@ window.MACRO_DATA = {
      "protein_g": 53,
      "carbs_g": 7,
      "fat_g": 6,
-     "fiber_g": 2.4,
      "confidence": "high"
     },
     {
@@ -4946,7 +4591,6 @@ window.MACRO_DATA = {
      "protein_g": 75,
      "carbs_g": 6,
      "fat_g": 13,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -4965,7 +4609,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4975,7 +4618,6 @@ window.MACRO_DATA = {
      "protein_g": 58,
      "carbs_g": 0,
      "fat_g": 8,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -4985,17 +4627,15 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 10,
      "fat_g": 7,
-     "fiber_g": 3.3,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; People\u2019s Choice - Hot and Spicy Beef Jerky, 30 g; People\u2019s choice - Old Fashioned Beef Jerky, 30 g; Fat - Fats, 5 gram; Iso100 - Fruity Pebbles Protein Powder, 1 scoop",
+     "description": "Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; People’s Choice - Hot and Spicy Beef Jerky, 30 g; People’s choice - Old Fashioned Beef Jerky, 30 g; Fat - Fats, 5 gram; Iso100 - Fruity Pebbles Protein Powder, 1 scoop",
      "calories": 453,
      "protein_g": 71,
      "carbs_g": 15,
      "fat_g": 10,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5014,7 +4654,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 6,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5024,7 +4663,6 @@ window.MACRO_DATA = {
      "protein_g": 75,
      "carbs_g": 6,
      "fat_g": 22,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5038,12 +4676,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "1g - Carbs, 2.5 gram; Fat - Fats, 3 gram; Protein - Proteins, 1.5 gram; People\u2019s choice - Old Fashioned Beef Jerky, 62 g",
+     "description": "1g - Carbs, 2.5 gram; Fat - Fats, 3 gram; Protein - Proteins, 1.5 gram; People’s choice - Old Fashioned Beef Jerky, 62 g",
      "calories": 264,
      "protein_g": 42,
      "carbs_g": 3,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5062,7 +4699,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5072,7 +4708,6 @@ window.MACRO_DATA = {
      "protein_g": 65,
      "carbs_g": 12,
      "fat_g": 24,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5082,7 +4717,6 @@ window.MACRO_DATA = {
      "protein_g": 61,
      "carbs_g": 11,
      "fat_g": 5,
-     "fiber_g": 1.1,
      "confidence": "high"
     },
     {
@@ -5110,17 +4744,15 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "lunch",
-     "description": "1g - Carbs, 27 gram; Athena\u2019s reduced fat feta - Reduced-fat Feta, 18 gram; Grape tomatoes, 7 tomato; Persian Cucumber, 1 miniature; Grilled chicken thigh, no skin, 150 g; Kirkland Signature - Greek Yogurt, 100 g",
+     "description": "1g - Carbs, 27 gram; Athena’s reduced fat feta - Reduced-fat Feta, 18 gram; Grape tomatoes, 7 tomato; Persian Cucumber, 1 miniature; Grilled chicken thigh, no skin, 150 g; Kirkland Signature - Greek Yogurt, 100 g",
      "calories": 506,
      "protein_g": 49,
      "carbs_g": 35,
      "fat_g": 17,
-     "fiber_g": 0.9,
      "confidence": "high"
     },
     {
@@ -5134,12 +4766,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 62 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 62 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
      "calories": 449,
      "protein_g": 77,
      "carbs_g": 8,
      "fat_g": 12,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5158,37 +4789,33 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "lunch",
-     "description": "Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Grilled chicken thigh, no skin, 140 g; Athena\u2019s reduced fat feta - Reduced-fat Feta, 18 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Olive oil, 0.5 tsp",
+     "description": "Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Grilled chicken thigh, no skin, 140 g; Athena’s reduced fat feta - Reduced-fat Feta, 18 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Olive oil, 0.5 tsp",
      "calories": 413,
      "protein_g": 48,
      "carbs_g": 11,
      "fat_g": 18,
-     "fiber_g": 1.2,
      "confidence": "high"
     },
     {
      "time": "dinner",
-     "description": "Wild Planet - Wild Sardine, 3 ounces; Athena\u2019s reduced fat feta - Reduced-fat Feta, 21 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature",
+     "description": "Wild Planet - Wild Sardine, 3 ounces; Athena’s reduced fat feta - Reduced-fat Feta, 21 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature",
      "calories": 269,
      "protein_g": 33,
      "carbs_g": 11,
      "fat_g": 10,
-     "fiber_g": 1.2,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s Choice - Hot and Spicy Beef Jerky, 45 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
+     "description": "People’s Choice - Hot and Spicy Beef Jerky, 45 g; Fairlife - Fat Free Ultra-Filtered Milk, 217 ml; Fat - Fats, 5 gram; iso100 vanilla - iso100, 1 scoop",
      "calories": 405,
      "protein_g": 60,
      "carbs_g": 19,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5207,17 +4834,15 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "lunch",
-     "description": "Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Athena\u2019s reduced fat feta - Reduced-fat Feta, 21 gram; Olive oil, 0.5 tsp; Grilled chicken thigh, no skin, 140 g; Dark meat chicken - Dark Meat Chicken, 156 gram",
+     "description": "Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Persian Cucumber, 1.5 miniature; Grape tomatoes, 6 tomato; Athena’s reduced fat feta - Reduced-fat Feta, 21 gram; Olive oil, 0.5 tsp; Grilled chicken thigh, no skin, 140 g; Dark meat chicken - Dark Meat Chicken, 156 gram",
      "calories": 738,
      "protein_g": 91,
      "carbs_g": 11,
      "fat_g": 33,
-     "fiber_g": 1.2,
      "confidence": "high"
     },
     {
@@ -5236,7 +4861,6 @@ window.MACRO_DATA = {
      "protein_g": 37,
      "carbs_g": 7,
      "fat_g": 5,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5255,17 +4879,15 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "lunch",
-     "description": "Costco...victoria's - Rotisserie Chicken - White Meat- Packaged, 156 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature; Athena\u2019s reduced fat feta - Reduced-fat Feta, 21 gram",
+     "description": "Costco...victoria's - Rotisserie Chicken - White Meat- Packaged, 156 gram; Kirkland Signature - Greek Yogurt, 100 g; Red Onion, 20 gram; Grape tomatoes, 6 tomato; Persian Cucumber, 1.5 miniature; Athena’s reduced fat feta - Reduced-fat Feta, 21 gram",
      "calories": 331,
      "protein_g": 54,
      "carbs_g": 11,
      "fat_g": 7,
-     "fiber_g": 1.2,
      "confidence": "high"
     },
     {
@@ -5275,17 +4897,15 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 7,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
      "time": "snack",
-     "description": "People\u2019s choice - Old Fashioned Beef Jerky, 43 g",
+     "description": "People’s choice - Old Fashioned Beef Jerky, 43 g",
      "calories": 154,
      "protein_g": 28,
      "carbs_g": 0,
      "fat_g": 4,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5304,7 +4924,6 @@ window.MACRO_DATA = {
      "protein_g": 62,
      "carbs_g": 15,
      "fat_g": 14,
-     "fiber_g": 2.5,
      "confidence": "high"
     },
     {
@@ -5314,7 +4933,6 @@ window.MACRO_DATA = {
      "protein_g": 27.3,
      "carbs_g": 4.8,
      "fat_g": 8.9,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -5324,7 +4942,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5334,7 +4951,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 0,
      "fat_g": 15,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5344,7 +4960,6 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 14,
      "fat_g": 6,
-     "fiber_g": 0.4,
      "confidence": "high"
     }
    ]
@@ -5363,7 +4978,6 @@ window.MACRO_DATA = {
      "protein_g": 27.3,
      "carbs_g": 4.8,
      "fat_g": 8.9,
-     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -5373,7 +4987,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5383,7 +4996,6 @@ window.MACRO_DATA = {
      "protein_g": 60,
      "carbs_g": 12,
      "fat_g": 18,
-     "fiber_g": 0.7,
      "confidence": "medium"
     },
     {
@@ -5393,7 +5005,6 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 14,
      "fat_g": 4,
-     "fiber_g": 0.7,
      "confidence": "medium"
     },
     {
@@ -5403,7 +5014,6 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 9,
      "fat_g": 17,
-     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -5413,7 +5023,6 @@ window.MACRO_DATA = {
      "protein_g": 3.5,
      "carbs_g": 4.5,
      "fat_g": 8,
-     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -5423,7 +5032,6 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 22,
      "fat_g": 8,
-     "fiber_g": 0.6,
      "confidence": "medium"
     }
    ]
@@ -5442,7 +5050,6 @@ window.MACRO_DATA = {
      "protein_g": 46.5,
      "carbs_g": 10,
      "fat_g": 2,
-     "fiber_g": 1.3,
      "confidence": "medium"
     },
     {
@@ -5452,7 +5059,6 @@ window.MACRO_DATA = {
      "protein_g": 67.2,
      "carbs_g": 48,
      "fat_g": 39.2,
-     "fiber_g": 3.5,
      "confidence": "medium"
     },
     {
@@ -5462,7 +5068,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5472,7 +5077,6 @@ window.MACRO_DATA = {
      "protein_g": 25,
      "carbs_g": 3,
      "fat_g": 2.5,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5482,7 +5086,6 @@ window.MACRO_DATA = {
      "protein_g": 55.3,
      "carbs_g": 0,
      "fat_g": 7.7,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -5501,7 +5104,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5511,7 +5113,6 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 1,
      "fat_g": 1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5521,7 +5122,6 @@ window.MACRO_DATA = {
      "protein_g": 34.3,
      "carbs_g": 1,
      "fat_g": 8.9,
-     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -5531,7 +5131,6 @@ window.MACRO_DATA = {
      "protein_g": 29.4,
      "carbs_g": 12,
      "fat_g": 4,
-     "fiber_g": 3.4,
      "confidence": "medium"
     },
     {
@@ -5541,7 +5140,6 @@ window.MACRO_DATA = {
      "protein_g": 58.6,
      "carbs_g": 12.5,
      "fat_g": 3.8,
-     "fiber_g": 0.6,
      "confidence": "high"
     }
    ]
@@ -5560,7 +5158,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5570,7 +5167,6 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 0.5,
      "fat_g": 0.5,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5580,7 +5176,6 @@ window.MACRO_DATA = {
      "protein_g": 23.2,
      "carbs_g": 4.1,
      "fat_g": 7.6,
-     "fiber_g": 0.9,
      "confidence": "medium"
     },
     {
@@ -5590,7 +5185,6 @@ window.MACRO_DATA = {
      "protein_g": 35.7,
      "carbs_g": 11.3,
      "fat_g": 5,
-     "fiber_g": 2.6,
      "confidence": "medium"
     },
     {
@@ -5600,7 +5194,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 7,
      "fat_g": 1.5,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -5610,7 +5203,6 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 25,
      "fat_g": 6,
-     "fiber_g": 0.9,
      "confidence": "low"
     },
     {
@@ -5620,7 +5212,6 @@ window.MACRO_DATA = {
      "protein_g": 71,
      "carbs_g": 17,
      "fat_g": 23,
-     "fiber_g": 3.5,
      "confidence": "low"
     },
     {
@@ -5630,7 +5221,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 81,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -5640,7 +5230,6 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 20,
      "fat_g": 13,
-     "fiber_g": 3.5,
      "confidence": "low"
     }
    ]
@@ -5659,7 +5248,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -5669,7 +5257,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5679,7 +5266,6 @@ window.MACRO_DATA = {
      "protein_g": 40,
      "carbs_g": 12,
      "fat_g": 6,
-     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -5689,17 +5275,15 @@ window.MACRO_DATA = {
      "protein_g": 29,
      "carbs_g": 5,
      "fat_g": 2,
-     "fiber_g": 0,
      "confidence": "medium"
     },
     {
      "time": "evening",
-     "description": "Omakase dinner at Hibari (Portola Valley) -- \u5c3e\u702c\u306e\u96ea\u3069\u3051 Junmai Daiginjo sake (4 small cups), saba oshizushi, eggplant dashi-rice, sashimi assortment (tuna/bonito, squid, white fish); tofu+uni, kampachi sashimi, soy-simmered octopus, dobin mushi (broth+fish/shrimp/mushroom), fried whole fish+vegetable+herb tartar, rock cod+kabocha+shishito; freshwater eel, egg drop soup+rice, red bean paste pastry",
+     "description": "Omakase dinner at Hibari (Portola Valley) -- 尾瀬の雪どけ Junmai Daiginjo sake (4 small cups), saba oshizushi, eggplant dashi-rice, sashimi assortment (tuna/bonito, squid, white fish); tofu+uni, kampachi sashimi, soy-simmered octopus, dobin mushi (broth+fish/shrimp/mushroom), fried whole fish+vegetable+herb tartar, rock cod+kabocha+shishito; freshwater eel, egg drop soup+rice, red bean paste pastry",
      "calories": 1237,
      "protein_g": 82,
      "carbs_g": 135.5,
      "fat_g": 42.5,
-     "fiber_g": 5.5,
      "confidence": "low"
     }
    ]
@@ -5718,7 +5302,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -5728,7 +5311,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5738,7 +5320,6 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 14,
      "fat_g": 6,
-     "fiber_g": 3.5,
      "confidence": "medium"
     },
     {
@@ -5748,7 +5329,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 56,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -5758,7 +5338,6 @@ window.MACRO_DATA = {
      "protein_g": 132,
      "carbs_g": 105,
      "fat_g": 50,
-     "fiber_g": 3.5,
      "confidence": "low"
     },
     {
@@ -5768,7 +5347,6 @@ window.MACRO_DATA = {
      "protein_g": 13,
      "carbs_g": 19,
      "fat_g": 10,
-     "fiber_g": 1.2,
      "confidence": "low"
     }
    ]
@@ -5787,7 +5365,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -5797,7 +5374,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5807,7 +5383,6 @@ window.MACRO_DATA = {
      "protein_g": 11.1,
      "carbs_g": 0.5,
      "fat_g": 6.4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5817,7 +5392,6 @@ window.MACRO_DATA = {
      "protein_g": 42.4,
      "carbs_g": 8.1,
      "fat_g": 10.1,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -5827,7 +5401,6 @@ window.MACRO_DATA = {
      "protein_g": 57.5,
      "carbs_g": 5.8,
      "fat_g": 18.9,
-     "fiber_g": 16.3,
      "confidence": "medium"
     },
     {
@@ -5837,7 +5410,6 @@ window.MACRO_DATA = {
      "protein_g": 39.9,
      "carbs_g": 9.4,
      "fat_g": 4.4,
-     "fiber_g": 0.9,
      "confidence": "high"
     }
    ]
@@ -5856,7 +5428,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -5866,7 +5437,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5876,7 +5446,6 @@ window.MACRO_DATA = {
      "protein_g": 13,
      "carbs_g": 11.3,
      "fat_g": 9.5,
-     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -5886,7 +5455,6 @@ window.MACRO_DATA = {
      "protein_g": 55.4,
      "carbs_g": 30.2,
      "fat_g": 38.5,
-     "fiber_g": 7,
      "confidence": "low"
     },
     {
@@ -5896,7 +5464,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 9,
      "fat_g": 1.5,
-     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -5906,7 +5473,6 @@ window.MACRO_DATA = {
      "protein_g": 27,
      "carbs_g": 13.5,
      "fat_g": 3.9,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5916,7 +5482,6 @@ window.MACRO_DATA = {
      "protein_g": 8,
      "carbs_g": 2,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -5926,7 +5491,6 @@ window.MACRO_DATA = {
      "protein_g": 64.5,
      "carbs_g": 16.5,
      "fat_g": 17,
-     "fiber_g": 3.5,
      "confidence": "medium"
     },
     {
@@ -5936,7 +5500,6 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 19,
      "fat_g": 3,
-     "fiber_g": 0.3,
      "confidence": "medium"
     }
    ]
@@ -5955,7 +5518,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -5965,7 +5527,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -5975,7 +5536,6 @@ window.MACRO_DATA = {
      "protein_g": 54.1,
      "carbs_g": 5.5,
      "fat_g": 17.8,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -5985,7 +5545,6 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 19,
      "fat_g": 3,
-     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -5995,7 +5554,6 @@ window.MACRO_DATA = {
      "protein_g": 22,
      "carbs_g": 2,
      "fat_g": 7,
-     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -6005,7 +5563,6 @@ window.MACRO_DATA = {
      "protein_g": 18,
      "carbs_g": 39,
      "fat_g": 8,
-     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -6015,7 +5572,6 @@ window.MACRO_DATA = {
      "protein_g": 18,
      "carbs_g": 7,
      "fat_g": 7,
-     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -6025,7 +5581,6 @@ window.MACRO_DATA = {
      "protein_g": 39.9,
      "carbs_g": 9.4,
      "fat_g": 4.4,
-     "fiber_g": 0.5,
      "confidence": "high"
     }
    ]
@@ -6044,7 +5599,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -6054,7 +5608,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6064,7 +5617,6 @@ window.MACRO_DATA = {
      "protein_g": 56,
      "carbs_g": 6.7,
      "fat_g": 18.4,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -6074,7 +5626,6 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 19.5,
      "fat_g": 4,
-     "fiber_g": 1.5,
      "confidence": "high"
     },
     {
@@ -6084,7 +5635,6 @@ window.MACRO_DATA = {
      "protein_g": 8.1,
      "carbs_g": 0,
      "fat_g": 1.8,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6094,7 +5644,6 @@ window.MACRO_DATA = {
      "protein_g": 17,
      "carbs_g": 8.5,
      "fat_g": 2.4,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6104,7 +5653,6 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 1,
      "fat_g": 12,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -6114,7 +5662,6 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 18,
      "fat_g": 7.5,
-     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -6124,7 +5671,6 @@ window.MACRO_DATA = {
      "protein_g": 5.5,
      "carbs_g": 4,
      "fat_g": 6.5,
-     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -6134,7 +5680,6 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 0.5,
      "fat_g": 6,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -6144,7 +5689,6 @@ window.MACRO_DATA = {
      "protein_g": 8,
      "carbs_g": 5,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -6154,7 +5698,6 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 0,
      "fat_g": 9,
-     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -6164,7 +5707,6 @@ window.MACRO_DATA = {
      "protein_g": 11,
      "carbs_g": 35,
      "fat_g": 10,
-     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -6174,7 +5716,6 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 1.5,
      "fat_g": 2.8,
-     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -6184,7 +5725,6 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 0.5,
      "fat_g": 2.5,
-     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -6194,7 +5734,6 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 5,
      "fat_g": 5.5,
-     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -6204,7 +5743,6 @@ window.MACRO_DATA = {
      "protein_g": 12,
      "carbs_g": 7,
      "fat_g": 9,
-     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -6214,7 +5752,6 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 1.5,
      "fat_g": 2.8,
-     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -6224,7 +5761,6 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 5,
      "fat_g": 5.5,
-     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -6234,7 +5770,6 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 0.5,
      "fat_g": 2.5,
-     "fiber_g": 0,
      "confidence": "medium"
     }
    ]
@@ -6253,7 +5788,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -6263,7 +5797,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6273,7 +5806,6 @@ window.MACRO_DATA = {
      "protein_g": 24,
      "carbs_g": 7,
      "fat_g": 10.4,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -6283,7 +5815,6 @@ window.MACRO_DATA = {
      "protein_g": 7.7,
      "carbs_g": 0,
      "fat_g": 1.1,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6293,7 +5824,6 @@ window.MACRO_DATA = {
      "protein_g": 54.7,
      "carbs_g": 6.6,
      "fat_g": 18,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -6303,7 +5833,6 @@ window.MACRO_DATA = {
      "protein_g": 39.9,
      "carbs_g": 9.4,
      "fat_g": 4.4,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -6313,7 +5842,6 @@ window.MACRO_DATA = {
      "protein_g": 14.1,
      "carbs_g": 39.3,
      "fat_g": 15.3,
-     "fiber_g": 1.5,
      "confidence": "medium"
     }
    ]
@@ -6332,7 +5860,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -6342,7 +5869,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6352,7 +5878,6 @@ window.MACRO_DATA = {
      "protein_g": 59.4,
      "carbs_g": 6.9,
      "fat_g": 19.5,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -6362,7 +5887,6 @@ window.MACRO_DATA = {
      "protein_g": 30.5,
      "carbs_g": 35.2,
      "fat_g": 13.7,
-     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -6372,7 +5896,6 @@ window.MACRO_DATA = {
      "protein_g": 0.9,
      "carbs_g": 9.6,
      "fat_g": 4.1,
-     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -6382,7 +5905,6 @@ window.MACRO_DATA = {
      "protein_g": 13.5,
      "carbs_g": 6.8,
      "fat_g": 1.9,
-     "fiber_g": 0,
      "confidence": "high"
     }
    ]
@@ -6401,7 +5923,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -6411,7 +5932,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6421,7 +5941,6 @@ window.MACRO_DATA = {
      "protein_g": 19,
      "carbs_g": 37,
      "fat_g": 3,
-     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -6431,7 +5950,6 @@ window.MACRO_DATA = {
      "protein_g": 9.4,
      "carbs_g": 35.1,
      "fat_g": 8.1,
-     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -6441,7 +5959,6 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 1,
      "fat_g": 1,
-     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -6451,7 +5968,6 @@ window.MACRO_DATA = {
      "protein_g": 33.6,
      "carbs_g": 9,
      "fat_g": 15,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -6461,7 +5977,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 50,
      "fat_g": 0,
-     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -6471,7 +5986,6 @@ window.MACRO_DATA = {
      "protein_g": 38.2,
      "carbs_g": 9.1,
      "fat_g": 1.5,
-     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -6481,7 +5995,6 @@ window.MACRO_DATA = {
      "protein_g": 6.7,
      "carbs_g": 45.7,
      "fat_g": 8.7,
-     "fiber_g": 2.5,
      "confidence": "low"
     },
     {
@@ -6491,7 +6004,6 @@ window.MACRO_DATA = {
      "protein_g": 16,
      "carbs_g": 8,
      "fat_g": 2.3,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6501,7 +6013,6 @@ window.MACRO_DATA = {
      "protein_g": 20.6,
      "carbs_g": 0,
      "fat_g": 2.9,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6511,7 +6022,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 37.5,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "low"
     }
    ]
@@ -6530,7 +6040,6 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
      "confidence": "high"
     },
     {
@@ -6540,7 +6049,6 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -6550,7 +6058,6 @@ window.MACRO_DATA = {
      "protein_g": 19,
      "carbs_g": 37,
      "fat_g": 3,
-     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -6560,7 +6067,6 @@ window.MACRO_DATA = {
      "protein_g": 31.1,
      "carbs_g": 9.2,
      "fat_g": 14.4,
-     "fiber_g": 8,
      "confidence": "medium"
     },
     {
@@ -6570,7 +6076,6 @@ window.MACRO_DATA = {
      "protein_g": 20.5,
      "carbs_g": 3.9,
      "fat_g": 4.9,
-     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -6580,7 +6085,6 @@ window.MACRO_DATA = {
      "protein_g": 52,
      "carbs_g": 62,
      "fat_g": 40,
-     "fiber_g": 6.5,
      "confidence": "medium"
     }
    ]
@@ -6599,7 +6103,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -6609,7 +6113,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -6619,7 +6123,7 @@ window.MACRO_DATA = {
      "protein_g": 55,
      "carbs_g": 38,
      "fat_g": 18,
-     "fiber_g": 4,
+     "fiber_g": 5,
      "confidence": "medium"
     },
     {
@@ -6629,7 +6133,7 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 40,
      "fat_g": 14,
-     "fiber_g": 1.5,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -6639,7 +6143,7 @@ window.MACRO_DATA = {
      "protein_g": 23,
      "carbs_g": 26,
      "fat_g": 23,
-     "fiber_g": 2,
+     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -6649,10 +6153,11 @@ window.MACRO_DATA = {
      "protein_g": 23,
      "carbs_g": 30,
      "fat_g": 12,
-     "fiber_g": 1,
+     "fiber_g": 2,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 18
   },
   "2026-09-27": {
    "date": "2026-09-27",
@@ -6668,7 +6173,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -6678,7 +6183,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -6708,7 +6213,7 @@ window.MACRO_DATA = {
      "protein_g": 45,
      "carbs_g": 35,
      "fat_g": 12,
-     "fiber_g": 9,
+     "fiber_g": 8,
      "confidence": "low"
     },
     {
@@ -6761,7 +6266,8 @@ window.MACRO_DATA = {
      "fiber_g": 0.5,
      "confidence": "high"
     }
-   ]
+   ],
+   "fiber_g": 26.5
   },
   "2026-09-28": {
    "date": "2026-09-28",
@@ -6777,7 +6283,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -6787,7 +6293,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -6797,6 +6303,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 29,
      "fat_g": 12,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -6806,6 +6313,7 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 22,
      "fat_g": 12,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -6815,6 +6323,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 3,
      "fat_g": 2,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -6824,6 +6333,7 @@ window.MACRO_DATA = {
      "protein_g": 18,
      "carbs_g": 17,
      "fat_g": 14,
+     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -6833,6 +6343,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 19,
      "fat_g": 6,
+     "fiber_g": 4,
      "confidence": "low"
     },
     {
@@ -6842,6 +6353,7 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 34,
      "fat_g": 0,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -6851,6 +6363,7 @@ window.MACRO_DATA = {
      "protein_g": 40.5,
      "carbs_g": 71,
      "fat_g": 31.5,
+     "fiber_g": 10,
      "confidence": "low"
     },
     {
@@ -6860,6 +6373,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 6,
      "fat_g": 6.5,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -6869,6 +6383,7 @@ window.MACRO_DATA = {
      "protein_g": 16,
      "carbs_g": 1,
      "fat_g": 7,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -6878,6 +6393,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 41,
      "fat_g": 15,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -6887,6 +6403,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 8,
      "fat_g": 22,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -6896,6 +6413,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 63,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -6905,6 +6423,7 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 28,
      "fat_g": 4,
+     "fiber_g": 6,
      "confidence": "low"
     },
     {
@@ -6914,6 +6433,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 7,
      "fat_g": 6,
+     "fiber_g": 4,
      "confidence": "low"
     },
     {
@@ -6923,6 +6443,7 @@ window.MACRO_DATA = {
      "protein_g": 38,
      "carbs_g": 24,
      "fat_g": 20,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -6932,6 +6453,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 9,
      "fat_g": 4,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -6941,6 +6463,7 @@ window.MACRO_DATA = {
      "protein_g": 24,
      "carbs_g": 10,
      "fat_g": 3,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -6950,9 +6473,11 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 22,
      "fat_g": 6,
+     "fiber_g": 1,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 42.5
   },
   "2026-09-29": {
    "date": "2026-09-29",
@@ -6968,7 +6493,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -6978,7 +6503,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -6988,6 +6513,7 @@ window.MACRO_DATA = {
      "protein_g": 12,
      "carbs_g": 8,
      "fat_g": 6,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -6997,6 +6523,7 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 3.5,
      "fat_g": 8,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7006,15 +6533,7 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 23,
      "fat_g": 9,
-     "confidence": "low"
-    },
-    {
-     "time": "lunch",
-     "description": "Lentil & roasted vegetable salad, additional portion",
-     "calories": 195,
-     "protein_g": 7,
-     "carbs_g": 23,
-     "fat_g": 9,
+     "fiber_g": 7,
      "confidence": "low"
     },
     {
@@ -7024,6 +6543,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 0,
      "fat_g": 2,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -7033,6 +6553,17 @@ window.MACRO_DATA = {
      "protein_g": 35,
      "carbs_g": 18,
      "fat_g": 21,
+     "fiber_g": 3,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Lentil & roasted vegetable salad, additional portion",
+     "calories": 195,
+     "protein_g": 7,
+     "carbs_g": 23,
+     "fat_g": 9,
+     "fiber_g": 7,
      "confidence": "low"
     },
     {
@@ -7042,6 +6573,7 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 18,
      "fat_g": 0,
+     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -7051,6 +6583,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 22,
      "fat_g": 1.5,
+     "fiber_g": 2.5,
      "confidence": "low"
     },
     {
@@ -7060,6 +6593,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 2,
      "fat_g": 7,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -7069,6 +6603,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 10,
      "fat_g": 3,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7078,6 +6613,7 @@ window.MACRO_DATA = {
      "protein_g": 0.5,
      "carbs_g": 3.5,
      "fat_g": 3.5,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7087,6 +6623,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 17,
      "fat_g": 8,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7096,6 +6633,7 @@ window.MACRO_DATA = {
      "protein_g": 50,
      "carbs_g": 20,
      "fat_g": 25,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7105,6 +6643,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 13.5,
      "fat_g": 5,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7114,6 +6653,7 @@ window.MACRO_DATA = {
      "protein_g": 2.5,
      "carbs_g": 15,
      "fat_g": 9,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7123,6 +6663,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 63,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7132,24 +6673,27 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 42.5
   },
   "2026-09-30": {
    "date": "2026-09-30",
    "calories": 4210,
    "protein_g": 196.5,
    "carbs_g": 408.8,
-   "fat_g": 190.3,
+   "fat_g": 190.4,
    "meals": [
     {
      "time": "morning",
-     "description": "Fage yogurt (\u0391\u03b3\u03b5\u03bb\u03b1\u03b4\u03af\u03c4\u03c3\u03b1, 4% fat), full 200g container",
+     "description": "Fage yogurt (Αγελαδίτσα, 4% fat), full 200g container",
      "calories": 160,
      "protein_g": 9,
      "carbs_g": 13,
      "fat_g": 8,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -7159,6 +6703,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 16.5,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -7168,6 +6713,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 3.5,
      "fat_g": 11,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7177,6 +6723,7 @@ window.MACRO_DATA = {
      "protein_g": 19,
      "carbs_g": 1,
      "fat_g": 19,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7186,6 +6733,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 12.5,
      "fat_g": 0.5,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -7195,7 +6743,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
-     "fiber_g": 6,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -7205,7 +6753,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
-     "fiber_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -7215,6 +6763,7 @@ window.MACRO_DATA = {
      "protein_g": 4.5,
      "carbs_g": 24.5,
      "fat_g": 1.5,
+     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -7224,6 +6773,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 6,
      "fat_g": 3.2,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7233,6 +6783,7 @@ window.MACRO_DATA = {
      "protein_g": 3.2,
      "carbs_g": 5.6,
      "fat_g": 4,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7242,6 +6793,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 9,
      "fat_g": 10,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -7251,6 +6803,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 12,
      "fat_g": 4,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7260,6 +6813,7 @@ window.MACRO_DATA = {
      "protein_g": 5.5,
      "carbs_g": 5,
      "fat_g": 13,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7269,6 +6823,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 10,
      "fat_g": 0,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7278,6 +6833,7 @@ window.MACRO_DATA = {
      "protein_g": 5.8,
      "carbs_g": 0,
      "fat_g": 2,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -7287,6 +6843,7 @@ window.MACRO_DATA = {
      "protein_g": 6.4,
      "carbs_g": 0,
      "fat_g": 6.8,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -7296,6 +6853,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 10,
      "fat_g": 5,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7305,6 +6863,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 3,
      "fat_g": 4.5,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -7314,6 +6873,7 @@ window.MACRO_DATA = {
      "protein_g": 12,
      "carbs_g": 2.4,
      "fat_g": 2.4,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7323,6 +6883,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 13.2,
      "fat_g": 7.1,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7332,6 +6893,7 @@ window.MACRO_DATA = {
      "protein_g": 1.8,
      "carbs_g": 4.8,
      "fat_g": 1.8,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -7341,6 +6903,7 @@ window.MACRO_DATA = {
      "protein_g": 1.75,
      "carbs_g": 0.25,
      "fat_g": 2.75,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -7350,6 +6913,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 6.25,
      "fat_g": 4,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7359,6 +6923,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 3,
      "fat_g": 6.5,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -7368,6 +6933,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 0.8,
      "fat_g": 0.8,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7377,6 +6943,7 @@ window.MACRO_DATA = {
      "protein_g": 36,
      "carbs_g": 0,
      "fat_g": 22,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7386,6 +6953,7 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 28,
      "fat_g": 8,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -7395,6 +6963,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 22,
      "fat_g": 9,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7404,6 +6973,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 26,
      "fat_g": 6.5,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7413,6 +6983,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 26,
      "fat_g": 5.5,
+     "fiber_g": 2.5,
      "confidence": "low"
     },
     {
@@ -7422,6 +6993,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 32,
      "fat_g": 8,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7431,6 +7003,7 @@ window.MACRO_DATA = {
      "protein_g": 4.5,
      "carbs_g": 24.5,
      "fat_g": 1.5,
+     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -7440,6 +7013,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7449,6 +7023,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7458,9 +7033,11 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 7,
      "fat_g": 8,
+     "fiber_g": 2.5,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 48
   },
   "2026-10-01": {
    "date": "2026-10-01",
@@ -7476,6 +7053,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -7485,6 +7063,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -7494,6 +7073,7 @@ window.MACRO_DATA = {
      "protein_g": 13,
      "carbs_g": 1,
      "fat_g": 21,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7503,6 +7083,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 8,
      "fat_g": 12,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7512,6 +7093,7 @@ window.MACRO_DATA = {
      "protein_g": 17,
      "carbs_g": 32,
      "fat_g": 7,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
@@ -7521,6 +7103,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 25,
      "fat_g": 21,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -7530,6 +7113,7 @@ window.MACRO_DATA = {
      "protein_g": 16,
      "carbs_g": 47,
      "fat_g": 32,
+     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -7539,6 +7123,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 13,
      "fat_g": 10,
+     "fiber_g": 1,
      "confidence": "low-medium"
     },
     {
@@ -7548,6 +7133,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 15,
      "fat_g": 18,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7557,6 +7143,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 7,
      "fat_g": 5,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7566,6 +7153,7 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 55,
      "fat_g": 8,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7575,6 +7163,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7584,6 +7173,7 @@ window.MACRO_DATA = {
      "protein_g": 15,
      "carbs_g": 24,
      "fat_g": 33,
+     "fiber_g": 4,
      "confidence": "medium"
     },
     {
@@ -7593,16 +7183,18 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 8,
      "fat_g": 5,
+     "fiber_g": 1.5,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 27.5
   },
   "2026-10-02": {
    "date": "2026-10-02",
-   "calories": 2629.5,
-   "protein_g": 122.41,
-   "carbs_g": 228.46,
-   "fat_g": 138.63,
+   "calories": 2630,
+   "protein_g": 122.4,
+   "carbs_g": 228.5,
+   "fat_g": 138.6,
    "meals": [
     {
      "time": "morning",
@@ -7611,6 +7203,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -7620,15 +7213,17 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
      "time": "morning",
-     "description": "Greek sheep's milk yogurt (~180g) with honey drizzle",
+     "description": "Greek sheep's milk yogurt (~180g) with honey drizzle (label-confirmed: 104kcal/100g, F6.9/C4.5/P5.9 per 100g)",
      "calories": 233,
      "protein_g": 11,
      "carbs_g": 21,
      "fat_g": 12,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7638,6 +7233,7 @@ window.MACRO_DATA = {
      "protein_g": 13,
      "carbs_g": 1,
      "fat_g": 16,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7647,6 +7243,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 8,
      "fat_g": 11,
+     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -7656,6 +7253,7 @@ window.MACRO_DATA = {
      "protein_g": 0.3,
      "carbs_g": 1.4,
      "fat_g": 3.4,
+     "fiber_g": 0.4,
      "confidence": "medium"
     },
     {
@@ -7665,6 +7263,7 @@ window.MACRO_DATA = {
      "protein_g": 3.2,
      "carbs_g": 17,
      "fat_g": 6,
+     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -7674,6 +7273,7 @@ window.MACRO_DATA = {
      "protein_g": 0.3,
      "carbs_g": 1.8,
      "fat_g": 2,
+     "fiber_g": 0.25,
      "confidence": "medium"
     },
     {
@@ -7683,6 +7283,7 @@ window.MACRO_DATA = {
      "protein_g": 9.5,
      "carbs_g": 0.7,
      "fat_g": 10.5,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7692,6 +7293,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 37.5,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7701,6 +7303,7 @@ window.MACRO_DATA = {
      "protein_g": 4.5,
      "carbs_g": 24.5,
      "fat_g": 9.5,
+     "fiber_g": 2.5,
      "confidence": "medium"
     },
     {
@@ -7710,6 +7313,7 @@ window.MACRO_DATA = {
      "protein_g": 2.9,
      "carbs_g": 0,
      "fat_g": 1,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -7719,6 +7323,7 @@ window.MACRO_DATA = {
      "protein_g": 4.3,
      "carbs_g": 0,
      "fat_g": 0.05,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7728,6 +7333,7 @@ window.MACRO_DATA = {
      "protein_g": 0.75,
      "carbs_g": 2,
      "fat_g": 11.25,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -7737,6 +7343,7 @@ window.MACRO_DATA = {
      "protein_g": 0.6,
      "carbs_g": 3.2,
      "fat_g": 3.6,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -7746,6 +7353,7 @@ window.MACRO_DATA = {
      "protein_g": 4.3,
      "carbs_g": 0,
      "fat_g": 0.05,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7755,6 +7363,7 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 4,
      "fat_g": 6,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7764,6 +7373,7 @@ window.MACRO_DATA = {
      "protein_g": 0.2,
      "carbs_g": 1,
      "fat_g": 2.5,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -7773,6 +7383,7 @@ window.MACRO_DATA = {
      "protein_g": 1.35,
      "carbs_g": 8.25,
      "fat_g": 0.225,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -7782,6 +7393,7 @@ window.MACRO_DATA = {
      "protein_g": 3.08,
      "carbs_g": 5.08,
      "fat_g": 9,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -7791,6 +7403,7 @@ window.MACRO_DATA = {
      "protein_g": 4.9,
      "carbs_g": 11.2,
      "fat_g": 1.24,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -7800,6 +7413,7 @@ window.MACRO_DATA = {
      "protein_g": 3.08,
      "carbs_g": 5.08,
      "fat_g": 9,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -7809,6 +7423,7 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 0,
      "fat_g": 3.675,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -7818,6 +7433,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 16.8,
      "fat_g": 1.2,
+     "fiber_g": 0.9,
      "confidence": "medium"
     },
     {
@@ -7827,6 +7443,7 @@ window.MACRO_DATA = {
      "protein_g": 4.9,
      "carbs_g": 11.2,
      "fat_g": 1.24,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -7836,15 +7453,17 @@ window.MACRO_DATA = {
      "protein_g": 3.25,
      "carbs_g": 28.75,
      "fat_g": 14.2,
+     "fiber_g": 1,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 18.8
   },
   "2026-10-03": {
    "date": "2026-10-03",
    "calories": 2028,
    "protein_g": 103.6,
-   "carbs_g": 203.85,
+   "carbs_g": 203.9,
    "fat_g": 99.2,
    "meals": [
     {
@@ -7854,6 +7473,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -7863,6 +7483,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -7872,6 +7493,7 @@ window.MACRO_DATA = {
      "protein_g": 25.9,
      "carbs_g": 58.9,
      "fat_g": 19.3,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7881,6 +7503,7 @@ window.MACRO_DATA = {
      "protein_g": 2.6,
      "carbs_g": 3,
      "fat_g": 2,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7890,6 +7513,7 @@ window.MACRO_DATA = {
      "protein_g": 1.5,
      "carbs_g": 7,
      "fat_g": 2.1,
+     "fiber_g": 0.8,
      "confidence": "low"
     },
     {
@@ -7899,6 +7523,7 @@ window.MACRO_DATA = {
      "protein_g": 5.2,
      "carbs_g": 5,
      "fat_g": 8.9,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7908,6 +7533,7 @@ window.MACRO_DATA = {
      "protein_g": 5.35,
      "carbs_g": 5.9,
      "fat_g": 10.2,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -7917,6 +7543,7 @@ window.MACRO_DATA = {
      "protein_g": 4.2,
      "carbs_g": 8.3,
      "fat_g": 6.15,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -7926,6 +7553,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 6,
      "fat_g": 3.5,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7935,6 +7563,7 @@ window.MACRO_DATA = {
      "protein_g": 5,
      "carbs_g": 9.2,
      "fat_g": 10.3,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -7944,6 +7573,7 @@ window.MACRO_DATA = {
      "protein_g": 14.8,
      "carbs_g": 10,
      "fat_g": 17.7,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -7953,6 +7583,7 @@ window.MACRO_DATA = {
      "protein_g": 0.5,
      "carbs_g": 7,
      "fat_g": 0.5,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -7962,6 +7593,7 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 24,
      "fat_g": 3,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -7971,6 +7603,7 @@ window.MACRO_DATA = {
      "protein_g": 1.05,
      "carbs_g": 7.05,
      "fat_g": 3,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -7980,6 +7613,7 @@ window.MACRO_DATA = {
      "protein_g": 6.5,
      "carbs_g": 32.5,
      "fat_g": 1.95,
+     "fiber_g": 2.6,
      "confidence": "low"
     },
     {
@@ -7989,9 +7623,11 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 1,
      "fat_g": 6.6,
+     "fiber_g": 0,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 18.3
   },
   "2026-10-04": {
    "date": "2026-10-04",
@@ -8007,6 +7643,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -8016,6 +7653,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -8025,6 +7663,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 3,
      "fat_g": 14,
+     "fiber_g": 0.2,
      "confidence": "medium"
     },
     {
@@ -8034,6 +7673,7 @@ window.MACRO_DATA = {
      "protein_g": 2.8,
      "carbs_g": 13.4,
      "fat_g": 2.6,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -8043,6 +7683,7 @@ window.MACRO_DATA = {
      "protein_g": 6.4,
      "carbs_g": 10.6,
      "fat_g": 6.1,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8052,6 +7693,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 10.5,
      "fat_g": 0,
+     "fiber_g": 0.2,
      "confidence": "medium"
     },
     {
@@ -8061,6 +7703,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 6.25,
      "fat_g": 5,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -8070,6 +7713,7 @@ window.MACRO_DATA = {
      "protein_g": 0.6,
      "carbs_g": 8.25,
      "fat_g": 2.4,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8079,6 +7723,7 @@ window.MACRO_DATA = {
      "protein_g": 1.1,
      "carbs_g": 11.7,
      "fat_g": 0.2,
+     "fiber_g": 1.2,
      "confidence": "medium"
     },
     {
@@ -8088,6 +7733,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 0.25,
      "fat_g": 3.5,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8097,6 +7743,7 @@ window.MACRO_DATA = {
      "protein_g": 5.1,
      "carbs_g": 6.2,
      "fat_g": 10.2,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8106,6 +7753,7 @@ window.MACRO_DATA = {
      "protein_g": 5.8,
      "carbs_g": 3.2,
      "fat_g": 2.55,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8115,6 +7763,7 @@ window.MACRO_DATA = {
      "protein_g": 21.15,
      "carbs_g": 4.25,
      "fat_g": 4.075,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8124,6 +7773,7 @@ window.MACRO_DATA = {
      "protein_g": 1.25,
      "carbs_g": 14,
      "fat_g": 2.5,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8133,6 +7783,7 @@ window.MACRO_DATA = {
      "protein_g": 26.4,
      "carbs_g": 3.6,
      "fat_g": 20.4,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8142,6 +7793,7 @@ window.MACRO_DATA = {
      "protein_g": 5.2,
      "carbs_g": 22.4,
      "fat_g": 4.8,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8151,6 +7803,7 @@ window.MACRO_DATA = {
      "protein_g": 5.05,
      "carbs_g": 5,
      "fat_g": 11.45,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8160,6 +7813,7 @@ window.MACRO_DATA = {
      "protein_g": 6.4,
      "carbs_g": 8,
      "fat_g": 9.6,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8169,6 +7823,7 @@ window.MACRO_DATA = {
      "protein_g": 13.3,
      "carbs_g": 7.4,
      "fat_g": 9.1,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -8178,6 +7833,7 @@ window.MACRO_DATA = {
      "protein_g": 2.8,
      "carbs_g": 10,
      "fat_g": 2.4,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8187,6 +7843,7 @@ window.MACRO_DATA = {
      "protein_g": 15,
      "carbs_g": 0,
      "fat_g": 12,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8196,6 +7853,7 @@ window.MACRO_DATA = {
      "protein_g": 14.6,
      "carbs_g": 7.5,
      "fat_g": 11.8,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8205,6 +7863,7 @@ window.MACRO_DATA = {
      "protein_g": 24,
      "carbs_g": 30,
      "fat_g": 36,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8214,6 +7873,7 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 8,
      "fat_g": 2,
+     "fiber_g": 0.2,
      "confidence": "low"
     },
     {
@@ -8223,6 +7883,7 @@ window.MACRO_DATA = {
      "protein_g": 1.8,
      "carbs_g": 17.1,
      "fat_g": 7.65,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8232,6 +7893,7 @@ window.MACRO_DATA = {
      "protein_g": 2.25,
      "carbs_g": 13.4,
      "fat_g": 4.2,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8241,6 +7903,7 @@ window.MACRO_DATA = {
      "protein_g": 3.6,
      "carbs_g": 27.9,
      "fat_g": 10.5,
+     "fiber_g": 1.4,
      "confidence": "low"
     },
     {
@@ -8250,15 +7913,17 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 62.5,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 20.8
   },
   "2026-10-05": {
    "date": "2026-10-05",
-   "calories": 3196.1,
+   "calories": 3196,
    "protein_g": 180,
-   "carbs_g": 260.1,
+   "carbs_g": 260,
    "fat_g": 158,
    "meals": [
     {
@@ -8268,6 +7933,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -8277,6 +7943,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -8286,6 +7953,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 3,
      "fat_g": 14,
+     "fiber_g": 0.2,
      "confidence": "medium"
     },
     {
@@ -8295,6 +7963,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 0.25,
      "fat_g": 3.5,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8304,6 +7973,7 @@ window.MACRO_DATA = {
      "protein_g": 0.2,
      "carbs_g": 2.3,
      "fat_g": 0,
+     "fiber_g": 0.2,
      "confidence": "medium"
     },
     {
@@ -8313,6 +7983,7 @@ window.MACRO_DATA = {
      "protein_g": 0.4,
      "carbs_g": 5.1,
      "fat_g": 0.2,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -8322,6 +7993,7 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 7,
      "fat_g": 2.8,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8331,6 +8003,7 @@ window.MACRO_DATA = {
      "protein_g": 5.25,
      "carbs_g": 12.7,
      "fat_g": 7.55,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8340,6 +8013,7 @@ window.MACRO_DATA = {
      "protein_g": 3.6,
      "carbs_g": 9,
      "fat_g": 8.1,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -8349,6 +8023,7 @@ window.MACRO_DATA = {
      "protein_g": 6.6,
      "carbs_g": 34.1,
      "fat_g": 11.6,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8358,6 +8033,7 @@ window.MACRO_DATA = {
      "protein_g": 4.3,
      "carbs_g": 24.7,
      "fat_g": 3.2,
+     "fiber_g": 0.2,
      "confidence": "low"
     },
     {
@@ -8367,6 +8043,7 @@ window.MACRO_DATA = {
      "protein_g": 3.6,
      "carbs_g": 10,
      "fat_g": 4.8,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -8376,6 +8053,7 @@ window.MACRO_DATA = {
      "protein_g": 4.8,
      "carbs_g": 6.4,
      "fat_g": 10.9,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8385,6 +8063,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 2.8,
      "fat_g": 2.8,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8394,6 +8073,7 @@ window.MACRO_DATA = {
      "protein_g": 12,
      "carbs_g": 2.4,
      "fat_g": 2.4,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8403,6 +8083,7 @@ window.MACRO_DATA = {
      "protein_g": 22.2,
      "carbs_g": 5,
      "fat_g": 8.8,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -8412,6 +8093,7 @@ window.MACRO_DATA = {
      "protein_g": 2.85,
      "carbs_g": 2.45,
      "fat_g": 4.15,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8421,6 +8103,7 @@ window.MACRO_DATA = {
      "protein_g": 5.2,
      "carbs_g": 9.75,
      "fat_g": 13,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8430,6 +8113,7 @@ window.MACRO_DATA = {
      "protein_g": 5.9,
      "carbs_g": 4,
      "fat_g": 5.9,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8439,6 +8123,7 @@ window.MACRO_DATA = {
      "protein_g": 4.1,
      "carbs_g": 4.9,
      "fat_g": 10,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8448,6 +8133,7 @@ window.MACRO_DATA = {
      "protein_g": 3.1,
      "carbs_g": 2.9,
      "fat_g": 7.8,
+     "fiber_g": 0.8,
      "confidence": "low"
     },
     {
@@ -8457,6 +8143,7 @@ window.MACRO_DATA = {
      "protein_g": 22.4,
      "carbs_g": 5.1,
      "fat_g": 9,
+     "fiber_g": 1,
      "confidence": "medium"
     },
     {
@@ -8466,6 +8153,7 @@ window.MACRO_DATA = {
      "protein_g": 17.8,
      "carbs_g": 7.6,
      "fat_g": 12.7,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8475,6 +8163,7 @@ window.MACRO_DATA = {
      "protein_g": 2.7,
      "carbs_g": 17.1,
      "fat_g": 10.8,
+     "fiber_g": 0.8,
      "confidence": "low"
     },
     {
@@ -8484,16 +8173,18 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 62.5,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 19.6
   },
   "2026-10-06": {
    "date": "2026-10-06",
-   "calories": 3952,
-   "protein_g": 265.3,
+   "calories": 3953,
+   "protein_g": 265.2,
    "carbs_g": 264.2,
-   "fat_g": 205.8,
+   "fat_g": 205.7,
    "meals": [
     {
      "time": "morning",
@@ -8502,6 +8193,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -8511,6 +8203,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -8520,6 +8213,7 @@ window.MACRO_DATA = {
      "protein_g": 12,
      "carbs_g": 1,
      "fat_g": 14,
+     "fiber_g": 0.2,
      "confidence": "medium"
     },
     {
@@ -8529,6 +8223,7 @@ window.MACRO_DATA = {
      "protein_g": 3.6,
      "carbs_g": 0.3,
      "fat_g": 4.2,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8538,6 +8233,7 @@ window.MACRO_DATA = {
      "protein_g": 7,
      "carbs_g": 13.5,
      "fat_g": 7,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8547,6 +8243,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 10,
      "fat_g": 9,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -8556,6 +8253,7 @@ window.MACRO_DATA = {
      "protein_g": 1.8,
      "carbs_g": 10.8,
      "fat_g": 3.24,
+     "fiber_g": 0.6,
      "confidence": "low"
     },
     {
@@ -8565,6 +8263,7 @@ window.MACRO_DATA = {
      "protein_g": 0.3,
      "carbs_g": 1.3,
      "fat_g": 0.07,
+     "fiber_g": 0.4,
      "confidence": "low"
     },
     {
@@ -8574,6 +8273,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 0.16,
      "fat_g": 2.16,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8583,6 +8283,7 @@ window.MACRO_DATA = {
      "protein_g": 0.45,
      "carbs_g": 1.8,
      "fat_g": 1.8,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8592,6 +8293,7 @@ window.MACRO_DATA = {
      "protein_g": 7.8,
      "carbs_g": 7.6,
      "fat_g": 5.9,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8601,6 +8303,7 @@ window.MACRO_DATA = {
      "protein_g": 2.3,
      "carbs_g": 8,
      "fat_g": 7.2,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8610,6 +8313,7 @@ window.MACRO_DATA = {
      "protein_g": 2.3,
      "carbs_g": 8,
      "fat_g": 7.2,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8619,6 +8323,7 @@ window.MACRO_DATA = {
      "protein_g": 1.7,
      "carbs_g": 0.1,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8628,6 +8333,7 @@ window.MACRO_DATA = {
      "protein_g": 0.8,
      "carbs_g": 3.5,
      "fat_g": 0.18,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8637,6 +8343,7 @@ window.MACRO_DATA = {
      "protein_g": 0.72,
      "carbs_g": 2.8,
      "fat_g": 0.8,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8646,6 +8353,7 @@ window.MACRO_DATA = {
      "protein_g": 1.3,
      "carbs_g": 13,
      "fat_g": 1.95,
+     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -8655,6 +8363,7 @@ window.MACRO_DATA = {
      "protein_g": 42,
      "carbs_g": 0,
      "fat_g": 1.5,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8664,6 +8373,7 @@ window.MACRO_DATA = {
      "protein_g": 7.8,
      "carbs_g": 7.6,
      "fat_g": 5.9,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8673,6 +8383,7 @@ window.MACRO_DATA = {
      "protein_g": 38.4,
      "carbs_g": 3.2,
      "fat_g": 20.8,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8682,6 +8393,7 @@ window.MACRO_DATA = {
      "protein_g": 7.6,
      "carbs_g": 53.2,
      "fat_g": 5.7,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -8691,6 +8403,7 @@ window.MACRO_DATA = {
      "protein_g": 0.8,
      "carbs_g": 0.8,
      "fat_g": 2.6,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8700,6 +8413,7 @@ window.MACRO_DATA = {
      "protein_g": 3.15,
      "carbs_g": 16.8,
      "fat_g": 4.4,
+     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -8709,6 +8423,7 @@ window.MACRO_DATA = {
      "protein_g": 0.6,
      "carbs_g": 3.6,
      "fat_g": 10.8,
+     "fiber_g": 0.2,
      "confidence": "low"
     },
     {
@@ -8718,6 +8433,7 @@ window.MACRO_DATA = {
      "protein_g": 4.4,
      "carbs_g": 10.4,
      "fat_g": 5.89,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8727,6 +8443,7 @@ window.MACRO_DATA = {
      "protein_g": 9.1,
      "carbs_g": 11.7,
      "fat_g": 14.3,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8736,6 +8453,7 @@ window.MACRO_DATA = {
      "protein_g": 1.5,
      "carbs_g": 1.8,
      "fat_g": 2.7,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8745,6 +8463,7 @@ window.MACRO_DATA = {
      "protein_g": 3.6,
      "carbs_g": 0.6,
      "fat_g": 0.75,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8754,6 +8473,7 @@ window.MACRO_DATA = {
      "protein_g": 62.1,
      "carbs_g": 0,
      "fat_g": 36.8,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8763,6 +8483,7 @@ window.MACRO_DATA = {
      "protein_g": 2.4,
      "carbs_g": 16.8,
      "fat_g": 1.8,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8772,6 +8493,7 @@ window.MACRO_DATA = {
      "protein_g": 0.35,
      "carbs_g": 2.8,
      "fat_g": 4.55,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8781,6 +8503,7 @@ window.MACRO_DATA = {
      "protein_g": 1.5,
      "carbs_g": 3,
      "fat_g": 1.5,
+     "fiber_g": 0.8,
      "confidence": "low"
     },
     {
@@ -8790,6 +8513,7 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 9,
      "fat_g": 9.9,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8799,16 +8523,18 @@ window.MACRO_DATA = {
      "protein_g": 1.85,
      "carbs_g": 22,
      "fat_g": 7.15,
+     "fiber_g": 0.3,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 26.9
   },
   "2026-10-07": {
    "date": "2026-10-07",
-   "calories": 5484.55,
-   "protein_g": 328.78,
-   "carbs_g": 489.88,
-   "fat_g": 244.42,
+   "calories": 5484,
+   "protein_g": 328.8,
+   "carbs_g": 489.8,
+   "fat_g": 244.4,
    "meals": [
     {
      "time": "morning",
@@ -8817,6 +8543,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -8826,6 +8553,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -8835,6 +8563,7 @@ window.MACRO_DATA = {
      "protein_g": 1.6,
      "carbs_g": 8,
      "fat_g": 2,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8844,6 +8573,7 @@ window.MACRO_DATA = {
      "protein_g": 16.8,
      "carbs_g": 2.2,
      "fat_g": 11.2,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8853,6 +8583,7 @@ window.MACRO_DATA = {
      "protein_g": 7.2,
      "carbs_g": 0,
      "fat_g": 3.2,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8862,6 +8593,7 @@ window.MACRO_DATA = {
      "protein_g": 0.88,
      "carbs_g": 1.05,
      "fat_g": 1.05,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8871,6 +8603,7 @@ window.MACRO_DATA = {
      "protein_g": 2.2,
      "carbs_g": 0.2,
      "fat_g": 2.4,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8880,6 +8613,7 @@ window.MACRO_DATA = {
      "protein_g": 7.7,
      "carbs_g": 0.7,
      "fat_g": 7.7,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -8889,6 +8623,7 @@ window.MACRO_DATA = {
      "protein_g": 4.4,
      "carbs_g": 2.2,
      "fat_g": 4.4,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8898,6 +8633,7 @@ window.MACRO_DATA = {
      "protein_g": 0.18,
      "carbs_g": 0.8,
      "fat_g": 0.04,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -8907,6 +8643,7 @@ window.MACRO_DATA = {
      "protein_g": 16.68,
      "carbs_g": 29.85,
      "fat_g": 10.1,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -8916,6 +8653,7 @@ window.MACRO_DATA = {
      "protein_g": 9.9,
      "carbs_g": 0.9,
      "fat_g": 9.9,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -8925,6 +8663,7 @@ window.MACRO_DATA = {
      "protein_g": 13.9,
      "carbs_g": 12.36,
      "fat_g": 6.63,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8934,6 +8673,7 @@ window.MACRO_DATA = {
      "protein_g": 0.6,
      "carbs_g": 8.8,
      "fat_g": 0.2,
+     "fiber_g": 0.2,
      "confidence": "low"
     },
     {
@@ -8943,6 +8683,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 20.1,
      "fat_g": 8.8,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -8952,6 +8693,7 @@ window.MACRO_DATA = {
      "protein_g": 6,
      "carbs_g": 42,
      "fat_g": 14.4,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8961,6 +8703,7 @@ window.MACRO_DATA = {
      "protein_g": 1,
      "carbs_g": 5.4,
      "fat_g": 5.8,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -8970,6 +8713,7 @@ window.MACRO_DATA = {
      "protein_g": 66.8,
      "carbs_g": 4.9,
      "fat_g": 21,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8979,6 +8723,7 @@ window.MACRO_DATA = {
      "protein_g": 61.4,
      "carbs_g": 10.7,
      "fat_g": 38.7,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -8988,6 +8733,7 @@ window.MACRO_DATA = {
      "protein_g": 1.35,
      "carbs_g": 8.25,
      "fat_g": 0.23,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -8997,6 +8743,7 @@ window.MACRO_DATA = {
      "protein_g": 0.88,
      "carbs_g": 9.5,
      "fat_g": 3.5,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -9006,6 +8753,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 7,
      "fat_g": 2.5,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -9015,6 +8763,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 8,
      "fat_g": 8.7,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -9024,6 +8773,7 @@ window.MACRO_DATA = {
      "protein_g": 3.5,
      "carbs_g": 14,
      "fat_g": 6,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -9033,6 +8783,7 @@ window.MACRO_DATA = {
      "protein_g": 4.85,
      "carbs_g": 19.55,
      "fat_g": 11.85,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -9042,6 +8793,7 @@ window.MACRO_DATA = {
      "protein_g": 2.5,
      "carbs_g": 9,
      "fat_g": 2.5,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -9051,6 +8803,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 0.2,
      "fat_g": 1.7,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -9060,6 +8813,7 @@ window.MACRO_DATA = {
      "protein_g": 17.7,
      "carbs_g": 2.7,
      "fat_g": 7.7,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9069,6 +8823,7 @@ window.MACRO_DATA = {
      "protein_g": 4.1,
      "carbs_g": 1.8,
      "fat_g": 0.55,
+     "fiber_g": 0.2,
      "confidence": "low"
     },
     {
@@ -9078,6 +8833,7 @@ window.MACRO_DATA = {
      "protein_g": 27.68,
      "carbs_g": 4.58,
      "fat_g": 18.1,
+     "fiber_g": 0.5,
      "confidence": "medium"
     },
     {
@@ -9087,6 +8843,7 @@ window.MACRO_DATA = {
      "protein_g": 1.67,
      "carbs_g": 12.65,
      "fat_g": 5.93,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -9096,6 +8853,7 @@ window.MACRO_DATA = {
      "protein_g": 1.2,
      "carbs_g": 16.5,
      "fat_g": 7.66,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -9105,6 +8863,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 125,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9114,6 +8873,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31.25,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9123,6 +8883,7 @@ window.MACRO_DATA = {
      "protein_g": 3.2,
      "carbs_g": 16,
      "fat_g": 2.4,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9132,6 +8893,7 @@ window.MACRO_DATA = {
      "protein_g": 1.75,
      "carbs_g": 14,
      "fat_g": 1.25,
+     "fiber_g": 0.3,
      "confidence": "medium"
     },
     {
@@ -9141,6 +8903,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 4.2,
      "fat_g": 6.75,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -9150,6 +8913,7 @@ window.MACRO_DATA = {
      "protein_g": 0.6,
      "carbs_g": 10.5,
      "fat_g": 3,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -9159,16 +8923,18 @@ window.MACRO_DATA = {
      "protein_g": 0.6,
      "carbs_g": 6,
      "fat_g": 2.6,
+     "fiber_g": 0.3,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 23.9
   },
   "2026-10-08": {
    "date": "2026-10-08",
-   "calories": 1952.4,
-   "protein_g": 132.24,
+   "calories": 1952,
+   "protein_g": 132.2,
    "carbs_g": 148.2,
-   "fat_g": 94.15,
+   "fat_g": 94.1,
    "meals": [
     {
      "time": "morning",
@@ -9177,6 +8943,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -9186,6 +8953,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -9195,6 +8963,7 @@ window.MACRO_DATA = {
      "protein_g": 1.6,
      "carbs_g": 8,
      "fat_g": 2,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -9204,6 +8973,7 @@ window.MACRO_DATA = {
      "protein_g": 9.35,
      "carbs_g": 0.85,
      "fat_g": 9.35,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -9213,6 +8983,7 @@ window.MACRO_DATA = {
      "protein_g": 4.4,
      "carbs_g": 0.4,
      "fat_g": 4.8,
+     "fiber_g": 0,
      "confidence": "low"
     },
     {
@@ -9222,6 +8993,7 @@ window.MACRO_DATA = {
      "protein_g": 1.38,
      "carbs_g": 1.65,
      "fat_g": 1.65,
+     "fiber_g": 0.8,
      "confidence": "low"
     },
     {
@@ -9231,6 +9003,7 @@ window.MACRO_DATA = {
      "protein_g": 1.8,
      "carbs_g": 18,
      "fat_g": 4.05,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -9240,6 +9013,7 @@ window.MACRO_DATA = {
      "protein_g": 14,
      "carbs_g": 13.9,
      "fat_g": 10.25,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -9249,6 +9023,7 @@ window.MACRO_DATA = {
      "protein_g": 14.73,
      "carbs_g": 14.1,
      "fat_g": 11.72,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -9258,6 +9033,7 @@ window.MACRO_DATA = {
      "protein_g": 1.6,
      "carbs_g": 6.4,
      "fat_g": 12.8,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -9267,6 +9043,7 @@ window.MACRO_DATA = {
      "protein_g": 5.4,
      "carbs_g": 33,
      "fat_g": 3.9,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -9276,6 +9053,7 @@ window.MACRO_DATA = {
      "protein_g": 4.9,
      "carbs_g": 26.6,
      "fat_g": 10.43,
+     "fiber_g": 2,
      "confidence": "low"
     },
     {
@@ -9285,6 +9063,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 6,
      "fat_g": 8,
+     "fiber_g": 1.5,
      "confidence": "low"
     },
     {
@@ -9294,16 +9073,18 @@ window.MACRO_DATA = {
      "protein_g": 48.08,
      "carbs_g": 0.3,
      "fat_g": 11.2,
+     "fiber_g": 0,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 19.8
   },
   "2026-10-09": {
    "date": "2026-10-09",
-   "calories": 3291.5,
+   "calories": 3292,
    "protein_g": 168.1,
-   "carbs_g": 326.75,
-   "fat_g": 150.55,
+   "carbs_g": 326.8,
+   "fat_g": 150.6,
    "meals": [
     {
      "time": "morning",
@@ -9312,6 +9093,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -9321,6 +9103,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -9330,6 +9113,7 @@ window.MACRO_DATA = {
      "protein_g": 3.6,
      "carbs_g": 20,
      "fat_g": 0.8,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -9339,6 +9123,7 @@ window.MACRO_DATA = {
      "protein_g": 2.8,
      "carbs_g": 15.75,
      "fat_g": 7.35,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -9348,6 +9133,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 15.2,
      "fat_g": 8.8,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -9357,6 +9143,7 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 23.2,
      "fat_g": 13,
+     "fiber_g": 2,
      "confidence": "high"
     },
     {
@@ -9366,6 +9153,7 @@ window.MACRO_DATA = {
      "protein_g": 18,
      "carbs_g": 4.5,
      "fat_g": 15.3,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -9375,6 +9163,7 @@ window.MACRO_DATA = {
      "protein_g": 31.7,
      "carbs_g": 8,
      "fat_g": 14.9,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -9384,6 +9173,7 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 12.6,
      "fat_g": 5.4,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -9393,6 +9183,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 8.5,
      "fat_g": 10,
+     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -9402,6 +9193,7 @@ window.MACRO_DATA = {
      "protein_g": 13,
      "carbs_g": 68,
      "fat_g": 11,
+     "fiber_g": 5,
      "confidence": "medium"
     },
     {
@@ -9411,6 +9203,7 @@ window.MACRO_DATA = {
      "protein_g": 9,
      "carbs_g": 19,
      "fat_g": 10,
+     "fiber_g": 2,
      "confidence": "medium"
     },
     {
@@ -9420,6 +9213,7 @@ window.MACRO_DATA = {
      "protein_g": 30,
      "carbs_g": 1,
      "fat_g": 23,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9429,6 +9223,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 5,
      "fat_g": 15,
+     "fiber_g": 4.5,
      "confidence": "low"
     },
     {
@@ -9438,6 +9233,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31.25,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9447,6 +9243,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 31.25,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9456,9 +9253,11 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 44.5,
      "fat_g": 12,
+     "fiber_g": 1.5,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 27.3
   },
   "2026-10-10": {
    "date": "2026-10-10",
@@ -9474,6 +9273,7 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4,
+     "fiber_g": 5,
      "confidence": "high"
     },
     {
@@ -9483,6 +9283,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -9492,6 +9293,7 @@ window.MACRO_DATA = {
      "protein_g": 5.5,
      "carbs_g": 34.5,
      "fat_g": 14.7,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -9501,6 +9303,7 @@ window.MACRO_DATA = {
      "protein_g": 1.5,
      "carbs_g": 1.5,
      "fat_g": 3,
+     "fiber_g": 0.2,
      "confidence": "low"
     },
     {
@@ -9510,6 +9313,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 0.3,
      "fat_g": 0.5,
+     "fiber_g": 0.1,
      "confidence": "high"
     },
     {
@@ -9519,6 +9323,7 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 10,
      "fat_g": 6.5,
+     "fiber_g": 0.3,
      "confidence": "low"
     },
     {
@@ -9528,6 +9333,7 @@ window.MACRO_DATA = {
      "protein_g": 4,
      "carbs_g": 0.5,
      "fat_g": 1,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9537,6 +9343,7 @@ window.MACRO_DATA = {
      "protein_g": 25.2,
      "carbs_g": 11.2,
      "fat_g": 14,
+     "fiber_g": 0.6,
      "confidence": "medium"
     },
     {
@@ -9546,6 +9353,7 @@ window.MACRO_DATA = {
      "protein_g": 5.4,
      "carbs_g": 33,
      "fat_g": 0.6,
+     "fiber_g": 1.2,
      "confidence": "medium"
     },
     {
@@ -9555,6 +9363,7 @@ window.MACRO_DATA = {
      "protein_g": 11.5,
      "carbs_g": 76,
      "fat_g": 21,
+     "fiber_g": 1.5,
      "confidence": "medium"
     },
     {
@@ -9564,16 +9373,18 @@ window.MACRO_DATA = {
      "protein_g": 49.8,
      "carbs_g": 136.4,
      "fat_g": 50.9,
+     "fiber_g": 3.7,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 14.1
   },
   "2026-10-11": {
    "date": "2026-10-11",
    "calories": 3412,
    "protein_g": 167.1,
    "carbs_g": 344.2,
-   "fat_g": 142.55,
+   "fat_g": 142.6,
    "meals": [
     {
      "time": "morning",
@@ -9582,6 +9393,7 @@ window.MACRO_DATA = {
      "protein_g": 24,
      "carbs_g": 24,
      "fat_g": 24,
+     "fiber_g": 5.6,
      "confidence": "high"
     },
     {
@@ -9591,6 +9403,7 @@ window.MACRO_DATA = {
      "protein_g": 39.9,
      "carbs_g": 0,
      "fat_g": 5.5,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9600,6 +9413,7 @@ window.MACRO_DATA = {
      "protein_g": 26.4,
      "carbs_g": 26.9,
      "fat_g": 18,
+     "fiber_g": 4.56,
      "confidence": "high"
     },
     {
@@ -9609,6 +9423,7 @@ window.MACRO_DATA = {
      "protein_g": 2.2,
      "carbs_g": 17.8,
      "fat_g": 6.1,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9618,6 +9433,7 @@ window.MACRO_DATA = {
      "protein_g": 10,
      "carbs_g": 18,
      "fat_g": 6.5,
+     "fiber_g": 10,
      "confidence": "high"
     },
     {
@@ -9627,6 +9443,7 @@ window.MACRO_DATA = {
      "protein_g": 16.5,
      "carbs_g": 33,
      "fat_g": 20.55,
+     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -9636,6 +9453,7 @@ window.MACRO_DATA = {
      "protein_g": 5.2,
      "carbs_g": 29,
      "fat_g": 9.5,
+     "fiber_g": 6.7,
      "confidence": "high"
     },
     {
@@ -9645,6 +9463,7 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 18,
      "fat_g": 5.1,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -9654,6 +9473,7 @@ window.MACRO_DATA = {
      "protein_g": 7.1,
      "carbs_g": 26.4,
      "fat_g": 8.8,
+     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -9663,9 +9483,11 @@ window.MACRO_DATA = {
      "protein_g": 33.8,
      "carbs_g": 151.1,
      "fat_g": 38.5,
+     "fiber_g": 7.5,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 38.9
   },
   "2026-10-12": {
    "date": "2026-10-12",
@@ -9681,6 +9503,7 @@ window.MACRO_DATA = {
      "protein_g": 83,
      "carbs_g": 0,
      "fat_g": 29.6,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9690,6 +9513,7 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 1,
      "fat_g": 1,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9699,6 +9523,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -9708,9 +9533,11 @@ window.MACRO_DATA = {
      "protein_g": 42.3,
      "carbs_g": 39.7,
      "fat_g": 20.1,
+     "fiber_g": 1.6,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 2.1
   },
   "2026-10-13": {
    "date": "2026-10-13",
@@ -9726,6 +9553,7 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 1,
      "fat_g": 1,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9735,6 +9563,7 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 4,
      "fat_g": 0,
+     "fiber_g": 0.5,
      "confidence": "high"
     },
     {
@@ -9744,6 +9573,7 @@ window.MACRO_DATA = {
      "protein_g": 42,
      "carbs_g": 4,
      "fat_g": 1,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9753,6 +9583,7 @@ window.MACRO_DATA = {
      "protein_g": 54,
      "carbs_g": 18,
      "fat_g": 7,
+     "fiber_g": 4,
      "confidence": "medium"
     },
     {
@@ -9762,6 +9593,7 @@ window.MACRO_DATA = {
      "protein_g": 23,
      "carbs_g": 12,
      "fat_g": 3,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9771,6 +9603,7 @@ window.MACRO_DATA = {
      "protein_g": 28,
      "carbs_g": 0,
      "fat_g": 4,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9780,6 +9613,7 @@ window.MACRO_DATA = {
      "protein_g": 23,
      "carbs_g": 22,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9789,9 +9623,11 @@ window.MACRO_DATA = {
      "protein_g": 41,
      "carbs_g": 29,
      "fat_g": 17,
+     "fiber_g": 4,
      "confidence": "medium"
     }
-   ]
+   ],
+   "fiber_g": 8.5
   },
   "2026-10-14": {
    "date": "2026-10-14",
@@ -9807,6 +9643,7 @@ window.MACRO_DATA = {
      "protein_g": 47,
      "carbs_g": 10,
      "fat_g": 1,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9816,6 +9653,7 @@ window.MACRO_DATA = {
      "protein_g": 32,
      "carbs_g": 32,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "medium"
     },
     {
@@ -9825,6 +9663,7 @@ window.MACRO_DATA = {
      "protein_g": 52,
      "carbs_g": 49,
      "fat_g": 17,
+     "fiber_g": 1,
      "confidence": "high"
     },
     {
@@ -9834,15 +9673,17 @@ window.MACRO_DATA = {
      "protein_g": 16,
      "carbs_g": 55,
      "fat_g": 7,
+     "fiber_g": 3,
      "confidence": "low"
     },
     {
      "time": "dinner",
-     "description": "Yuanbao Jiaozi: Shredded potato salad (\u571f\u8c46\u7d72), 53g eaten",
+     "description": "Yuanbao Jiaozi: Shredded potato salad (土豆絲), 53g eaten",
      "calories": 80,
      "protein_g": 1,
      "carbs_g": 11,
      "fat_g": 3,
+     "fiber_g": 1,
      "confidence": "low"
     },
     {
@@ -9852,6 +9693,7 @@ window.MACRO_DATA = {
      "protein_g": 53,
      "carbs_g": 93,
      "fat_g": 15,
+     "fiber_g": 3,
      "confidence": "medium"
     },
     {
@@ -9861,9 +9703,11 @@ window.MACRO_DATA = {
      "protein_g": 0,
      "carbs_g": 78,
      "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "low"
     }
-   ]
+   ],
+   "fiber_g": 8
   },
   "2026-10-15": {
    "date": "2026-10-15",
@@ -9879,15 +9723,17 @@ window.MACRO_DATA = {
      "protein_g": 21,
      "carbs_g": 15,
      "fat_g": 4.5,
+     "fiber_g": 7,
      "confidence": "high"
     },
     {
      "time": "morning",
-     "description": "Yuanbao Jiaozi: Shiitake mushroom & sole fish dumplings (6 pcs, 198g @ 33g each) + Shredded potato salad (\u571f\u8c46\u7d72), 53g eaten",
+     "description": "Yuanbao Jiaozi: Shiitake mushroom & sole fish dumplings (6 pcs, 198g @ 33g each) + Shredded potato salad (土豆絲), 53g eaten",
      "calories": 377,
      "protein_g": 15,
      "carbs_g": 58,
      "fat_g": 9,
+     "fiber_g": 4,
      "confidence": "medium"
     },
     {
@@ -9897,6 +9743,7 @@ window.MACRO_DATA = {
      "protein_g": 31.5,
      "carbs_g": 0,
      "fat_g": 4.4,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
@@ -9906,6 +9753,7 @@ window.MACRO_DATA = {
      "protein_g": 53.7,
      "carbs_g": 42,
      "fat_g": 6.2,
+     "fiber_g": 0.6,
      "confidence": "high"
     },
     {
@@ -9915,19 +9763,21 @@ window.MACRO_DATA = {
      "protein_g": 0.5,
      "carbs_g": 0.5,
      "fat_g": 3,
+     "fiber_g": 0,
      "confidence": "high"
     },
     {
-     "name": "Dinner",
-     "description": "Dash Japanese Tapas: agedashi tofu (1pc) + chicken cartilage karaage, sashimi/salad items, negitoro rolls x2, spicy tuna/salmon roll+chip+avocado, spicy salmon roll, chanko nabe (chicken/udon/bokchoy/beef ball), mentaiko udon, unagi fried rice x2, sushi taco (crispy shell w/ diced tuna/salmon, tomato, onion, avocado, sauce)",
+     "time": "dinner",
+     "description": "Dash Japanese Tapas: agedashi tofu (1 piece) + chicken cartilage karaage (1 piece), sashimi slice w/ sesame (tataki-style), negitoro roll x2, spicy tuna/salmon roll + wonton chip + avocado, spicy salmon roll piece, salad w/ tuna+octopus sashimi, chanko nabe (chicken, 20g udon, bok choy, half beef ball), mentaiko udon (20g), unagi fried rice (45g + 55g), sushi taco (crispy shell w/ diced tuna/salmon, tomato, onion, avocado, sauce)",
      "calories": 1155,
      "protein_g": 78,
      "carbs_g": 106,
      "fat_g": 50,
-     "fiber_g": 10
+     "fiber_g": 10,
+     "confidence": "med"
     }
    ],
-   "fiber_g": 10
+   "fiber_g": 21.6
   },
   "2026-10-16": {
    "date": "2026-10-16",
@@ -9935,7 +9785,6 @@ window.MACRO_DATA = {
    "protein_g": 59.1,
    "carbs_g": 48.1,
    "fat_g": 27.6,
-   "fiber_g": 7.9,
    "meals": [
     {
      "time": "morning",
@@ -9977,7 +9826,8 @@ window.MACRO_DATA = {
      "fiber_g": 0,
      "confidence": "high"
     }
-   ]
+   ],
+   "fiber_g": 7.9
   }
  },
  "WEIGHT_DAILY": [
@@ -10990,62 +10840,6 @@ window.MACRO_DATA = {
   {
    "date": "2026-09-24",
    "steps": 14994
-  },
-  {
-   "date": "2026-09-25",
-   "steps": 9000
-  },
-  {
-   "date": "2026-09-26",
-   "steps": 9000
-  },
-  {
-   "date": "2026-09-27",
-   "steps": 9000
-  },
-  {
-   "date": "2026-09-28",
-   "steps": 9000
-  },
-  {
-   "date": "2026-09-29",
-   "steps": 9000
-  },
-  {
-   "date": "2026-09-30",
-   "steps": 9000
-  },
-  {
-   "date": "2026-10-01",
-   "steps": 9000
-  },
-  {
-   "date": "2026-10-02",
-   "steps": 12405
-  },
-  {
-   "date": "2026-10-03",
-   "steps": 12405
-  },
-  {
-   "date": "2026-10-04",
-   "steps": 12405
-  },
-  {
-   "date": "2026-10-05",
-   "steps": 12405
-  },
-  {
-   "date": "2026-10-06",
-   "steps": 12405
-  },
-  {
-   "date": "2026-10-07",
-   "steps": 12405
-  },
-  {
-   "date": "2026-10-08",
-   "steps": 12405
   }
  ]
 };
