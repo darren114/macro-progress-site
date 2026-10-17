@@ -9781,10 +9781,10 @@ window.MACRO_DATA = {
   },
   "2026-10-16": {
    "date": "2026-10-16",
-   "calories": 653,
-   "protein_g": 59.1,
-   "carbs_g": 48.1,
-   "fat_g": 27.6,
+   "calories": 2705,
+   "protein_g": 228.1,
+   "carbs_g": 223.1,
+   "fat_g": 98.6,
    "meals": [
     {
      "time": "morning",
@@ -9825,9 +9825,69 @@ window.MACRO_DATA = {
      "fat_g": 3,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco white meat chicken no skin (~150g) + cucumber + tomato + kalamata olives + red onion + dill + 82g Kirkland nonfat Greek yogurt + 10g Bragg nutritional yeast + 50g Athenos reduced-fat feta",
+     "calories": 520,
+     "protein_g": 72,
+     "carbs_g": 20,
+     "fat_g": 16,
+     "fiber_g": 5.6,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Cinepolis Luxury Cinemas San Mateo: Avocado Chicken BLT (marinated grilled chicken breast, telera bread, basil pesto aioli, avocado, bacon, lettuce, tomato) with added fried egg (open-faced), half of fries eaten w/ small ketchup dabs, 2 glasses red wine",
+     "calories": 1385,
+     "protein_g": 69,
+     "carbs_g": 150,
+     "fat_g": 54,
+     "fiber_g": 6.5,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Transparent Labs Chocolate Protein (35g/1 scoop)",
+     "calories": 130,
+     "protein_g": 28,
+     "carbs_g": 1,
+     "fat_g": 1,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Matcha (2 tsp)",
+     "calories": 17,
+     "protein_g": 0,
+     "carbs_g": 4,
+     "fat_g": 0,
+     "fiber_g": 0.5,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 7.9
+   "fiber_g": 20.5
+  },
+  "2026-10-17": {
+   "date": "2026-10-17",
+   "calories": 150,
+   "protein_g": 10,
+   "carbs_g": 10,
+   "fat_g": 8,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Shared bowl: scrambled eggs + tomato + 40g rice (half eaten, wife made it)",
+     "calories": 150,
+     "protein_g": 10,
+     "carbs_g": 10,
+     "fat_g": 8,
+     "fiber_g": 1.3,
+     "confidence": "low"
+    }
+   ],
+   "fiber_g": 1.3
   }
  },
  "WEIGHT_DAILY": [
