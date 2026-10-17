@@ -9852,8 +9852,8 @@ window.MACRO_DATA = {
   "2026-10-17": {
    "date": "2026-10-17",
    "calories": 630,
-   "protein_g": 79.9,
-   "carbs_g": 31.3,
+   "protein_g": 80,
+   "carbs_g": 31.2,
    "fat_g": 18.9,
    "meals": [
     {
@@ -9898,21 +9898,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "People's Choice Korean BBQ Beef Jerky, 43g weighed",
-     "calories": 151,
-     "protein_g": 19.6,
-     "carbs_g": 10.6,
-     "fat_g": 3.4,
-     "fiber_g": 0,
-     "confidence": "high"
-    },
-    {
-     "time": "snack",
-     "description": "People's Choice Korean BBQ Beef Jerky, 15g weighed (additional)",
-     "calories": 53,
-     "protein_g": 6.8,
-     "carbs_g": 3.7,
-     "fat_g": 1.2,
+     "description": "People's Choice Korean BBQ Beef Jerky, 58g total weighed (43g+15g)",
+     "calories": 204,
+     "protein_g": 26.5,
+     "carbs_g": 14.2,
+     "fat_g": 4.6,
      "fiber_g": 0,
      "confidence": "high"
     }
