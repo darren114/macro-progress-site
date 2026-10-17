@@ -9781,10 +9781,10 @@ window.MACRO_DATA = {
   },
   "2026-10-16": {
    "date": "2026-10-16",
-   "calories": 2558,
-   "protein_g": 200.1,
+   "calories": 2428,
+   "protein_g": 190.1,
    "carbs_g": 218.1,
-   "fat_g": 97.6,
+   "fat_g": 87.6,
    "meals": [
     {
      "time": "morning",
@@ -9839,10 +9839,10 @@ window.MACRO_DATA = {
     {
      "time": "dinner",
      "description": "Cinepolis Luxury Cinemas San Mateo: Avocado Chicken BLT (marinated grilled chicken breast, telera bread, basil pesto aioli, avocado, bacon, lettuce, tomato) with added fried egg (open-faced), half of fries eaten w/ small ketchup dabs, 2 glasses red wine",
-     "calories": 1385,
-     "protein_g": 69,
+     "calories": 1255,
+     "protein_g": 59,
      "carbs_g": 150,
-     "fat_g": 54,
+     "fat_g": 44,
      "fiber_g": 6.5,
      "confidence": "low"
     }
