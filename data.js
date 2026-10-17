@@ -9851,10 +9851,10 @@ window.MACRO_DATA = {
   },
   "2026-10-17": {
    "date": "2026-10-17",
-   "calories": 426,
-   "protein_g": 53.5,
-   "carbs_g": 17,
-   "fat_g": 14.3,
+   "calories": 596,
+   "protein_g": 62.5,
+   "carbs_g": 34,
+   "fat_g": 22.3,
    "meals": [
     {
      "time": "morning",
@@ -9895,9 +9895,19 @@ window.MACRO_DATA = {
      "fat_g": 5.3,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Sesame-crusted sweet beef jerky, 43g weighed",
+     "calories": 170,
+     "protein_g": 9,
+     "carbs_g": 17,
+     "fat_g": 8,
+     "fiber_g": 0.5,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 1.8
+   "fiber_g": 2.3
   }
  },
  "WEIGHT_DAILY": [
