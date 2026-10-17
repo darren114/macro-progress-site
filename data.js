@@ -9851,10 +9851,10 @@ window.MACRO_DATA = {
   },
   "2026-10-17": {
    "date": "2026-10-17",
-   "calories": 297,
-   "protein_g": 38,
-   "carbs_g": 15,
-   "fat_g": 9,
+   "calories": 426,
+   "protein_g": 53.5,
+   "carbs_g": 17,
+   "fat_g": 14.3,
    "meals": [
     {
      "time": "morning",
@@ -9885,6 +9885,16 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0.5,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Leftover Yuanbao Jiaozi house special beef noodle soup -- beef (35g) + broth (213g), no noodles this time",
+     "calories": 129,
+     "protein_g": 15.5,
+     "carbs_g": 2,
+     "fat_g": 5.3,
+     "fiber_g": 0,
+     "confidence": "medium"
     }
    ],
    "fiber_g": 1.8
