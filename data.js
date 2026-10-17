@@ -9781,10 +9781,10 @@ window.MACRO_DATA = {
   },
   "2026-10-16": {
    "date": "2026-10-16",
-   "calories": 2705,
-   "protein_g": 228.1,
-   "carbs_g": 223.1,
-   "fat_g": 98.6,
+   "calories": 2558,
+   "protein_g": 200.1,
+   "carbs_g": 218.1,
+   "fat_g": 97.6,
    "meals": [
     {
      "time": "morning",
@@ -9845,6 +9845,26 @@ window.MACRO_DATA = {
      "fat_g": 54,
      "fiber_g": 6.5,
      "confidence": "low"
+    }
+   ],
+   "fiber_g": 20
+  },
+  "2026-10-17": {
+   "date": "2026-10-17",
+   "calories": 297,
+   "protein_g": 38,
+   "carbs_g": 15,
+   "fat_g": 9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Shared bowl: scrambled eggs + tomato + 40g rice (half eaten, wife made it)",
+     "calories": 150,
+     "protein_g": 10,
+     "carbs_g": 10,
+     "fat_g": 8,
+     "fiber_g": 1.3,
+     "confidence": "low"
     },
     {
      "time": "lunch",
@@ -9867,27 +9887,7 @@ window.MACRO_DATA = {
      "confidence": "high"
     }
    ],
-   "fiber_g": 20.5
-  },
-  "2026-10-17": {
-   "date": "2026-10-17",
-   "calories": 150,
-   "protein_g": 10,
-   "carbs_g": 10,
-   "fat_g": 8,
-   "meals": [
-    {
-     "time": "morning",
-     "description": "Shared bowl: scrambled eggs + tomato + 40g rice (half eaten, wife made it)",
-     "calories": 150,
-     "protein_g": 10,
-     "carbs_g": 10,
-     "fat_g": 8,
-     "fiber_g": 1.3,
-     "confidence": "low"
-    }
-   ],
-   "fiber_g": 1.3
+   "fiber_g": 1.8
   }
  },
  "WEIGHT_DAILY": [
