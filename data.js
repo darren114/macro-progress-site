@@ -9851,10 +9851,10 @@ window.MACRO_DATA = {
   },
   "2026-10-17": {
    "date": "2026-10-17",
-   "calories": 596,
-   "protein_g": 62.5,
-   "carbs_g": 34,
-   "fat_g": 22.3,
+   "calories": 630,
+   "protein_g": 79.9,
+   "carbs_g": 31.3,
+   "fat_g": 18.9,
    "meals": [
     {
      "time": "morning",
@@ -9898,16 +9898,26 @@ window.MACRO_DATA = {
     },
     {
      "time": "snack",
-     "description": "Sesame-crusted sweet beef jerky, 43g weighed",
-     "calories": 170,
-     "protein_g": 9,
-     "carbs_g": 17,
-     "fat_g": 8,
-     "fiber_g": 0.5,
-     "confidence": "low"
+     "description": "People's Choice Korean BBQ Beef Jerky, 43g weighed",
+     "calories": 151,
+     "protein_g": 19.6,
+     "carbs_g": 10.6,
+     "fat_g": 3.4,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "People's Choice Korean BBQ Beef Jerky, 15g weighed (additional)",
+     "calories": 53,
+     "protein_g": 6.8,
+     "carbs_g": 3.7,
+     "fat_g": 1.2,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 2.3
+   "fiber_g": 1.8
   }
  },
  "WEIGHT_DAILY": [
