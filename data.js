@@ -9928,10 +9928,10 @@ window.MACRO_DATA = {
   },
   "2026-10-18": {
    "date": "2026-10-18",
-   "calories": 167,
-   "protein_g": 21,
-   "carbs_g": 19,
-   "fat_g": 4.5,
+   "calories": 1387,
+   "protein_g": 88,
+   "carbs_g": 119,
+   "fat_g": 61.5,
    "meals": [
     {
      "time": "morning",
@@ -9952,9 +9952,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0.5,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Chicken Club & Pesto sandwich (Caffe Central Burlingame) w/ side mixed greens salad & vinaigrette; matcha latte (oat milk, low sugar)",
+     "calories": 1220,
+     "protein_g": 67,
+     "carbs_g": 100,
+     "fat_g": 57,
+     "fiber_g": 9,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 7.5
+   "fiber_g": 16.5
   }
  },
  "WEIGHT_DAILY": [
