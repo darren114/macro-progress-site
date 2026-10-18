@@ -9851,10 +9851,10 @@ window.MACRO_DATA = {
   },
   "2026-10-17": {
    "date": "2026-10-17",
-   "calories": 630,
-   "protein_g": 80,
-   "carbs_g": 31.2,
-   "fat_g": 18.9,
+   "calories": 2062,
+   "protein_g": 147,
+   "carbs_g": 180.2,
+   "fat_g": 78.9,
    "meals": [
     {
      "time": "morning",
@@ -9905,9 +9905,19 @@ window.MACRO_DATA = {
      "fat_g": 4.6,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Dinner at Ungrafted (Dogpatch SF): 1.5 deviled egg halves w/ salmon roe; 2 servings arugula & snap pea salad w/ pecorino; 3 bites crudo (fish/avocado/grapes/chili oil); hanger steak frites entree; 2 glasses red wine + 0.5 glass dessert wine",
+     "calories": 1432,
+     "protein_g": 67,
+     "carbs_g": 149,
+     "fat_g": 60,
+     "fiber_g": 10,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 1.8
+   "fiber_g": 11.8
   }
  },
  "WEIGHT_DAILY": [
