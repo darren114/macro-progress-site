@@ -9925,6 +9925,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 11.8
+  },
+  "2026-10-18": {
+   "date": "2026-10-18",
+   "calories": 167,
+   "protein_g": 21,
+   "carbs_g": 19,
+   "fat_g": 4.5,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) mixed w/ water",
+     "calories": 150,
+     "protein_g": 21,
+     "carbs_g": 15,
+     "fat_g": 4.5,
+     "fiber_g": 7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Matcha (2 tsp)",
+     "calories": 17,
+     "protein_g": 0,
+     "carbs_g": 4,
+     "fat_g": 0,
+     "fiber_g": 0.5,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 7.5
   }
  },
  "WEIGHT_DAILY": [
