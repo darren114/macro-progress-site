@@ -9985,6 +9985,26 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 20
+  },
+  "2026-10-19": {
+   "date": "2026-10-19",
+   "calories": 632,
+   "protein_g": 58,
+   "carbs_g": 75,
+   "fat_g": 9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Overnight oats: 95g dry oats, 352g Fairlife nonfat ultra-filtered milk, 6g chia seeds, 1 scoop (30g) Dymatize ISO100 Fruity Pebbles protein powder",
+     "calories": 632,
+     "protein_g": 58,
+     "carbs_g": 75,
+     "fat_g": 9,
+     "fiber_g": 13,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 13
   }
  },
  "WEIGHT_DAILY": [
