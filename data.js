@@ -9988,10 +9988,10 @@ window.MACRO_DATA = {
   },
   "2026-10-19": {
    "date": "2026-10-19",
-   "calories": 632,
-   "protein_g": 58,
-   "carbs_g": 75,
-   "fat_g": 9,
+   "calories": 936,
+   "protein_g": 104,
+   "carbs_g": 87,
+   "fat_g": 16,
    "meals": [
     {
      "time": "morning",
@@ -10002,9 +10002,29 @@ window.MACRO_DATA = {
      "fat_g": 9,
      "fiber_g": 13,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Fairlife fat free milk 143g + matcha powder 2 tsp",
+     "calories": 65,
+     "protein_g": 8,
+     "carbs_g": 8,
+     "fat_g": 0,
+     "fiber_g": 0.5,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Kirkland liquid egg whites 256g + Kirkland smoked salmon 49g w/ everything bagel seasoning",
+     "calories": 239,
+     "protein_g": 38,
+     "carbs_g": 4,
+     "fat_g": 7,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 13
+   "fiber_g": 13.5
   }
  },
  "WEIGHT_DAILY": [
