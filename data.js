@@ -9988,10 +9988,10 @@ window.MACRO_DATA = {
   },
   "2026-10-19": {
    "date": "2026-10-19",
-   "calories": 1076,
-   "protein_g": 109,
-   "carbs_g": 114,
-   "fat_g": 17.5,
+   "calories": 1645,
+   "protein_g": 162,
+   "carbs_g": 159,
+   "fat_g": 34.5,
    "meals": [
     {
      "time": "morning",
@@ -10032,9 +10032,19 @@ window.MACRO_DATA = {
      "fat_g": 1.5,
      "fiber_g": 2,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "161g chicken breast with skin, roasted + 175g cooked basmati rice, 1 tbsp TJ's vegan creamy cauliflower dill dressing, 1 tbsp TJ's avocado green goddess dressing",
+     "calories": 569,
+     "protein_g": 53,
+     "carbs_g": 45,
+     "fat_g": 17,
+     "fiber_g": 0.7,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 15.5
+   "fiber_g": 16.2
   }
  },
  "WEIGHT_DAILY": [
