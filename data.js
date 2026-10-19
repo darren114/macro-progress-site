@@ -9988,10 +9988,10 @@ window.MACRO_DATA = {
   },
   "2026-10-19": {
    "date": "2026-10-19",
-   "calories": 936,
-   "protein_g": 104,
-   "carbs_g": 87,
-   "fat_g": 16,
+   "calories": 1076,
+   "protein_g": 109,
+   "carbs_g": 114,
+   "fat_g": 17.5,
    "meals": [
     {
      "time": "morning",
@@ -10022,9 +10022,19 @@ window.MACRO_DATA = {
      "fat_g": 7,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Popcorn, air popped, 1 serving (39g kernels, Int'l Popcorn Less-Hulls White Kernels)",
+     "calories": 140,
+     "protein_g": 5,
+     "carbs_g": 27,
+     "fat_g": 1.5,
+     "fiber_g": 2,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 13.5
+   "fiber_g": 15.5
   }
  },
  "WEIGHT_DAILY": [
