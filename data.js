@@ -10065,6 +10065,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 24.2
+  },
+  "2026-10-20": {
+   "date": "2026-10-20",
+   "calories": 731,
+   "protein_g": 76,
+   "carbs_g": 85,
+   "fat_g": 11.5,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), Creamy Chocolate Fudge, 2 scoops (46g) + Matcha powder, 2 tsp, mixed w/ water",
+     "calories": 167,
+     "protein_g": 21,
+     "carbs_g": 19,
+     "fat_g": 4.5,
+     "fiber_g": 7.5,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 85g rolled oats, 350g Fairlife fat free milk, 1 scoop (30g) Dymatize ISO100 Cinnamon Toast protein powder",
+     "calories": 564,
+     "protein_g": 55,
+     "carbs_g": 66,
+     "fat_g": 7,
+     "fiber_g": 10,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 17.5
   }
  },
  "WEIGHT_DAILY": [
