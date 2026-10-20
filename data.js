@@ -9988,10 +9988,10 @@ window.MACRO_DATA = {
   },
   "2026-10-19": {
    "date": "2026-10-19",
-   "calories": 1645,
-   "protein_g": 162,
-   "carbs_g": 159,
-   "fat_g": 34.5,
+   "calories": 2935,
+   "protein_g": 229,
+   "carbs_g": 315,
+   "fat_g": 76.5,
    "meals": [
     {
      "time": "morning",
@@ -10042,9 +10042,19 @@ window.MACRO_DATA = {
      "fat_g": 17,
      "fiber_g": 0.7,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Fenikkusu SF: Iku-Uni-Himo (soy-marinated ikura/uni/shaved ankimo/truffle oil, 1 of 2 pieces, wife ate other half), Baked Baby Scallops signature dish (1 piece eaten of the order), sashimi salad (mixed greens, assorted fish, sesame vinaigrette), seafood udon with kimchee (mussels/shrimp/fish cake/egg/corn), Kawahagi filefish jerky w/ QP mayo dip (half eaten), Mizubasho Junmai Daiginjo sake 500ml ~15.5% ABV (half bottle/250ml)",
+     "calories": 1290,
+     "protein_g": 67,
+     "carbs_g": 156,
+     "fat_g": 42,
+     "fiber_g": 5,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 16.2
+   "fiber_g": 21.2
   }
  },
  "WEIGHT_DAILY": [
