@@ -9988,9 +9988,9 @@ window.MACRO_DATA = {
   },
   "2026-10-19": {
    "date": "2026-10-19",
-   "calories": 2935,
+   "calories": 2965,
    "protein_g": 229,
-   "carbs_g": 315,
+   "carbs_g": 324,
    "fat_g": 76.5,
    "meals": [
     {
@@ -10052,9 +10052,19 @@ window.MACRO_DATA = {
      "fat_g": 42,
      "fiber_g": 5,
      "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Poppi Strawberry Lemon prebiotic soda, 1 can",
+     "calories": 30,
+     "protein_g": 0,
+     "carbs_g": 9,
+     "fat_g": 0,
+     "fiber_g": 3,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 21.2
+   "fiber_g": 24.2
   }
  },
  "WEIGHT_DAILY": [
