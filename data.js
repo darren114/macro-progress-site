@@ -10138,18 +10138,18 @@ window.MACRO_DATA = {
   },
   "2026-10-21": {
    "date": "2026-10-21",
-   "calories": 733,
+   "calories": 694,
    "protein_g": 72,
    "carbs_g": 37.5,
-   "fat_g": 29,
+   "fat_g": 25.5,
    "meals": [
     {
      "time": "snack",
-     "description": "Homemade chicken bone broth (371g), pressure-cooked from 2 Costco rotisserie chicken carcasses, yielded quart containers of gelatinous broth",
-     "calories": 106,
+     "description": "Homemade chicken bone broth (371g), pressure-cooked from 2 Costco rotisserie chicken carcasses, yielded quart containers of gelatinous broth, fat skimmed off top after refrigeration before this serving",
+     "calories": 67,
      "protein_g": 14,
      "carbs_g": 1.5,
-     "fat_g": 4,
+     "fat_g": 0.5,
      "fiber_g": 0,
      "confidence": "medium"
     },
