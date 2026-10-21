@@ -10135,6 +10135,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 27.6
+  },
+  "2026-10-21": {
+   "date": "2026-10-21",
+   "calories": 733,
+   "protein_g": 72,
+   "carbs_g": 37.5,
+   "fat_g": 29,
+   "meals": [
+    {
+     "time": "snack",
+     "description": "Homemade chicken bone broth (371g), pressure-cooked from 2 Costco rotisserie chicken carcasses, yielded quart containers of gelatinous broth",
+     "calories": 106,
+     "protein_g": 14,
+     "carbs_g": 1.5,
+     "fat_g": 4,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "140g basmati rice, 100g dark meat Costco rotisserie chicken, 100g white meat Costco rotisserie chicken (skin removed), 1 tbsp TJ's vegan creamy cauliflower dill dressing, 1 tbsp TJ's avocado green goddess dressing",
+     "calories": 627,
+     "protein_g": 58,
+     "carbs_g": 36,
+     "fat_g": 25,
+     "fiber_g": 0.6,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 0.6
   }
  },
  "WEIGHT_DAILY": [
