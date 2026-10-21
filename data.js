@@ -10068,10 +10068,10 @@ window.MACRO_DATA = {
   },
   "2026-10-20": {
    "date": "2026-10-20",
-   "calories": 2197,
+   "calories": 2142,
    "protein_g": 208,
-   "carbs_g": 207,
-   "fat_g": 57.5,
+   "carbs_g": 208,
+   "fat_g": 50.5,
    "meals": [
     {
      "time": "morning",
@@ -10115,11 +10115,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "Sandwich: Thomas Plain Bagel Thins (1, 46g), white meat chicken (204g, plain/unbreaded), Trader Joe's Buttermilk Ranch (2 tbsp), tomato (2 slices), leafy green lettuce, mayo, mustard",
-     "calories": 617,
+     "description": "Sandwich: Thomas Plain Bagel Thins (1, 46g), white meat chicken (204g, plain/unbreaded), Trader Joe's Buttermilk Ranch (2 tbsp), tomato (2 slices), leafy green lettuce, light mayo, mustard",
+     "calories": 562,
      "protein_g": 69,
-     "carbs_g": 23,
-     "fat_g": 26,
+     "carbs_g": 24,
+     "fat_g": 19,
      "fiber_g": 5,
      "confidence": "medium"
     }
