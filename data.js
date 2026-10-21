@@ -10068,10 +10068,10 @@ window.MACRO_DATA = {
   },
   "2026-10-20": {
    "date": "2026-10-20",
-   "calories": 2142,
-   "protein_g": 208,
-   "carbs_g": 208,
-   "fat_g": 50.5,
+   "calories": 2583,
+   "protein_g": 240,
+   "carbs_g": 277,
+   "fat_g": 54,
    "meals": [
     {
      "time": "morning",
@@ -10122,9 +10122,19 @@ window.MACRO_DATA = {
      "fat_g": 19,
      "fiber_g": 5,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Nick the Greek Froyo Plain (1 serving) + People's Choice Old Fashioned Original Beef Jerky (31g)",
+     "calories": 441,
+     "protein_g": 32,
+     "carbs_g": 69,
+     "fat_g": 3.5,
+     "fiber_g": 0.4,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 27.2
+   "fiber_g": 27.6
   }
  },
  "WEIGHT_DAILY": [
