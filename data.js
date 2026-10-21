@@ -10068,10 +10068,10 @@ window.MACRO_DATA = {
   },
   "2026-10-20": {
    "date": "2026-10-20",
-   "calories": 1300,
-   "protein_g": 129,
-   "carbs_g": 130,
-   "fat_g": 28.5,
+   "calories": 2197,
+   "protein_g": 208,
+   "carbs_g": 207,
+   "fat_g": 57.5,
    "meals": [
     {
      "time": "morning",
@@ -10102,9 +10102,29 @@ window.MACRO_DATA = {
      "fat_g": 17,
      "fiber_g": 0.7,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Popcorn, air popped, 2 servings (78g kernels, Int'l Popcorn Less-Hulls White Kernels)",
+     "calories": 280,
+     "protein_g": 10,
+     "carbs_g": 54,
+     "fat_g": 3,
+     "fiber_g": 4,
+     "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Sandwich: Thomas Plain Bagel Thins (1, 46g), white meat chicken (204g, plain/unbreaded), Trader Joe's Buttermilk Ranch (2 tbsp), tomato (2 slices), leafy green lettuce, mayo, mustard",
+     "calories": 617,
+     "protein_g": 69,
+     "carbs_g": 23,
+     "fat_g": 26,
+     "fiber_g": 5,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 18.2
+   "fiber_g": 27.2
   }
  },
  "WEIGHT_DAILY": [
