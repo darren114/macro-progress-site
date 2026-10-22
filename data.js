@@ -10188,10 +10188,10 @@ window.MACRO_DATA = {
   },
   "2026-10-22": {
    "date": "2026-10-22",
-   "calories": 620,
-   "protein_g": 53.3,
-   "carbs_g": 91.1,
-   "fat_g": 8.9,
+   "calories": 1270,
+   "protein_g": 107.9,
+   "carbs_g": 168.7,
+   "fat_g": 19.1,
    "meals": [
     {
      "time": "morning",
@@ -10232,9 +10232,19 @@ window.MACRO_DATA = {
      "fat_g": 0.5,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "150g white meat Costco rotisserie chicken (skin removed), 300g cooked basmati rice, 1 tbsp TJ's vegan creamy cauliflower dill dressing, 1 tbsp TJ's avocado green goddess dressing",
+     "calories": 650,
+     "protein_g": 54.6,
+     "carbs_g": 77.6,
+     "fat_g": 10.2,
+     "fiber_g": 1.2,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 17.1
+   "fiber_g": 18.3
   }
  },
  "WEIGHT_DAILY": [
