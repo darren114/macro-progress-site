@@ -10138,10 +10138,10 @@ window.MACRO_DATA = {
   },
   "2026-10-21": {
    "date": "2026-10-21",
-   "calories": 756,
-   "protein_g": 77.4,
-   "carbs_g": 66,
-   "fat_g": 18.2,
+   "calories": 2685,
+   "protein_g": 161.4,
+   "carbs_g": 284,
+   "fat_g": 96.2,
    "meals": [
     {
      "time": "snack",
@@ -10172,9 +10172,19 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.2,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Dinner at Reposado (San Mateo) -- chips w/ guac (4) and salsa (6, 10 chips total), Camarones al Ajillo portion (2 shrimp, 2 chipotle crostini bread, mushrooms in garlic butter sauce), 1 large chip w/ tuna slice + avocado, Puerco Asado bone-in pork chop entree w/ roasted sweet potato, baby kale salad, pepitas, persimmon butter, pomegranate glaze (ate whole entree minus 2 fatty end slices given to parents), mom's mole chicken (55g dark meat, minimal sauce), small portion of mom's leftover jasmine rice, shared desserts (4 bites Tres Leches, 4 small bites Platano Enmielado banana cake + 2 bites caramel sea salt ice cream), 2 glasses red wine (~5oz each)",
+     "calories": 1929,
+     "protein_g": 84,
+     "carbs_g": 218,
+     "fat_g": 78,
+     "fiber_g": 13,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 3.8
+   "fiber_g": 16.8
   }
  },
  "WEIGHT_DAILY": [
