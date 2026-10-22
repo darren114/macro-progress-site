@@ -10188,10 +10188,10 @@ window.MACRO_DATA = {
   },
   "2026-10-22": {
    "date": "2026-10-22",
-   "calories": 558,
-   "protein_g": 40.3,
-   "carbs_g": 89.7,
-   "fat_g": 8.4,
+   "calories": 620,
+   "protein_g": 53.3,
+   "carbs_g": 91.1,
+   "fat_g": 8.9,
    "meals": [
     {
      "time": "morning",
@@ -10222,6 +10222,16 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.6,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Homemade chicken bone broth (344g), same batch as yesterday's",
+     "calories": 62,
+     "protein_g": 13,
+     "carbs_g": 1.4,
+     "fat_g": 0.5,
+     "fiber_g": 0,
+     "confidence": "medium"
     }
    ],
    "fiber_g": 17.1
