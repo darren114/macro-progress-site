@@ -10285,6 +10285,26 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 26.9
+  },
+  "2026-10-23": {
+   "date": "2026-10-23",
+   "calories": 289,
+   "protein_g": 21.5,
+   "carbs_g": 40.7,
+   "fat_g": 3.5,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Overnight oats: 52g gluten-free sprouted rolled oats, 268g Fairlife fat-free ultra-filtered milk",
+     "calories": 289,
+     "protein_g": 21.5,
+     "carbs_g": 40.7,
+     "fat_g": 3.5,
+     "fiber_g": 6,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 6
   }
  },
  "WEIGHT_DAILY": [
