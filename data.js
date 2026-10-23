@@ -10288,10 +10288,10 @@ window.MACRO_DATA = {
   },
   "2026-10-23": {
    "date": "2026-10-23",
-   "calories": 436,
-   "protein_g": 49.5,
-   "carbs_g": 45.7,
-   "fat_g": 4.5,
+   "calories": 1199,
+   "protein_g": 97.5,
+   "carbs_g": 94.7,
+   "fat_g": 40.5,
    "meals": [
     {
      "time": "morning",
@@ -10312,9 +10312,19 @@ window.MACRO_DATA = {
      "fat_g": 1,
      "fiber_g": 0.5,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "175g cooked basmati rice, 206g Costco rotisserie chicken dark meat with skin, 2 tsp Fly By Jing Sichuan Chili Crisp (hot sauce)",
+     "calories": 763,
+     "protein_g": 48,
+     "carbs_g": 49,
+     "fat_g": 36,
+     "fiber_g": 0.7,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 6.5
+   "fiber_g": 7.2
   }
  },
  "WEIGHT_DAILY": [
