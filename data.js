@@ -10188,10 +10188,10 @@ window.MACRO_DATA = {
   },
   "2026-10-22": {
    "date": "2026-10-22",
-   "calories": 2228,
-   "protein_g": 153.2,
-   "carbs_g": 284.6,
-   "fat_g": 51.9,
+   "calories": 2655,
+   "protein_g": 169.5,
+   "carbs_g": 346,
+   "fat_g": 63.5,
    "meals": [
     {
      "time": "morning",
@@ -10272,9 +10272,19 @@ window.MACRO_DATA = {
      "fat_g": 32,
      "fiber_g": 0.8,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "1 pack Momofuku Soy & Scallion Noodles, 1 egg pan-fried no oil, 1 tsp Fly By Jing Sichuan Chili Crisp (hot sauce)",
+     "calories": 427,
+     "protein_g": 16.3,
+     "carbs_g": 61.4,
+     "fat_g": 11.6,
+     "fiber_g": 1,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 25.9
+   "fiber_g": 26.9
   }
  },
  "WEIGHT_DAILY": [
