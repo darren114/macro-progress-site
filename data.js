@@ -10345,6 +10345,26 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 19.1
+  },
+  "2026-10-24": {
+   "date": "2026-10-24",
+   "calories": 195,
+   "protein_g": 33.1,
+   "carbs_g": 2.3,
+   "fat_g": 5.1,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "228g Kirkland liquid egg whites + 41g Kirkland smoked salmon",
+     "calories": 195,
+     "protein_g": 33.1,
+     "carbs_g": 2.3,
+     "fat_g": 5.1,
+     "fiber_g": 0,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 0
   }
  },
  "WEIGHT_DAILY": [
