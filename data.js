@@ -10348,10 +10348,10 @@ window.MACRO_DATA = {
   },
   "2026-10-24": {
    "date": "2026-10-24",
-   "calories": 352,
-   "protein_g": 61.1,
-   "carbs_g": 8.6,
-   "fat_g": 6.1,
+   "calories": 1234,
+   "protein_g": 112.1,
+   "carbs_g": 132.6,
+   "fat_g": 26.1,
    "meals": [
     {
      "time": "morning",
@@ -10372,9 +10372,19 @@ window.MACRO_DATA = {
      "fat_g": 1,
      "fiber_g": 2.7,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Ox 9 Lanzhou Handpulled Noodles (San Mateo): Lanzhou beef noodle soup (63g sliced beef, 420g wheat hand-pulled noodles, 661g clear beef broth, 1 tsp house chili oil) + 1 Spicy Wonton (C.2, pork wonton in red chili oil sauce)",
+     "calories": 882,
+     "protein_g": 51,
+     "carbs_g": 124,
+     "fat_g": 20,
+     "fiber_g": 3,
+     "confidence": "low-medium"
     }
    ],
-   "fiber_g": 2.7
+   "fiber_g": 5.7
   }
  },
  "WEIGHT_DAILY": [
