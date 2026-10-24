@@ -10348,9 +10348,9 @@ window.MACRO_DATA = {
   },
   "2026-10-24": {
    "date": "2026-10-24",
-   "calories": 1234,
+   "calories": 1334,
    "protein_g": 112.1,
-   "carbs_g": 132.6,
+   "carbs_g": 157.6,
    "fat_g": 26.1,
    "meals": [
     {
@@ -10382,6 +10382,16 @@ window.MACRO_DATA = {
      "fat_g": 20,
      "fiber_g": 3,
      "confidence": "low-medium"
+    },
+    {
+     "time": "snack",
+     "description": "Molly Tea Premium Jasmine Tea (Medium, 50% sugar, no milk/toppings)",
+     "calories": 100,
+     "protein_g": 0,
+     "carbs_g": 25,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium"
     }
    ],
    "fiber_g": 5.7
