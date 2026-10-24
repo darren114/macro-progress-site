@@ -10288,10 +10288,10 @@ window.MACRO_DATA = {
   },
   "2026-10-23": {
    "date": "2026-10-23",
-   "calories": 1331,
-   "protein_g": 99.1,
-   "carbs_g": 128.4,
-   "fat_g": 40.9,
+   "calories": 2816,
+   "protein_g": 186.1,
+   "carbs_g": 254.4,
+   "fat_g": 103.9,
    "meals": [
     {
      "time": "morning",
@@ -10332,9 +10332,19 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.9,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Rin-Tei (San Mateo): sake flight (3 cups premium Junmai Daiginjo, all drunk), Japanese Style Chili Garlic Poached Chicken (3/4 eaten), mixed green salad w/ dressing (1/2 salad + 1/4 dressing), Octopus Aglio E Olio w/ potato & rice noodles (3/4 eaten), beef/snap pea/potato stir-fry (3/4 eaten, off-menu item), Creamy Soy Milk Pho w/ Mushrooms and Chicken (1/2 eaten)",
+     "calories": 1485,
+     "protein_g": 87,
+     "carbs_g": 126,
+     "fat_g": 63,
+     "fiber_g": 8,
+     "confidence": "low-medium"
     }
    ],
-   "fiber_g": 11.1
+   "fiber_g": 19.1
   }
  },
  "WEIGHT_DAILY": [
