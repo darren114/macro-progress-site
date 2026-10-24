@@ -10348,10 +10348,10 @@ window.MACRO_DATA = {
   },
   "2026-10-24": {
    "date": "2026-10-24",
-   "calories": 195,
-   "protein_g": 33.1,
-   "carbs_g": 2.3,
-   "fat_g": 5.1,
+   "calories": 352,
+   "protein_g": 61.1,
+   "carbs_g": 8.6,
+   "fat_g": 6.1,
    "meals": [
     {
      "time": "morning",
@@ -10362,9 +10362,19 @@ window.MACRO_DATA = {
      "fat_g": 5.1,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Transparent Labs Whey Protein Isolate (1 scoop, 35g) + Matcha Powder (8g)",
+     "calories": 157,
+     "protein_g": 28,
+     "carbs_g": 6.3,
+     "fat_g": 1,
+     "fiber_g": 2.7,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 0
+   "fiber_g": 2.7
   }
  },
  "WEIGHT_DAILY": [
