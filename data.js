@@ -10288,9 +10288,9 @@ window.MACRO_DATA = {
   },
   "2026-10-23": {
    "date": "2026-10-23",
-   "calories": 2816,
-   "protein_g": 186.1,
-   "carbs_g": 254.4,
+   "calories": 2775,
+   "protein_g": 185.1,
+   "carbs_g": 245.4,
    "fat_g": 103.9,
    "meals": [
     {
@@ -10335,10 +10335,10 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "Rin-Tei (San Mateo): sake flight (3 cups premium Junmai Daiginjo, all drunk), Japanese Style Chili Garlic Poached Chicken (3/4 eaten), mixed green salad w/ dressing (1/2 salad + 1/4 dressing), Octopus Aglio E Olio w/ potato & rice noodles (3/4 eaten), beef/snap pea/potato stir-fry (3/4 eaten, off-menu item), Creamy Soy Milk Pho w/ Mushrooms and Chicken (1/2 eaten)",
-     "calories": 1485,
-     "protein_g": 87,
-     "carbs_g": 126,
+     "description": "Rin-Tei (San Mateo): sake flight (3 cups premium Junmai Daiginjo, all drunk), Japanese Style Chili Garlic Poached Chicken (3/4 eaten), mixed green salad w/ dressing (1/2 salad + 1/4 dressing), Octopus Aglio E Olio w/ potato, no rice noodles eaten (3/4 of octopus+potato eaten), beef/snap pea/potato stir-fry (3/4 eaten, off-menu item), Creamy Soy Milk Pho w/ Mushrooms and Chicken (1/2 eaten)",
+     "calories": 1444,
+     "protein_g": 86,
+     "carbs_g": 117,
      "fat_g": 63,
      "fiber_g": 8,
      "confidence": "low-medium"
