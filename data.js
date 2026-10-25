@@ -10348,10 +10348,10 @@ window.MACRO_DATA = {
   },
   "2026-10-24": {
    "date": "2026-10-24",
-   "calories": 1334,
-   "protein_g": 112.1,
-   "carbs_g": 157.6,
-   "fat_g": 26.1,
+   "calories": 2049,
+   "protein_g": 171.1,
+   "carbs_g": 198.1,
+   "fat_g": 58.1,
    "meals": [
     {
      "time": "morning",
@@ -10392,9 +10392,49 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Amara (Belmont) Braised Octopus & Patatas Bravas: 1 octopus leg + a few potato cubes",
+     "calories": 160,
+     "protein_g": 9,
+     "carbs_g": 12,
+     "fat_g": 7,
+     "fiber_g": 1,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Amara (Belmont) Grilled Whole Branzino: 30g fish + 2 pieces roasted squash",
+     "calories": 45,
+     "protein_g": 6,
+     "carbs_g": 3.5,
+     "fat_g": 1,
+     "fiber_g": 0,
+     "confidence": "medium-high"
+    },
+    {
+     "time": "dinner",
+     "description": "Amara (Belmont) 40oz Tomahawk Steak: 140g trimmed lean + 85g snap peas",
+     "calories": 300,
+     "protein_g": 41,
+     "carbs_g": 6,
+     "fat_g": 11,
+     "fiber_g": 2,
+     "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Amara (Belmont) Tiramisu, 4 spoon-sized bites (~65g)",
+     "calories": 210,
+     "protein_g": 3,
+     "carbs_g": 19,
+     "fat_g": 13,
+     "fiber_g": 0,
+     "confidence": "medium-high"
     }
    ],
-   "fiber_g": 5.7
+   "fiber_g": 8.7
   }
  },
  "WEIGHT_DAILY": [
