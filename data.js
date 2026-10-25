@@ -10458,10 +10458,10 @@ window.MACRO_DATA = {
   },
   "2026-10-25": {
    "date": "2026-10-25",
-   "calories": 795,
-   "protein_g": 101,
-   "carbs_g": 6.3,
-   "fat_g": 37.2,
+   "calories": 935,
+   "protein_g": 103,
+   "carbs_g": 20.3,
+   "fat_g": 46.2,
    "meals": [
     {
      "time": "morning",
@@ -10492,9 +10492,19 @@ window.MACRO_DATA = {
      "fat_g": 12.6,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Compartes hazelnut chocolate truffle (cube-shaped, caramelized hazelnut ganache, hard chocolate shell), 2 pieces",
+     "calories": 140,
+     "protein_g": 2,
+     "carbs_g": 14,
+     "fat_g": 9,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 2.7
+   "fiber_g": 3.7
   }
  },
  "WEIGHT_DAILY": [
