@@ -10455,6 +10455,46 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 8.7
+  },
+  "2026-10-25": {
+   "date": "2026-10-25",
+   "calories": 795,
+   "protein_g": 101,
+   "carbs_g": 6.3,
+   "fat_g": 37.2,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Transparent Labs Whey Protein Isolate (1 scoop, 35g) + Matcha Powder (8g)",
+     "calories": 157,
+     "protein_g": 28,
+     "carbs_g": 6.3,
+     "fat_g": 1,
+     "fiber_g": 2.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Costco rotisserie chicken, dark meat with skin, 150g",
+     "calories": 380,
+     "protein_g": 38.9,
+     "carbs_g": 0,
+     "fat_g": 23.6,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Costco rotisserie chicken, dark meat no skin, 126g",
+     "calories": 258,
+     "protein_g": 34.1,
+     "carbs_g": 0,
+     "fat_g": 12.6,
+     "fiber_g": 0,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 2.7
   }
  },
  "WEIGHT_DAILY": [
