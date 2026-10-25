@@ -10458,10 +10458,10 @@ window.MACRO_DATA = {
   },
   "2026-10-25": {
    "date": "2026-10-25",
-   "calories": 935,
-   "protein_g": 103,
-   "carbs_g": 20.3,
-   "fat_g": 46.2,
+   "calories": 1016,
+   "protein_g": 104.1,
+   "carbs_g": 32.3,
+   "fat_g": 49.5,
    "meals": [
     {
      "time": "morning",
@@ -10502,9 +10502,19 @@ window.MACRO_DATA = {
      "fat_g": 9,
      "fiber_g": 1,
      "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Banana bread, 25g",
+     "calories": 81,
+     "protein_g": 1.1,
+     "carbs_g": 12,
+     "fat_g": 3.3,
+     "fiber_g": 0.3,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 3.7
+   "fiber_g": 4
   }
  },
  "WEIGHT_DAILY": [
