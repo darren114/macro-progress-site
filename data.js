@@ -10348,9 +10348,9 @@ window.MACRO_DATA = {
   },
   "2026-10-24": {
    "date": "2026-10-24",
-   "calories": 2049,
+   "calories": 2549,
    "protein_g": 171.1,
-   "carbs_g": 198.1,
+   "carbs_g": 214.1,
    "fat_g": 58.1,
    "meals": [
     {
@@ -10430,6 +10430,16 @@ window.MACRO_DATA = {
      "protein_g": 3,
      "carbs_g": 19,
      "fat_g": 13,
+     "fiber_g": 0,
+     "confidence": "medium-high"
+    },
+    {
+     "time": "dinner",
+     "description": "Red wine, 4 glasses (~5oz pour each, Amara Belmont)",
+     "calories": 500,
+     "protein_g": 0,
+     "carbs_g": 16,
+     "fat_g": 0,
      "fiber_g": 0,
      "confidence": "medium-high"
     }
