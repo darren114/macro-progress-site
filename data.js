@@ -10458,10 +10458,10 @@ window.MACRO_DATA = {
   },
   "2026-10-25": {
    "date": "2026-10-25",
-   "calories": 2184,
-   "protein_g": 155.6,
-   "carbs_g": 215.7,
-   "fat_g": 73.6,
+   "calories": 2304,
+   "protein_g": 158.3,
+   "carbs_g": 237,
+   "fat_g": 76.3,
    "meals": [
     {
      "time": "morning",
@@ -10572,9 +10572,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0.7,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Realsy peanut butter date, 2 dates (~40g)",
+     "calories": 120,
+     "protein_g": 2.67,
+     "carbs_g": 21.33,
+     "fat_g": 2.67,
+     "fiber_g": 2.67,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 19.2
+   "fiber_g": 21.8
   }
  },
  "WEIGHT_DAILY": [
