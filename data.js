@@ -10605,10 +10605,10 @@ window.MACRO_DATA = {
   },
   "2026-10-26": {
    "date": "2026-10-26",
-   "calories": 1232,
-   "protein_g": 84,
-   "carbs_g": 151.3,
-   "fat_g": 33.2,
+   "calories": 1732,
+   "protein_g": 136,
+   "carbs_g": 187.3,
+   "fat_g": 47.2,
    "meals": [
     {
      "time": "morning",
@@ -10639,9 +10639,19 @@ window.MACRO_DATA = {
      "fat_g": 0.5,
      "fiber_g": 4,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Leftover Creamy Soy Milk Pho w/ Mushrooms and Chicken (356g, from Friday 10/23 Rin-Tei dinner) + 102g Costco rotisserie white meat chicken (skinless) added on top",
+     "calories": 500,
+     "protein_g": 52,
+     "carbs_g": 36,
+     "fat_g": 14,
+     "fiber_g": 3.5,
+     "confidence": "medium-low"
     }
    ],
-   "fiber_g": 20.2
+   "fiber_g": 23.7
   }
  },
  "WEIGHT_DAILY": [
