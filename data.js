@@ -10458,9 +10458,9 @@ window.MACRO_DATA = {
   },
   "2026-10-25": {
    "date": "2026-10-25",
-   "calories": 2170,
-   "protein_g": 155.3,
-   "carbs_g": 212.2,
+   "calories": 2184,
+   "protein_g": 155.6,
+   "carbs_g": 215.7,
    "fat_g": 73.6,
    "meals": [
     {
@@ -10562,9 +10562,19 @@ window.MACRO_DATA = {
      "fat_g": 19.95,
      "fiber_g": 6.77,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Orange, 30g",
+     "calories": 14,
+     "protein_g": 0.3,
+     "carbs_g": 3.5,
+     "fat_g": 0,
+     "fiber_g": 0.7,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 18.5
+   "fiber_g": 19.2
   }
  },
  "WEIGHT_DAILY": [
