@@ -10458,10 +10458,10 @@ window.MACRO_DATA = {
   },
   "2026-10-25": {
    "date": "2026-10-25",
-   "calories": 1324,
-   "protein_g": 109.4,
-   "carbs_g": 100,
-   "fat_g": 53.7,
+   "calories": 2170,
+   "protein_g": 155.3,
+   "carbs_g": 212.2,
+   "fat_g": 73.6,
    "meals": [
     {
      "time": "morning",
@@ -10552,9 +10552,19 @@ window.MACRO_DATA = {
      "fat_g": 0.5,
      "fiber_g": 3.7,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Spaghetti dinner: Garofalo spaghetti noodles 306g cooked, 93/7 ground beef 100g cooked, Yo Mama roasted garlic sauce 238g",
+     "calories": 846.42,
+     "protein_g": 45.97,
+     "carbs_g": 112.17,
+     "fat_g": 19.95,
+     "fiber_g": 6.77,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 11.7
+   "fiber_g": 18.5
   }
  },
  "WEIGHT_DAILY": [
