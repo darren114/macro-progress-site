@@ -10458,10 +10458,10 @@ window.MACRO_DATA = {
   },
   "2026-10-25": {
    "date": "2026-10-25",
-   "calories": 1016,
-   "protein_g": 104.1,
-   "carbs_g": 32.3,
-   "fat_g": 49.5,
+   "calories": 1324,
+   "protein_g": 109.4,
+   "carbs_g": 100,
+   "fat_g": 53.7,
    "meals": [
     {
      "time": "morning",
@@ -10512,9 +10512,49 @@ window.MACRO_DATA = {
      "fat_g": 3.3,
      "fiber_g": 0.3,
      "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Realsy chocolate peanut butter date, 1 date (~20g)",
+     "calories": 60,
+     "protein_g": 1.33,
+     "carbs_g": 10.67,
+     "fat_g": 1.33,
+     "fiber_g": 1.33,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Realsy peanut butter date, 1 date (~20g)",
+     "calories": 60,
+     "protein_g": 1.33,
+     "carbs_g": 10.67,
+     "fat_g": 1.33,
+     "fiber_g": 1.33,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Realsy peanut butter and jelly (strawberry) date, 1 date (~20g)",
+     "calories": 61.67,
+     "protein_g": 1,
+     "carbs_g": 14,
+     "fat_g": 1,
+     "fiber_g": 1.33,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Banana, 142g",
+     "calories": 126,
+     "protein_g": 1.6,
+     "carbs_g": 32.4,
+     "fat_g": 0.5,
+     "fiber_g": 3.7,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 4
+   "fiber_g": 11.7
   }
  },
  "WEIGHT_DAILY": [
