@@ -10672,6 +10672,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 30
+  },
+  "2026-10-27": {
+   "date": "2026-10-27",
+   "calories": 1068,
+   "protein_g": 84.4,
+   "carbs_g": 133.1,
+   "fat_g": 22.4,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Spaghetti dish: Garofalo spaghetti noodles 300g cooked, Costco rotisserie chicken white meat no skin 151g, Yo Mama roasted garlic sauce 300g",
+     "calories": 890.7,
+     "protein_g": 63.4,
+     "carbs_g": 112.8,
+     "fat_g": 17.9,
+     "fiber_g": 7.2,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 16.9
   }
  },
  "WEIGHT_DAILY": [
