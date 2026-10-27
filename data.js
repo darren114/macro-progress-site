@@ -10605,10 +10605,10 @@ window.MACRO_DATA = {
   },
   "2026-10-26": {
    "date": "2026-10-26",
-   "calories": 1843,
-   "protein_g": 137.4,
-   "carbs_g": 215.8,
-   "fat_g": 47.6,
+   "calories": 3538,
+   "protein_g": 198.4,
+   "carbs_g": 388.8,
+   "fat_g": 133.6,
    "meals": [
     {
      "time": "morning",
@@ -10659,9 +10659,19 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.3,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "The Old Post Office (Burlingame): bread service butter (3 dollops, ~10g), hamachi-style crudo (half eaten), tortellini in mushroom consomme (half eaten), NY strip steak + mushroom tart (wife's entree, half eaten by Darren), lobster entree (Darren's, half eaten), chocolate fondant cake w/ ice cream (100g full dessert, Darren ate 3/4), envelope petit-four dessert (2/3 eaten), brioche dough-ball dessert w/ ice cream (wife's dessert, Darren ate 2/3), Pinot Noir x2 glasses (5oz pours)",
+     "calories": 1695,
+     "protein_g": 61,
+     "carbs_g": 173,
+     "fat_g": 86,
+     "fiber_g": 3,
+     "confidence": "low-medium"
     }
    ],
-   "fiber_g": 27
+   "fiber_g": 30
   }
  },
  "WEIGHT_DAILY": [
