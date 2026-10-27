@@ -10605,10 +10605,10 @@ window.MACRO_DATA = {
   },
   "2026-10-26": {
    "date": "2026-10-26",
-   "calories": 1732,
-   "protein_g": 136,
-   "carbs_g": 187.3,
-   "fat_g": 47.2,
+   "calories": 1843,
+   "protein_g": 137.4,
+   "carbs_g": 215.8,
+   "fat_g": 47.6,
    "meals": [
     {
      "time": "morning",
@@ -10649,9 +10649,19 @@ window.MACRO_DATA = {
      "fat_g": 14,
      "fiber_g": 3.5,
      "confidence": "medium-low"
+    },
+    {
+     "time": "snack",
+     "description": "Banana, 1 medium, 125g peeled",
+     "calories": 111,
+     "protein_g": 1.4,
+     "carbs_g": 28.5,
+     "fat_g": 0.4,
+     "fiber_g": 3.3,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 23.7
+   "fiber_g": 27
   }
  },
  "WEIGHT_DAILY": [
