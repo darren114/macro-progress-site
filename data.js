@@ -10675,10 +10675,10 @@ window.MACRO_DATA = {
   },
   "2026-10-27": {
    "date": "2026-10-27",
-   "calories": 2083,
-   "protein_g": 156.4,
-   "carbs_g": 258.2,
-   "fat_g": 44,
+   "calories": 3089,
+   "protein_g": 243.8,
+   "carbs_g": 347.4,
+   "fat_g": 75.7,
    "meals": [
     {
      "time": "morning",
@@ -10719,9 +10719,19 @@ window.MACRO_DATA = {
      "fat_g": 4.27,
      "fiber_g": 7.99,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Hana Hawaiian BBQ: BBQ chicken 237g, garlic basa fish 133g, rice 245g",
+     "calories": 1005.3,
+     "protein_g": 87.4,
+     "carbs_g": 89.2,
+     "fat_g": 31.7,
+     "fiber_g": 1,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 34.7
+   "fiber_g": 35.7
   }
  },
  "WEIGHT_DAILY": [
