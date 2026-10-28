@@ -10675,10 +10675,10 @@ window.MACRO_DATA = {
   },
   "2026-10-27": {
    "date": "2026-10-27",
-   "calories": 1909,
-   "protein_g": 151.8,
-   "carbs_g": 228.2,
-   "fat_g": 39.7,
+   "calories": 2083,
+   "protein_g": 156.4,
+   "carbs_g": 258.2,
+   "fat_g": 44,
    "meals": [
     {
      "time": "morning",
@@ -10709,9 +10709,19 @@ window.MACRO_DATA = {
      "fat_g": 17.345,
      "fiber_g": 9.77,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Fruit shake (half portion of batch): 4 Costco golden kiwis, 2 Persian cucumbers, 2 tbsp chia seeds, water, half a lemon, divided by 2",
+     "calories": 174.3,
+     "protein_g": 4.59,
+     "carbs_g": 30,
+     "fat_g": 4.27,
+     "fiber_g": 7.99,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 26.7
+   "fiber_g": 34.7
   }
  },
  "WEIGHT_DAILY": [
