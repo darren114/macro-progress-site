@@ -10735,10 +10735,10 @@ window.MACRO_DATA = {
   },
   "2026-10-28": {
    "date": "2026-10-28",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 941,
+   "protein_g": 85.2,
+   "carbs_g": 108.8,
+   "fat_g": 18.2,
    "meals": [
     {
      "time": "morning",
@@ -10749,9 +10749,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Spaghetti dish: Garofalo spaghetti noodles 232g cooked, Costco rotisserie chicken white meat no skin 151g, Yo Mama roasted garlic sauce 191g, Bragg nutritional yeast 10g sprinkled on top",
+     "calories": 764.48,
+     "protein_g": 64.23,
+     "carbs_g": 88.54,
+     "fat_g": 13.68,
+     "fiber_g": 7.22,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 16.9
   }
  },
  "WEIGHT_DAILY": [
