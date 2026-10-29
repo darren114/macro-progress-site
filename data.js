@@ -10735,10 +10735,10 @@ window.MACRO_DATA = {
   },
   "2026-10-28": {
    "date": "2026-10-28",
-   "calories": 941,
-   "protein_g": 85.2,
-   "carbs_g": 108.8,
-   "fat_g": 18.2,
+   "calories": 1946,
+   "protein_g": 151.2,
+   "carbs_g": 215.8,
+   "fat_g": 56.7,
    "meals": [
     {
      "time": "morning",
@@ -10759,9 +10759,19 @@ window.MACRO_DATA = {
      "fat_g": 13.68,
      "fiber_g": 7.22,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Tasty Pot Taiwanese Supreme Spicy Hot Pot (beef slices, beef tendon, instant noodles (thin/smaller portion), tofu puffs, tofu, fishball, meatball, cuttlefish ring, pork blood rice cake, fried tofu skin, enoki/brown beech mushroom, sour mustard, imitation crab, cilantro/scallion, remaining broth/cabbage eaten; ~150g soup, ~100g cabbage, pork intestine not eaten), rice 75g, sweet tea 7oz, People's Choice Old Fashioned beef jerky 15g",
+     "calories": 1005,
+     "protein_g": 66,
+     "carbs_g": 107,
+     "fat_g": 38.5,
+     "fiber_g": 6.2,
+     "confidence": "low-medium"
     }
    ],
-   "fiber_g": 16.9
+   "fiber_g": 23.1
   }
  },
  "WEIGHT_DAILY": [
