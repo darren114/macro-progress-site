@@ -10775,10 +10775,10 @@ window.MACRO_DATA = {
   },
   "2026-10-29": {
    "date": "2026-10-29",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 687,
+   "protein_g": 47.1,
+   "carbs_g": 108.7,
+   "fat_g": 10.4,
    "meals": [
     {
      "time": "morning",
@@ -10789,9 +10789,29 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 82g dry oats, 252g Fairlife Fat Free Ultra-Filtered Milk",
+     "calories": 399,
+     "protein_g": 24.7,
+     "carbs_g": 59.9,
+     "fat_g": 5.5,
+     "fiber_g": 9.5,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Banana, 1 medium, 125g peeled",
+     "calories": 111,
+     "protein_g": 1.4,
+     "carbs_g": 28.5,
+     "fat_g": 0.4,
+     "fiber_g": 3.3,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 22.5
   }
  },
  "WEIGHT_DAILY": [
