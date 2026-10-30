@@ -10775,10 +10775,10 @@ window.MACRO_DATA = {
   },
   "2026-10-29": {
    "date": "2026-10-29",
-   "calories": 1014,
-   "protein_g": 75.2,
-   "carbs_g": 136.4,
-   "fat_g": 23.7,
+   "calories": 1954,
+   "protein_g": 122.2,
+   "carbs_g": 265.4,
+   "fat_g": 53.7,
    "meals": [
     {
      "time": "morning",
@@ -10819,9 +10819,19 @@ window.MACRO_DATA = {
      "fat_g": 13.3,
      "fiber_g": 5.9,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Thai Nakorn deconstructed pad see ew (chicken 75g, Chinese broccoli 58g, scrambled egg 16g, wide rice noodles in sweet soy sauce 284g) + chicken satay 74g lightly dipped in peanut sauce + deconstructed mango sticky rice (sticky rice 95g, mango 43g)",
+     "calories": 940,
+     "protein_g": 47,
+     "carbs_g": 129,
+     "fat_g": 30,
+     "fiber_g": 5.6,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 28.4
+   "fiber_g": 34
   }
  },
  "WEIGHT_DAILY": [
