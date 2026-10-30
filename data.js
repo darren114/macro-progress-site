@@ -10775,9 +10775,9 @@ window.MACRO_DATA = {
   },
   "2026-10-29": {
    "date": "2026-10-29",
-   "calories": 1954,
+   "calories": 2254,
    "protein_g": 122.2,
-   "carbs_g": 265.4,
+   "carbs_g": 340.4,
    "fat_g": 53.7,
    "meals": [
     {
@@ -10822,10 +10822,10 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "Thai Nakorn deconstructed pad see ew (chicken 75g, Chinese broccoli 58g, scrambled egg 16g, wide rice noodles in sweet soy sauce 284g) + chicken satay 74g lightly dipped in peanut sauce + deconstructed mango sticky rice (sticky rice 95g, mango 43g)",
-     "calories": 940,
+     "description": "Thai Nakorn deconstructed pad see ew (chicken 75g, Chinese broccoli 58g, scrambled egg 16g, wide rice noodles in sweet soy sauce 284g) + chicken satay 74g lightly dipped in peanut sauce + deconstructed mango sticky rice (sticky rice 95g, mango 43g) + 3 glasses red wine (Langhe DOC Freisa, 4oz each, 12oz total)",
+     "calories": 1240,
      "protein_g": 47,
-     "carbs_g": 129,
+     "carbs_g": 204,
      "fat_g": 30,
      "fiber_g": 5.6,
      "confidence": "medium"
