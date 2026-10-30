@@ -10775,10 +10775,10 @@ window.MACRO_DATA = {
   },
   "2026-10-29": {
    "date": "2026-10-29",
-   "calories": 687,
-   "protein_g": 47.1,
-   "carbs_g": 108.7,
-   "fat_g": 10.4,
+   "calories": 1014,
+   "protein_g": 75.2,
+   "carbs_g": 136.4,
+   "fat_g": 23.7,
    "meals": [
     {
      "time": "morning",
@@ -10809,9 +10809,19 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.3,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Sandwich: Thomas Plain Bagel Thins (1, 46g), Real Good Foods lightly breaded chicken strips (119g weighed), Trader Joe's Buttermilk Ranch (2 tbsp), butter lettuce, tomato, red onion",
+     "calories": 327,
+     "protein_g": 28.1,
+     "carbs_g": 27.7,
+     "fat_g": 13.3,
+     "fiber_g": 5.9,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 22.5
+   "fiber_g": 28.4
   }
  },
  "WEIGHT_DAILY": [
