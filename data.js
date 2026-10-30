@@ -10775,10 +10775,10 @@ window.MACRO_DATA = {
   },
   "2026-10-29": {
    "date": "2026-10-29",
-   "calories": 2526,
-   "protein_g": 153,
-   "carbs_g": 345.8,
-   "fat_g": 66.4,
+   "calories": 2580,
+   "protein_g": 159.2,
+   "carbs_g": 346.9,
+   "fat_g": 68.9,
    "meals": [
     {
      "time": "morning",
@@ -10832,11 +10832,11 @@ window.MACRO_DATA = {
     },
     {
      "time": "evening",
-     "description": "Kirkland Signature Fully Cooked Crispy Wings (Classic Buffalo), meat-only estimate: 346g bone-in for 3 wing pieces, minus 1 wing wife ate, Darren's share ~231g bone-in -> ~152g edible meat (no bone)",
-     "calories": 272,
-     "protein_g": 30.8,
-     "carbs_g": 5.4,
-     "fat_g": 12.7,
+     "description": "Kirkland Signature Fully Cooked Crispy Wings (Classic Buffalo), meat-only estimate: 346g bone-in for 5 wing pieces, minus 1 wing wife ate, Darren's share ~277g bone-in -> ~183g edible meat (no bone)",
+     "calories": 326,
+     "protein_g": 37,
+     "carbs_g": 6.5,
+     "fat_g": 15.2,
      "fiber_g": 0,
      "confidence": "medium"
     }
