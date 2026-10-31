@@ -10845,10 +10845,10 @@ window.MACRO_DATA = {
   },
   "2026-10-30": {
    "date": "2026-10-30",
-   "calories": 1272,
-   "protein_g": 78,
-   "carbs_g": 178.6,
-   "fat_g": 31.1,
+   "calories": 1582,
+   "protein_g": 92,
+   "carbs_g": 216.6,
+   "fat_g": 41.1,
    "meals": [
     {
      "time": "morning",
@@ -10899,9 +10899,19 @@ window.MACRO_DATA = {
      "fat_g": 6.3,
      "fiber_g": 1.8,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Leftover wife's Blissful Noodles rice noodle soup w/ pickled veggies and fish fillet, 345g (~35g fish fillet)",
+     "calories": 310,
+     "protein_g": 14,
+     "carbs_g": 38,
+     "fat_g": 10,
+     "fiber_g": 2,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 24.2
+   "fiber_g": 26.2
   }
  },
  "WEIGHT_DAILY": [
