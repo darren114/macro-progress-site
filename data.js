@@ -10965,10 +10965,10 @@ window.MACRO_DATA = {
   },
   "2026-10-31": {
    "date": "2026-10-31",
-   "calories": 704,
-   "protein_g": 57.6,
-   "carbs_g": 83,
-   "fat_g": 18.3,
+   "calories": 1054,
+   "protein_g": 67.6,
+   "carbs_g": 130,
+   "fat_g": 30.3,
    "meals": [
     {
      "time": "morning",
@@ -11009,9 +11009,19 @@ window.MACRO_DATA = {
      "fat_g": 2.3,
      "fiber_g": 1.1,
      "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Reheated frozen joong (zongzi): sticky rice ~139g + filling mix (pork, shiitake mushroom, peanuts, Chinese sausage, dried shrimp, egg yolk) ~29g",
+     "calories": 350,
+     "protein_g": 10,
+     "carbs_g": 47,
+     "fat_g": 12,
+     "fiber_g": 1.5,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 14.6
+   "fiber_g": 16.1
   }
  },
  "WEIGHT_DAILY": [
