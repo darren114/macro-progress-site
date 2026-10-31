@@ -10842,6 +10842,66 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 34
+  },
+  "2026-10-30": {
+   "date": "2026-10-30",
+   "calories": 1272,
+   "protein_g": 78,
+   "carbs_g": 178.6,
+   "fat_g": 31.1,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 102g dry oats, 250g Fairlife Fat Free Ultra-Filtered Milk",
+     "calories": 476,
+     "protein_g": 27.3,
+     "carbs_g": 72.9,
+     "fat_g": 6.9,
+     "fiber_g": 11.8,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Thai chicken satay (leftover from 10/29 Thai Nakorn order), 100g, lightly dipped in peanut sauce",
+     "calories": 204,
+     "protein_g": 25.7,
+     "carbs_g": 4.1,
+     "fat_g": 9.5,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Pad see ew wide rice noodles only (leftover from 10/29 Thai Nakorn order), 124g",
+     "calories": 175,
+     "protein_g": 1.3,
+     "carbs_g": 34.9,
+     "fat_g": 3.9,
+     "fiber_g": 0.9,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Mango sticky rice (same as 10/29 Thai Nakorn order): 119g sticky rice, 42g mango",
+     "calories": 240,
+     "protein_g": 2.7,
+     "carbs_g": 46.4,
+     "fat_g": 6.3,
+     "fiber_g": 1.8,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 24.2
   }
  },
  "WEIGHT_DAILY": [
