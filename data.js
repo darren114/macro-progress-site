@@ -10965,10 +10965,10 @@ window.MACRO_DATA = {
   },
   "2026-10-31": {
    "date": "2026-10-31",
-   "calories": 731,
+   "calories": 704,
    "protein_g": 57.6,
    "carbs_g": 83,
-   "fat_g": 21.3,
+   "fat_g": 18.3,
    "meals": [
     {
      "time": "morning",
@@ -11003,10 +11003,10 @@ window.MACRO_DATA = {
     {
      "time": "lunch",
      "description": "Blissful Noodle (Burlingame) cucumber and wood ear salad, 75g",
-     "calories": 71,
+     "calories": 44,
      "protein_g": 1.1,
      "carbs_g": 4.5,
-     "fat_g": 5.3,
+     "fat_g": 2.3,
      "fiber_g": 1.1,
      "confidence": "low"
     }
