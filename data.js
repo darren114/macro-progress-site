@@ -10845,10 +10845,10 @@ window.MACRO_DATA = {
   },
   "2026-10-30": {
    "date": "2026-10-30",
-   "calories": 2110,
-   "protein_g": 120.4,
-   "carbs_g": 280.7,
-   "fat_g": 60.1,
+   "calories": 2060,
+   "protein_g": 119.9,
+   "carbs_g": 272.9,
+   "fat_g": 58.2,
    "meals": [
     {
      "time": "morning",
@@ -10922,13 +10922,13 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "\"Melt\" branded chocolate coins/discs, 2 pieces (~10g each, 20g total)",
-     "calories": 107,
-     "protein_g": 1.4,
-     "carbs_g": 11.6,
-     "fat_g": 6,
-     "fiber_g": 0.5,
-     "confidence": "low"
+     "description": "\"Melt\" branded chocolate coins/discs, 2 pieces (5g each per label, 10g total)",
+     "calories": 57,
+     "protein_g": 0.88,
+     "carbs_g": 3.8,
+     "fat_g": 4.1,
+     "fiber_g": 0,
+     "confidence": "high"
     },
     {
      "time": "dinner",
@@ -10941,7 +10941,7 @@ window.MACRO_DATA = {
      "confidence": "medium"
     }
    ],
-   "fiber_g": 32.5
+   "fiber_g": 32
   }
  },
  "WEIGHT_DAILY": [
