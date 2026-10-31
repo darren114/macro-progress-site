@@ -11438,6 +11438,10 @@ window.MACRO_DATA = {
    "weight_lbs": 159
   },
   {
+   "date": "2026-10-26",
+   "weight_lbs": 157
+  },
+  {
    "date": "2026-10-27",
    "weight_lbs": 158.1
   },
