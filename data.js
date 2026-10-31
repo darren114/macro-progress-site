@@ -10965,10 +10965,10 @@ window.MACRO_DATA = {
   },
   "2026-10-31": {
    "date": "2026-10-31",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 731,
+   "protein_g": 57.6,
+   "carbs_g": 83,
+   "fat_g": 21.3,
    "meals": [
     {
      "time": "morning",
@@ -10979,9 +10979,39 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Banana, 131g",
+     "calories": 117,
+     "protein_g": 1.4,
+     "carbs_g": 29.9,
+     "fat_g": 0.4,
+     "fiber_g": 3.4,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie chicken (white + dark meat, no skin), 107g + cooked basmati rice, 110g + 1 tsp Fly By Jing Chili Crisp",
+     "calories": 366,
+     "protein_g": 34.1,
+     "carbs_g": 28.3,
+     "fat_g": 11.1,
+     "fiber_g": 0.4,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Blissful Noodle (Burlingame) cucumber and wood ear salad, 75g",
+     "calories": 71,
+     "protein_g": 1.1,
+     "carbs_g": 4.5,
+     "fat_g": 5.3,
+     "fiber_g": 1.1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 14.6
   }
  },
  "WEIGHT_DAILY": [
