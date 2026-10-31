@@ -10845,10 +10845,10 @@ window.MACRO_DATA = {
   },
   "2026-10-30": {
    "date": "2026-10-30",
-   "calories": 2060,
-   "protein_g": 119.9,
-   "carbs_g": 272.9,
-   "fat_g": 58.2,
+   "calories": 2089,
+   "protein_g": 120.3,
+   "carbs_g": 274.8,
+   "fat_g": 60.3,
    "meals": [
     {
      "time": "morning",
@@ -10939,6 +10939,16 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "\"Melt\" branded chocolate coin, 1 more piece (5g per label)",
+     "calories": 29,
+     "protein_g": 0.4,
+     "carbs_g": 1.9,
+     "fat_g": 2.1,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 32
