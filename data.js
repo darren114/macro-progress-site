@@ -11065,10 +11065,10 @@ window.MACRO_DATA = {
   },
   "2026-11-01": {
    "date": "2026-11-01",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 568,
+   "protein_g": 74,
+   "carbs_g": 36.3,
+   "fat_g": 17.5,
    "meals": [
     {
      "time": "morning",
@@ -11079,9 +11079,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Greek salad 325g (cucumber, tomato, Kalamata olives, feta, red onion, olive oil/vinegar, dill/oregano) + Kirkland nonfat Greek yogurt 81g + Safe Catch Wild Ahi Yellowfin tuna, 1 whole 5 oz can (1.5 servings)",
+     "calories": 391,
+     "protein_g": 53,
+     "carbs_g": 16,
+     "fat_g": 13,
+     "fiber_g": 3.4,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 13.1
   }
  },
  "WEIGHT_DAILY": [
