@@ -10965,10 +10965,10 @@ window.MACRO_DATA = {
   },
   "2026-10-31": {
    "date": "2026-10-31",
-   "calories": 1024,
-   "protein_g": 67,
-   "carbs_g": 124.2,
-   "fat_g": 30,
+   "calories": 2463,
+   "protein_g": 112.3,
+   "carbs_g": 277.2,
+   "fat_g": 98.8,
    "meals": [
     {
      "time": "morning",
@@ -11019,9 +11019,49 @@ window.MACRO_DATA = {
      "fat_g": 11.7,
      "fiber_g": 1.5,
      "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Ippudo chicken bun (hirata bun, fried chicken, mayo sauce, cucumber), 1 bun",
+     "calories": 300,
+     "protein_g": 12,
+     "carbs_g": 30,
+     "fat_g": 15,
+     "fiber_g": 1,
+     "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Ippudo Akamaru Modern ramen, 1 bowl (tonkotsu broth, noodles, chashu, garlic oil, spicy miso paste, scallions)",
+     "calories": 914,
+     "protein_g": 32,
+     "carbs_g": 81,
+     "fat_g": 47,
+     "fiber_g": 6,
+     "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Cucumber salad, 3 slices (chili oil, sesame, spice dressing)",
+     "calories": 25,
+     "protein_g": 0.3,
+     "carbs_g": 2,
+     "fat_g": 1.8,
+     "fiber_g": 0.3,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Heytea Mango Grapefruit Boom, less sugar + real 0-cal sweetener, slushie, less ice",
+     "calories": 200,
+     "protein_g": 1,
+     "carbs_g": 40,
+     "fat_g": 5,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 16.1
+   "fiber_g": 24.4
   }
  },
  "WEIGHT_DAILY": [
