@@ -10965,10 +10965,10 @@ window.MACRO_DATA = {
   },
   "2026-10-31": {
    "date": "2026-10-31",
-   "calories": 2684,
-   "protein_g": 152.2,
-   "carbs_g": 277.2,
-   "fat_g": 104.3,
+   "calories": 3140,
+   "protein_g": 154.2,
+   "carbs_g": 379.9,
+   "fat_g": 108.8,
    "meals": [
     {
      "time": "morning",
@@ -11039,9 +11039,29 @@ window.MACRO_DATA = {
      "fat_g": 5.5,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Red wine, 4 glasses (4oz each, 16oz total)",
+     "calories": 400,
+     "protein_g": 0,
+     "carbs_g": 100,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Pistachios, shelled, 15 pieces (~10g)",
+     "calories": 56,
+     "protein_g": 2,
+     "carbs_g": 2.7,
+     "fat_g": 4.5,
+     "fiber_g": 1.1,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 24.4
+   "fiber_g": 25.5
   },
   "2026-11-01": {
    "date": "2026-11-01",
