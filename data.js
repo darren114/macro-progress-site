@@ -11065,10 +11065,10 @@ window.MACRO_DATA = {
   },
   "2026-11-01": {
    "date": "2026-11-01",
-   "calories": 568,
-   "protein_g": 74,
-   "carbs_g": 36.3,
-   "fat_g": 17.5,
+   "calories": 738,
+   "protein_g": 77,
+   "carbs_g": 55.3,
+   "fat_g": 26.5,
    "meals": [
     {
      "time": "morning",
@@ -11089,9 +11089,29 @@ window.MACRO_DATA = {
      "fat_g": 13,
      "fiber_g": 3.4,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Hershey's Almond Joy coconut & almond candy bar, snack size, 1 bar (17g)",
+     "calories": 80,
+     "protein_g": 1,
+     "carbs_g": 9,
+     "fat_g": 4.5,
+     "fiber_g": 1,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Peanut M&M's, 1 small fun-size pack (~18g assumed)",
+     "calories": 90,
+     "protein_g": 2,
+     "carbs_g": 10,
+     "fat_g": 4.5,
+     "fiber_g": 0.9,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 13.1
+   "fiber_g": 15
   }
  },
  "WEIGHT_DAILY": [
