@@ -11065,10 +11065,10 @@ window.MACRO_DATA = {
   },
   "2026-11-01": {
    "date": "2026-11-01",
-   "calories": 1842,
-   "protein_g": 184,
-   "carbs_g": 149.3,
-   "fat_g": 58.5,
+   "calories": 1676,
+   "protein_g": 179.8,
+   "carbs_g": 127.6,
+   "fat_g": 51.2,
    "meals": [
     {
      "time": "morning",
@@ -11122,26 +11122,26 @@ window.MACRO_DATA = {
     },
     {
      "time": "dinner",
-     "description": "Baked chicken tenderloins, 109g (cooked, weighed) + Trader Joe's Buttermilk Ranch dip, 2 tbsp (assumed)",
-     "calories": 250,
-     "protein_g": 35,
-     "carbs_g": 1,
-     "fat_g": 11,
+     "description": "Baked chicken tenderloins, 109g (cooked, weighed) + Trader Joe's Buttermilk Ranch dip, 1 tbsp",
+     "calories": 215,
+     "protein_g": 34.3,
+     "carbs_g": 0.5,
+     "fat_g": 7.4,
      "fiber_g": 0,
-     "confidence": "medium"
+     "confidence": "high"
     },
     {
      "time": "dinner",
-     "description": "Roasted chicken (skin-on leg/thigh), Yukon potatoes, red onion, green olives -- small portion, no weights (sized by fork)",
-     "calories": 316,
-     "protein_g": 19,
-     "carbs_g": 38,
-     "fat_g": 10,
-     "fiber_g": 4,
+     "description": "Roasted chicken (medium drumstick, meat only), Yukon potatoes, red onion, green olives -- small portion, no weights (sized by fork)",
+     "calories": 185,
+     "protein_g": 15.5,
+     "carbs_g": 16.8,
+     "fat_g": 6.3,
+     "fiber_g": 2.1,
      "confidence": "low"
     }
    ],
-   "fiber_g": 23.9
+   "fiber_g": 22
   }
  },
  "WEIGHT_DAILY": [
