@@ -11065,10 +11065,10 @@ window.MACRO_DATA = {
   },
   "2026-11-01": {
    "date": "2026-11-01",
-   "calories": 1276,
-   "protein_g": 130,
-   "carbs_g": 110.3,
-   "fat_g": 37.5,
+   "calories": 1842,
+   "protein_g": 184,
+   "carbs_g": 149.3,
+   "fat_g": 58.5,
    "meals": [
     {
      "time": "morning",
@@ -11119,9 +11119,29 @@ window.MACRO_DATA = {
      "fat_g": 11,
      "fiber_g": 4.9,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Baked chicken tenderloins, 109g (cooked, weighed) + Trader Joe's Buttermilk Ranch dip, 2 tbsp (assumed)",
+     "calories": 250,
+     "protein_g": 35,
+     "carbs_g": 1,
+     "fat_g": 11,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Roasted chicken (skin-on leg/thigh), Yukon potatoes, red onion, green olives -- small portion, no weights (sized by fork)",
+     "calories": 316,
+     "protein_g": 19,
+     "carbs_g": 38,
+     "fat_g": 10,
+     "fiber_g": 4,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 19.9
+   "fiber_g": 23.9
   }
  },
  "WEIGHT_DAILY": [
