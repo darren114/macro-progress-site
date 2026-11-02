@@ -11145,10 +11145,10 @@ window.MACRO_DATA = {
   },
   "2026-11-02": {
    "date": "2026-11-02",
-   "calories": 382,
-   "protein_g": 59.4,
-   "carbs_g": 20.3,
-   "fat_g": 9,
+   "calories": 731,
+   "protein_g": 78.6,
+   "carbs_g": 65.9,
+   "fat_g": 18.9,
    "meals": [
     {
      "time": "morning",
@@ -11169,9 +11169,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Homemade avgolemono soup (wife's), 501g, NO chicken (cooked orzo ~110g + cooked carrots ~79g + broth/egg/lemon ~312g)",
+     "calories": 349,
+     "protein_g": 19.2,
+     "carbs_g": 45.6,
+     "fat_g": 9.9,
+     "fiber_g": 4.6,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 14.3
   }
  },
  "WEIGHT_DAILY": [
