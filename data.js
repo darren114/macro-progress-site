@@ -11145,10 +11145,10 @@ window.MACRO_DATA = {
   },
   "2026-11-02": {
    "date": "2026-11-02",
-   "calories": 731,
-   "protein_g": 78.6,
-   "carbs_g": 65.9,
-   "fat_g": 18.9,
+   "calories": 1389,
+   "protein_g": 131.5,
+   "carbs_g": 130.4,
+   "fat_g": 39.9,
    "meals": [
     {
      "time": "morning",
@@ -11179,9 +11179,19 @@ window.MACRO_DATA = {
      "fat_g": 9.9,
      "fiber_g": 4.6,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Roasted chicken thigh + drumstick (meat+skin, bones removed) 186g, Yukon potatoes 291g, green olives & roasted red onion 81g (leftover roasted chicken & Yukon potato dish)",
+     "calories": 658,
+     "protein_g": 52.9,
+     "carbs_g": 64.5,
+     "fat_g": 21,
+     "fiber_g": 7.1,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 14.3
+   "fiber_g": 21.4
   }
  },
  "WEIGHT_DAILY": [
