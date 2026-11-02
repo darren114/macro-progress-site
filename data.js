@@ -11065,10 +11065,10 @@ window.MACRO_DATA = {
   },
   "2026-11-01": {
    "date": "2026-11-01",
-   "calories": 738,
-   "protein_g": 77,
-   "carbs_g": 55.3,
-   "fat_g": 26.5,
+   "calories": 1276,
+   "protein_g": 130,
+   "carbs_g": 110.3,
+   "fat_g": 37.5,
    "meals": [
     {
      "time": "morning",
@@ -11109,9 +11109,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 0.9,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Homemade avgolemono soup (wife's): chicken tenderloin 119g + cooked orzo 155g + cooked carrots 62g + broth 178g (homemade gelatinous chicken broth, whole egg incl. yolk, lemon, no cream)",
+     "calories": 538,
+     "protein_g": 53,
+     "carbs_g": 55,
+     "fat_g": 11,
+     "fiber_g": 4.9,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 15
+   "fiber_g": 19.9
   }
  },
  "WEIGHT_DAILY": [
