@@ -11152,10 +11152,10 @@ window.MACRO_DATA = {
   },
   "2026-11-02": {
    "date": "2026-11-02",
-   "calories": 2566,
-   "protein_g": 182,
-   "carbs_g": 328.3,
-   "fat_g": 63.5,
+   "calories": 2856,
+   "protein_g": 184.5,
+   "carbs_g": 390.3,
+   "fat_g": 67,
    "meals": [
     {
      "time": "morning",
@@ -11256,9 +11256,19 @@ window.MACRO_DATA = {
      "fat_g": 5,
      "fiber_g": 4.9,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Sunright Tea Studio Grass Jelly Boba Milk, 22 oz, Califia oat milk, 75% sweet, regular ice",
+     "calories": 290,
+     "protein_g": 2.5,
+     "carbs_g": 62,
+     "fat_g": 3.5,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 45.3
+   "fiber_g": 46.3
   }
  },
  "WEIGHT_DAILY": [
