@@ -11152,10 +11152,10 @@ window.MACRO_DATA = {
   },
   "2026-11-02": {
    "date": "2026-11-02",
-   "calories": 1389,
-   "protein_g": 131.5,
-   "carbs_g": 130.4,
-   "fat_g": 39.9,
+   "calories": 2026,
+   "protein_g": 163.7,
+   "carbs_g": 230.4,
+   "fat_g": 53.8,
    "meals": [
     {
      "time": "morning",
@@ -11196,9 +11196,29 @@ window.MACRO_DATA = {
      "fat_g": 21,
      "fiber_g": 7.1,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Banana, 144g (peeled/edible weight assumed)",
+     "calories": 128,
+     "protein_g": 1.6,
+     "carbs_g": 32.8,
+     "fat_g": 0.4,
+     "fiber_g": 3.7,
+     "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Roasted chicken thigh/leg (meat+skin, bone removed) 96g, Yukon potatoes 307g, green olives & roasted red onion 75g (leftover roasted chicken & Yukon potato dish)",
+     "calories": 509,
+     "protein_g": 30.6,
+     "carbs_g": 67.2,
+     "fat_g": 13.5,
+     "fiber_g": 7.3,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 21.4
+   "fiber_g": 32.4
   }
  },
  "WEIGHT_DAILY": [
