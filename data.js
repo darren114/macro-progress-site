@@ -11272,10 +11272,10 @@ window.MACRO_DATA = {
   },
   "2026-11-03": {
    "date": "2026-11-03",
-   "calories": 304,
-   "protein_g": 22.6,
-   "carbs_g": 52.9,
-   "fat_g": 4.9,
+   "calories": 2397,
+   "protein_g": 180.7,
+   "carbs_g": 290.2,
+   "fat_g": 59.3,
    "meals": [
     {
      "time": "morning",
@@ -11296,9 +11296,39 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Roasted chicken thigh/leg (meat+skin, bones removed) 213g, Yukon potatoes 124g, green olives & roasted red onion 65g (leftover roasted chicken & Yukon potato dish)",
+     "calories": 535.4,
+     "protein_g": 56.3,
+     "carbs_g": 29.9,
+     "fat_g": 21.4,
+     "fiber_g": 3.7,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 103g dry oats, 256g Fairlife Fat Free Ultra-Filtered Milk, 28g Manuka honey",
+     "calories": 566.9,
+     "protein_g": 27.8,
+     "carbs_g": 96.9,
+     "fat_g": 6.9,
+     "fiber_g": 11.9,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Roasted chicken thigh/leg (meat+skin, bones removed) 248g, olives/red onion/chicken broth 103g, cooked basmati rice 406g",
+     "calories": 989.9,
+     "protein_g": 74,
+     "carbs_g": 110.5,
+     "fat_g": 26.1,
+     "fiber_g": 3.2,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 13.4
+   "fiber_g": 32.2
   }
  },
  "WEIGHT_DAILY": [
