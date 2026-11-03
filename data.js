@@ -11152,10 +11152,10 @@ window.MACRO_DATA = {
   },
   "2026-11-02": {
    "date": "2026-11-02",
-   "calories": 2208,
-   "protein_g": 167.4,
-   "carbs_g": 265.7,
-   "fat_g": 57.5,
+   "calories": 2566,
+   "protein_g": 182,
+   "carbs_g": 328.3,
+   "fat_g": 63.5,
    "meals": [
     {
      "time": "morning",
@@ -11236,9 +11236,29 @@ window.MACRO_DATA = {
      "fat_g": 1,
      "fiber_g": 1.33,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Thomas Plain Bagel Thin (1, 46g) + Kirkland 0% Greek yogurt 50g + honey 1 tbsp",
+     "calories": 202.5,
+     "protein_g": 9.2,
+     "carbs_g": 39.8,
+     "fat_g": 1,
+     "fiber_g": 4,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Thomas Plain Bagel Thin (1, 46g) + sesame powder 1 tbsp mixed in",
+     "calories": 156,
+     "protein_g": 5.4,
+     "carbs_g": 22.8,
+     "fat_g": 5,
+     "fiber_g": 4.9,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 36.4
+   "fiber_g": 45.3
   }
  },
  "WEIGHT_DAILY": [
