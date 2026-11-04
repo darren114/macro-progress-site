@@ -11272,10 +11272,10 @@ window.MACRO_DATA = {
   },
   "2026-11-03": {
    "date": "2026-11-03",
-   "calories": 3302,
-   "protein_g": 237.7,
-   "carbs_g": 401.2,
-   "fat_g": 85.3,
+   "calories": 3391,
+   "protein_g": 240.9,
+   "carbs_g": 418.5,
+   "fat_g": 86.3,
    "meals": [
     {
      "time": "morning",
@@ -11336,9 +11336,69 @@ window.MACRO_DATA = {
      "fat_g": 26,
      "fiber_g": 6.4,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Popcorn, air popped, 25g kernels (Int'l Popcorn Less-Hulls White Kernels)",
+     "calories": 89.7,
+     "protein_g": 3.2,
+     "carbs_g": 17.3,
+     "fat_g": 1,
+     "fiber_g": 1.3,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 38.6
+   "fiber_g": 39.9
+  },
+  "2026-11-04": {
+   "date": "2026-11-04",
+   "calories": 869,
+   "protein_g": 72.2,
+   "carbs_g": 110.2,
+   "fat_g": 17.1,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Cooked basmati rice, 203g",
+     "calories": 245.6,
+     "protein_g": 5.5,
+     "carbs_g": 52.2,
+     "fat_g": 0.9,
+     "fiber_g": 0.8,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Homemade avgolemono (Greek) soup (wife's), 414g, NO chicken",
+     "calories": 288.4,
+     "protein_g": 15.9,
+     "carbs_g": 37.7,
+     "fat_g": 8.2,
+     "fiber_g": 3.8,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Baked chicken tenderloins, 96g (cooked, weighed)",
+     "calories": 158.4,
+     "protein_g": 29.8,
+     "carbs_g": 0,
+     "fat_g": 3.5,
+     "fiber_g": 0,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 14.3
   }
  },
  "WEIGHT_DAILY": [
