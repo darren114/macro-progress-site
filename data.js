@@ -11352,10 +11352,10 @@ window.MACRO_DATA = {
   },
   "2026-11-04": {
    "date": "2026-11-04",
-   "calories": 869,
-   "protein_g": 72.2,
-   "carbs_g": 110.2,
-   "fat_g": 17.1,
+   "calories": 1611,
+   "protein_g": 106.7,
+   "carbs_g": 214.2,
+   "fat_g": 36.7,
    "meals": [
     {
      "time": "morning",
@@ -11396,9 +11396,29 @@ window.MACRO_DATA = {
      "fat_g": 3.5,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Orecchiette w/ roasted tomatoes & red onion, cooked pasta 233g + tomatoes/onion 25g, salmon 76g cooked, feta ~11g (leftover dinner from 11/3)",
+     "calories": 571.8,
+     "protein_g": 33.5,
+     "carbs_g": 78,
+     "fat_g": 13.6,
+     "fiber_g": 4.4,
+     "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Daelmans Caramel Stroopwafel, 1 wafel (39g)",
+     "calories": 170,
+     "protein_g": 1,
+     "carbs_g": 26,
+     "fat_g": 6,
+     "fiber_g": 0.5,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 14.3
+   "fiber_g": 19.2
   }
  },
  "WEIGHT_DAILY": [
