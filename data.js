@@ -11272,10 +11272,10 @@ window.MACRO_DATA = {
   },
   "2026-11-03": {
    "date": "2026-11-03",
-   "calories": 2397,
-   "protein_g": 180.7,
-   "carbs_g": 290.2,
-   "fat_g": 59.3,
+   "calories": 3302,
+   "protein_g": 237.7,
+   "carbs_g": 401.2,
+   "fat_g": 85.3,
    "meals": [
     {
      "time": "morning",
@@ -11326,9 +11326,19 @@ window.MACRO_DATA = {
      "fat_g": 26.1,
      "fiber_g": 3.2,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Orecchiette w/ tomatoes & red onion 359g cooked, salmon 152g cooked, feta 15g",
+     "calories": 905,
+     "protein_g": 57,
+     "carbs_g": 111,
+     "fat_g": 26,
+     "fiber_g": 6.4,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 32.2
+   "fiber_g": 38.6
   }
  },
  "WEIGHT_DAILY": [
