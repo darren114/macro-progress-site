@@ -11352,10 +11352,10 @@ window.MACRO_DATA = {
   },
   "2026-11-04": {
    "date": "2026-11-04",
-   "calories": 1611,
-   "protein_g": 106.7,
-   "carbs_g": 214.2,
-   "fat_g": 36.7,
+   "calories": 1781,
+   "protein_g": 107.7,
+   "carbs_g": 240.2,
+   "fat_g": 42.7,
    "meals": [
     {
      "time": "morning",
@@ -11416,9 +11416,19 @@ window.MACRO_DATA = {
      "fat_g": 6,
      "fiber_g": 0.5,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Daelmans Caramel Stroopwafel, 1 wafel (39g) - #2",
+     "calories": 170,
+     "protein_g": 1,
+     "carbs_g": 26,
+     "fat_g": 6,
+     "fiber_g": 0.5,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 19.2
+   "fiber_g": 19.7
   }
  },
  "WEIGHT_DAILY": [
