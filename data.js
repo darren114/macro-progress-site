@@ -11538,7 +11538,7 @@ window.MACRO_DATA = {
      "confidence": "high"
     },
     {
-     "time": "afternoon",
+     "time": "morning",
      "description": "Overnight oats: 114g dry oats (119g minus ~5g spilled), 257g Fairlife Fat Free Ultra-Filtered Milk (287g minus ~30g spilled), 23g Manuka honey",
      "calories": 601,
      "protein_g": 29.3,
