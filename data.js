@@ -11429,6 +11429,106 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 19.7
+  },
+  "2026-11-05": {
+   "date": "2026-11-05",
+   "calories": 2515,
+   "protein_g": 104.6,
+   "carbs_g": 225.3,
+   "fat_g": 135.9,
+   "meals": [
+    {
+     "time": "dinner",
+     "description": "Sapporo Premium Beer, 12 oz (355 mL, 4.9% ABV)",
+     "calories": 140,
+     "protein_g": 0,
+     "carbs_g": 35,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Steak fries w/ sauces (~1/4 of loaded plate; photo 4 bowl): ~100g fries, ~25g sliced steak, ~25g ranch/sriracha mayo, ~10g chimichurri",
+     "calories": 480,
+     "protein_g": 10,
+     "carbs_g": 41,
+     "fat_g": 31,
+     "fiber_g": 3.8,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "White rice, cooked, small heaped bowl ~180g",
+     "calories": 235,
+     "protein_g": 4.8,
+     "carbs_g": 51,
+     "fat_g": 0.4,
+     "fiber_g": 0.6,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Green creamy herb dipping sauce, ~30g eaten",
+     "calories": 120,
+     "protein_g": 1,
+     "carbs_g": 2,
+     "fat_g": 12,
+     "fiber_g": 0.2,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Hakushika Sennenju Junmai Daiginjo sake, 2 miniature shots (~1 oz each, 15-16% ABV)",
+     "calories": 65,
+     "protein_g": 0,
+     "carbs_g": 16.25,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Fried glazed chicken wings x3 (scallion/sesame)",
+     "calories": 330,
+     "protein_g": 24,
+     "carbs_g": 12,
+     "fat_g": 21,
+     "fiber_g": 0.3,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Sliced marbled beef, full plate, ~250g raw",
+     "calories": 645,
+     "protein_g": 42,
+     "carbs_g": 0,
+     "fat_g": 53,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Hot pot veggie bowl: ~90g egg noodles, ~80g tofu, ~100g mushrooms (shimeji/shiitake), napa cabbage, spinach, mini carrot",
+     "calories": 245,
+     "protein_g": 18,
+     "carbs_g": 35,
+     "fat_g": 6,
+     "fiber_g": 6.1,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Green tea ice cream, 1 scoop (~110g) in wafer cone",
+     "calories": 255,
+     "protein_g": 4.8,
+     "carbs_g": 33,
+     "fat_g": 12.5,
+     "fiber_g": 0.5,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 11.5
   }
  },
  "WEIGHT_DAILY": [
