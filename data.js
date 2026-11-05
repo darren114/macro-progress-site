@@ -11352,10 +11352,10 @@ window.MACRO_DATA = {
   },
   "2026-11-04": {
    "date": "2026-11-04",
-   "calories": 1781,
-   "protein_g": 107.7,
-   "carbs_g": 240.2,
-   "fat_g": 42.7,
+   "calories": 4296,
+   "protein_g": 212.3,
+   "carbs_g": 465.5,
+   "fat_g": 178.6,
    "meals": [
     {
      "time": "morning",
@@ -11426,17 +11426,7 @@ window.MACRO_DATA = {
      "fat_g": 6,
      "fiber_g": 0.5,
      "confidence": "high"
-    }
-   ],
-   "fiber_g": 19.7
-  },
-  "2026-11-05": {
-   "date": "2026-11-05",
-   "calories": 2692,
-   "protein_g": 125.6,
-   "carbs_g": 245.6,
-   "fat_g": 140.4,
-   "meals": [
+    },
     {
      "time": "dinner",
      "description": "Sapporo Premium Beer, 12 oz (355 mL, 4.9% ABV)",
@@ -11526,7 +11516,17 @@ window.MACRO_DATA = {
      "fat_g": 12.5,
      "fiber_g": 0.5,
      "confidence": "medium"
-    },
+    }
+   ],
+   "fiber_g": 31.2
+  },
+  "2026-11-05": {
+   "date": "2026-11-05",
+   "calories": 177,
+   "protein_g": 21,
+   "carbs_g": 20.3,
+   "fat_g": 4.5,
+   "meals": [
     {
      "time": "morning",
      "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
@@ -11538,7 +11538,7 @@ window.MACRO_DATA = {
      "confidence": "high"
     }
    ],
-   "fiber_g": 21.2
+   "fiber_g": 9.7
   }
  },
  "WEIGHT_DAILY": [
