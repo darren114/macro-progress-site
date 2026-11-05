@@ -11522,10 +11522,10 @@ window.MACRO_DATA = {
   },
   "2026-11-05": {
    "date": "2026-11-05",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 778,
+   "protein_g": 50.3,
+   "carbs_g": 121,
+   "fat_g": 12.2,
    "meals": [
     {
      "time": "morning",
@@ -11536,9 +11536,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "afternoon",
+     "description": "Overnight oats: 114g dry oats (119g minus ~5g spilled), 257g Fairlife Fat Free Ultra-Filtered Milk (287g minus ~30g spilled), 23g Manuka honey",
+     "calories": 601,
+     "protein_g": 29.3,
+     "carbs_g": 100.7,
+     "fat_g": 7.7,
+     "fiber_g": 13.2,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 22.9
   }
  },
  "WEIGHT_DAILY": [
