@@ -11522,10 +11522,10 @@ window.MACRO_DATA = {
   },
   "2026-11-05": {
    "date": "2026-11-05",
-   "calories": 778,
-   "protein_g": 50.3,
-   "carbs_g": 121,
-   "fat_g": 12.2,
+   "calories": 1412,
+   "protein_g": 83.8,
+   "carbs_g": 217.2,
+   "fat_g": 26.3,
    "meals": [
     {
      "time": "morning",
@@ -11546,9 +11546,29 @@ window.MACRO_DATA = {
      "fat_g": 7.7,
      "fiber_g": 13.2,
      "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Banana, 136g (peeled)",
+     "calories": 121,
+     "protein_g": 1.5,
+     "carbs_g": 31,
+     "fat_g": 0.5,
+     "fiber_g": 3.5,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Orecchiette w/ roasted tomatoes & red onion, cooked pasta 195g + tomatoes/onion 20g, salmon 82g cooked, feta ~8g (leftovers from 11/3 dinner)",
+     "calories": 513,
+     "protein_g": 32,
+     "carbs_g": 65.2,
+     "fat_g": 13.6,
+     "fiber_g": 3.7,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 22.9
+   "fiber_g": 30.1
   }
  },
  "WEIGHT_DAILY": [
