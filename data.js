@@ -11522,10 +11522,10 @@ window.MACRO_DATA = {
   },
   "2026-11-05": {
    "date": "2026-11-05",
-   "calories": 1412,
-   "protein_g": 83.8,
-   "carbs_g": 217.2,
-   "fat_g": 26.3,
+   "calories": 2646,
+   "protein_g": 161.6,
+   "carbs_g": 368.6,
+   "fat_g": 61.2,
    "meals": [
     {
      "time": "morning",
@@ -11566,9 +11566,19 @@ window.MACRO_DATA = {
      "fat_g": 13.6,
      "fiber_g": 3.7,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Joy Sushi dinner entree: teriyaki chicken 242g, white rice 97g, Hawaiian roll 151g, mercy roll 73g, California roll 94g, rock n' roll maki 62g",
+     "calories": 1234,
+     "protein_g": 77.8,
+     "carbs_g": 151.4,
+     "fat_g": 34.9,
+     "fiber_g": 4,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 30.1
+   "fiber_g": 34.1
   }
  },
  "WEIGHT_DAILY": [
