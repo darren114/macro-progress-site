@@ -11522,10 +11522,10 @@ window.MACRO_DATA = {
   },
   "2026-11-05": {
    "date": "2026-11-05",
-   "calories": 2646,
-   "protein_g": 161.6,
-   "carbs_g": 368.6,
-   "fat_g": 61.2,
+   "calories": 2871,
+   "protein_g": 163.6,
+   "carbs_g": 399.6,
+   "fat_g": 71.7,
    "meals": [
     {
      "time": "morning",
@@ -11576,9 +11576,19 @@ window.MACRO_DATA = {
      "fat_g": 34.9,
      "fiber_g": 4,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Tong Sui Coconut Ice Bomb w/ Mango (less sweet), half of 24oz cup",
+     "calories": 225,
+     "protein_g": 2,
+     "carbs_g": 31,
+     "fat_g": 10.5,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 34.1
+   "fiber_g": 35.1
   }
  },
  "WEIGHT_DAILY": [
