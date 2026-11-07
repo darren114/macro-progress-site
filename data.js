@@ -13056,5 +13056,6 @@ window.MACRO_DATA = {
    "left_bicep_in": 14.17,
    "left_thigh_in": 21.97
   }
- ]
+ ],
+ "LIFTS": []
 };

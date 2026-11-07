@@ -99,6 +99,16 @@
   .tab-btn:focus-visible{outline:2px solid var(--accent); outline-offset:2px; border-radius:4px;}
   .tab-panel{display:flex; flex-direction:column; gap:22px;}
 
+  /* Strength tab: exercise picker chips + empty-state note. */
+  .chips{display:flex; gap:8px; flex-wrap:wrap;}
+  .chip{
+    font-family:inherit; font-size:12.5px; font-weight:600; padding:6px 12px; border-radius:99px;
+    border:1px solid var(--line); background:var(--surface); color:var(--muted); cursor:pointer;
+  }
+  .chip[aria-pressed="true"]{color:var(--ink); border-color:var(--accent); background:var(--surface-2);}
+  .chip:focus-visible{outline:2px solid var(--accent); outline-offset:2px;}
+  .strength-empty{font-size:13px; color:var(--muted); margin:0;}
+
   section{display:flex; flex-direction:column; gap:10px;}
   .section-head{display:flex; align-items:baseline; justify-content:space-between; gap:8px;}
   .section-head h2{font-size:15px; font-weight:700; margin:0;}
@@ -288,6 +298,7 @@
         <button class="tab-btn active" type="button" role="tab" aria-selected="true" aria-controls="tabMacro" id="tabBtnMacro">Macros</button>
         <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="weightSection" id="tabBtnWeight">Weight</button>
         <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="stepsSection" id="tabBtnSteps">Steps</button>
+        <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="strengthSection" id="tabBtnStrength">Strength</button>
       </div>
       <div class="tabs-fade" id="tabsFade"></div>
     </div>
@@ -384,11 +395,37 @@
       <table class="weight-table mono" id="stepsTable"></table>
     </details>
   </section>
+
+  <section id="strengthSection" class="tab-panel" role="tabpanel" aria-labelledby="tabBtnStrength" hidden>
+    <div class="section-head stacked">
+      <h2>Estimated 1-rep max</h2>
+      <span class="hint" id="strengthDelta"></span>
+    </div>
+    <div class="chips" id="strengthChips" role="group" aria-label="Exercise"></div>
+    <div class="card weight-card" id="strengthChartCard">
+      <svg id="strengthChart" viewBox="0 0 560 170" preserveAspectRatio="none" role="img" aria-label="Estimated one-rep max trend for the selected lift"></svg>
+      <div class="weight-tooltip" id="strengthTooltip" hidden></div>
+    </div>
+    <p class="strength-empty" id="strengthEmpty" hidden></p>
+    <details class="weight-table-toggle" id="strengthTableToggle">
+      <summary>View as table</summary>
+      <table class="weight-table mono" id="strengthTable"></table>
+    </details>
+
+    <section id="strengthPRBlock">
+      <div class="section-head stacked">
+        <h2>Personal bests</h2>
+        <span class="hint">Best estimated 1RM per lift (Epley: weight &times; (1 + reps/30))</span>
+      </div>
+      <table class="weight-table mono" id="strengthPRs"></table>
+    </section>
+  </section>
 </div>
 
 <script src="data.js"></script>
 <script>
   const { TARGETS_HISTORY, DAYS, WEIGHT_DAILY, STEPS_HISTORY } = window.MACRO_DATA;
+  const LIFTS = window.MACRO_DATA.LIFTS || [];
     // Data embedded at publish time. Refresh by republishing.
   // One entry per targets change; only ever appended to, never edited in place.
   // Rendering resolves the entry effective on each specific date, so a target change
@@ -923,15 +960,20 @@
       const macroBtn = document.getElementById('tabBtnMacro');
       const weightBtn = document.getElementById('tabBtnWeight');
       const stepsBtn = document.getElementById('tabBtnSteps');
+      const strengthBtn = document.getElementById('tabBtnStrength');
       const macroPanel = document.getElementById('tabMacro');
       const weightPanel = document.getElementById('weightSection');
       const stepsPanel = document.getElementById('stepsSection');
+      const strengthPanel = document.getElementById('strengthSection');
       macroBtn.classList.toggle('active', activeTab === 'macro');
       macroBtn.setAttribute('aria-selected', String(activeTab === 'macro'));
       weightBtn.classList.toggle('active', activeTab === 'weight');
       weightBtn.setAttribute('aria-selected', String(activeTab === 'weight'));
       stepsBtn.classList.toggle('active', activeTab === 'steps');
       stepsBtn.setAttribute('aria-selected', String(activeTab === 'steps'));
+      strengthBtn.classList.toggle('active', activeTab === 'strength');
+      strengthBtn.setAttribute('aria-selected', String(activeTab === 'strength'));
+      strengthPanel.hidden = activeTab !== 'strength';
       macroPanel.hidden = activeTab !== 'macro';
       weightPanel.hidden = activeTab !== 'weight' || weightPanel.dataset.hasData !== 'true';
       stepsPanel.hidden = activeTab !== 'steps' || stepsPanel.dataset.hasData !== 'true';
@@ -949,6 +991,7 @@
     document.getElementById('tabBtnMacro').addEventListener('click', () => { activeTab = 'macro'; applyTab(); });
     document.getElementById('tabBtnWeight').addEventListener('click', () => { activeTab = 'weight'; applyTab(); });
     document.getElementById('tabBtnSteps').addEventListener('click', () => { activeTab = 'steps'; applyTab(); });
+    document.getElementById('tabBtnStrength').addEventListener('click', () => { activeTab = 'strength'; applyTab(); });
     applyTab();
 
     // On narrow screens the tab bar can overflow (more tabs than fit) -- it scrolls horizontally
@@ -985,6 +1028,103 @@
       tooltipId:'stepsTooltip', deltaId:'stepsDelta', tableId:'stepsTable',
       onData: has => { document.getElementById('stepsSection').dataset.hasData = has ? 'true' : 'false'; applyTab(); },
     });
+
+    // Strength tab -- source is window.MACRO_DATA.LIFTS (logs/lifts.csv): one entry per set group
+    // {date, exercise, weight_lbs, reps, sets, rpe?, note?}. The chart tracks the best estimated
+    // 1RM (Epley) per session date for the selected lift; weight_lbs = 0 means bodyweight, which
+    // has no e1RM and only appears in the personal-bests table (best reps). Always visible, even
+    // with no data -- shows an empty-state note instead.
+    function epley1RM(w, r){ return r === 1 ? w : w * (1 + r / 30); }
+    function renderStrength(){
+      const chipsEl = document.getElementById('strengthChips');
+      const emptyEl = document.getElementById('strengthEmpty');
+      const chartCard = document.getElementById('strengthChartCard');
+      const tableToggle = document.getElementById('strengthTableToggle');
+      const prBlock = document.getElementById('strengthPRBlock');
+      const deltaEl = document.getElementById('strengthDelta');
+
+      const lifts = LIFTS.filter(l => l.exercise && l.reps > 0 && l.weight_lbs >= 0 && (l.weight_lbs === 0 || l.reps <= 12));
+      const byEx = {};
+      lifts.forEach(l => { (byEx[l.exercise] = byEx[l.exercise] || []).push(l); });
+      const exercises = Object.keys(byEx);
+
+      if (!exercises.length){
+        chipsEl.innerHTML = '';
+        chartCard.hidden = true; tableToggle.hidden = true; prBlock.hidden = true;
+        deltaEl.textContent = '';
+        emptyEl.textContent = 'No lifts logged yet. Log a few sessions and your estimated 1-rep max trend will show up here.';
+        emptyEl.hidden = false;
+        return;
+      }
+      prBlock.hidden = false;
+
+      // Best e1RM per session date, for weighted lifts only.
+      function sessionsFor(ex){
+        const perDate = {};
+        byEx[ex].filter(l => l.weight_lbs > 0).forEach(l => {
+          const e = epley1RM(l.weight_lbs, l.reps);
+          if (!perDate[l.date] || e > perDate[l.date].e1rm) perDate[l.date] = {date:l.date, e1rm:e};
+        });
+        return Object.values(perDate).sort((a,b) => a.date < b.date ? -1 : 1);
+      }
+      const chartable = exercises.filter(ex => sessionsFor(ex).length > 0);
+
+      // Personal bests table, one row per exercise.
+      const prRows = exercises.map(ex => {
+        const weighted = byEx[ex].filter(l => l.weight_lbs > 0);
+        if (weighted.length){
+          let best = weighted[0], bestE = epley1RM(best.weight_lbs, best.reps);
+          weighted.forEach(l => { const e = epley1RM(l.weight_lbs, l.reps); if (e > bestE){ best = l; bestE = e; } });
+          return `<tr><td>${escapeHtml(ex)}</td><td>${fmtNum(best.weight_lbs,1)} × ${best.reps}</td><td>${fmtNum(bestE,0)} lbs</td><td>${shortDate(best.date)}</td></tr>`;
+        }
+        let best = byEx[ex][0];
+        byEx[ex].forEach(l => { if (l.reps > best.reps) best = l; });
+        return `<tr><td>${escapeHtml(ex)}</td><td>BW × ${best.reps}</td><td>—</td><td>${shortDate(best.date)}</td></tr>`;
+      });
+      document.getElementById('strengthPRs').innerHTML =
+        '<thead><tr><th>Lift</th><th>Best set</th><th>Est. 1RM</th><th>Date</th></tr></thead><tbody>' + prRows.join('') + '</tbody>';
+
+      if (!chartable.length){
+        chipsEl.innerHTML = '';
+        chartCard.hidden = true; tableToggle.hidden = true;
+        deltaEl.textContent = '';
+        emptyEl.textContent = 'Only bodyweight sets logged so far — add a weighted lift to see an estimated 1RM trend.';
+        emptyEl.hidden = false;
+        return;
+      }
+
+      // Default selection: the lift with the most sessions (ties -> most recently trained).
+      if (!renderStrength.selected || !chartable.includes(renderStrength.selected)){
+        renderStrength.selected = chartable.slice().sort((a,b) => {
+          const sa = sessionsFor(a), sb = sessionsFor(b);
+          return sb.length - sa.length || (sb[sb.length-1].date < sa[sa.length-1].date ? -1 : 1);
+        })[0];
+      }
+      chipsEl.innerHTML = chartable.map(ex =>
+        `<button type="button" class="chip" data-ex="${escapeHtml(ex)}" aria-pressed="${ex === renderStrength.selected}">${escapeHtml(ex)}</button>`).join('');
+      chipsEl.querySelectorAll('.chip').forEach(btn => btn.addEventListener('click', () => {
+        renderStrength.selected = btn.dataset.ex; renderStrength();
+      }));
+
+      const hist = sessionsFor(renderStrength.selected);
+      chartCard.hidden = false;
+      renderTrendChart(hist, {
+        chartId:'strengthChart', tooltipId:'strengthTooltip', deltaId:'strengthDelta', tableId:'strengthTable',
+        crosshairId:'strengthCrosshair', hoverDotId:'strengthHoverDot',
+        valueKey:'e1rm', unit:'lbs', decimals:0, tableValueLabel:'Est. 1RM', showWeek:false, periodLabel:'sessions',
+        onData: has => {
+          emptyEl.hidden = has;
+          chartCard.hidden = !has; tableToggle.hidden = !has;
+          if (!has){
+            document.getElementById('strengthChart').innerHTML = '';
+            document.getElementById('strengthTable').innerHTML = '';
+            deltaEl.textContent = '';
+            emptyEl.textContent = 'Log at least two sessions of this lift to see a trend.';
+          }
+        },
+      });
+    }
+    renderStrength();
 
     function renderWeek(){
       const isCurrentWeek = viewedWeekStart === currentWeekStart;
