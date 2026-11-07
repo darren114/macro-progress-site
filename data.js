@@ -11592,10 +11592,10 @@ window.MACRO_DATA = {
   },
   "2026-11-06": {
    "date": "2026-11-06",
-   "calories": 1848,
-   "protein_g": 96,
-   "carbs_g": 218.6,
-   "fat_g": 69.4,
+   "calories": 3954,
+   "protein_g": 213.5,
+   "carbs_g": 474.6,
+   "fat_g": 137.2,
    "meals": [
     {
      "time": "morning",
@@ -11686,9 +11686,129 @@ window.MACRO_DATA = {
      "fat_g": 14,
      "fiber_g": 1,
      "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Sapporo Premium beer, 1.5 x 22 oz bottles (33 oz total)",
+     "calories": 385,
+     "protein_g": 3,
+     "carbs_g": 93,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Sake, 1 small shot (~1 oz)",
+     "calories": 40,
+     "protein_g": 0,
+     "carbs_g": 10,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Miso hot pot broth, ~1 cup sipped with scallion",
+     "calories": 41,
+     "protein_g": 3,
+     "carbs_g": 4,
+     "fat_g": 1,
+     "fiber_g": 0.5,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Dipping sauce: ponzu, soy sauce, small amount satay, scallion/cilantro",
+     "calories": 62,
+     "protein_g": 2,
+     "carbs_g": 8,
+     "fat_g": 3,
+     "fiber_g": 0.3,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Sesame peanut sauce, ~2 tbsp",
+     "calories": 124,
+     "protein_g": 3.5,
+     "carbs_g": 5,
+     "fat_g": 10,
+     "fiber_g": 1,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Wagyu/Angus beef, 1 plate of leaner slices (M6-M7 chuck eye roll + flat iron), ~180g raw",
+     "calories": 345,
+     "protein_g": 32,
+     "carbs_g": 0,
+     "fat_g": 24,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "House ramen noodles, 1 nest (~90g raw)",
+     "calories": 235,
+     "protein_g": 8,
+     "carbs_g": 47,
+     "fat_g": 1.5,
+     "fiber_g": 2,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "White rice, 3/4 bowl (~120g cooked)",
+     "calories": 150,
+     "protein_g": 3,
+     "carbs_g": 34,
+     "fat_g": 0.3,
+     "fiber_g": 0.5,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Hot pot veggie platter, half: napa, spinach, bok choy, broccoli, shiitake, enoki, pumpkin, tofu, yuba, ~2 fried tofu puffs (no corn)",
+     "calories": 335,
+     "protein_g": 28,
+     "carbs_g": 22,
+     "fat_g": 15,
+     "fiber_g": 7,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Shrimp/fish paste side, finished all (~170g)",
+     "calories": 192,
+     "protein_g": 24,
+     "carbs_g": 6,
+     "fat_g": 8,
+     "fiber_g": 0.1,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Extra pumpkin side, ~1/2 (~75g)",
+     "calories": 36,
+     "protein_g": 1,
+     "carbs_g": 8,
+     "fat_g": 0,
+     "fiber_g": 1.5,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Chicken wontons, ~4 pieces",
+     "calories": 161,
+     "protein_g": 10,
+     "carbs_g": 19,
+     "fat_g": 5,
+     "fiber_g": 0.8,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 15.9
+   "fiber_g": 29.6
   }
  },
  "WEIGHT_DAILY": [
