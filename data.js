@@ -11592,10 +11592,10 @@ window.MACRO_DATA = {
   },
   "2026-11-06": {
    "date": "2026-11-06",
-   "calories": 1253,
-   "protein_g": 72.1,
-   "carbs_g": 146.2,
-   "fat_g": 45.9,
+   "calories": 1848,
+   "protein_g": 96,
+   "carbs_g": 218.6,
+   "fat_g": 69.4,
    "meals": [
     {
      "time": "morning",
@@ -11646,9 +11646,49 @@ window.MACRO_DATA = {
      "fat_g": 9.1,
      "fiber_g": 1.5,
      "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Kirkland smoked salmon, 45g (weighed)",
+     "calories": 88,
+     "protein_g": 8.8,
+     "carbs_g": 0,
+     "fat_g": 5.6,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Leftover Joy Sushi California roll, 2 pieces, 58g (weighed)",
+     "calories": 88,
+     "protein_g": 2.1,
+     "carbs_g": 16.1,
+     "fat_g": 1.9,
+     "fiber_g": 0.6,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Leftover Joy Sushi California roll, 2 pieces, 64g (weighed)",
+     "calories": 97,
+     "protein_g": 2.4,
+     "carbs_g": 17.7,
+     "fat_g": 2,
+     "fiber_g": 0.6,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Leftover Joy Sushi rolls, 166g (weighed): 1 California roll piece + 2 special roll pieces + 2 rock n' roll pieces",
+     "calories": 322,
+     "protein_g": 10.6,
+     "carbs_g": 38.6,
+     "fat_g": 14,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 13.7
+   "fiber_g": 15.9
   }
  },
  "WEIGHT_DAILY": [
