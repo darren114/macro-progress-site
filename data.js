@@ -11812,10 +11812,10 @@ window.MACRO_DATA = {
   },
   "2026-11-07": {
    "date": "2026-11-07",
-   "calories": 191,
-   "protein_g": 28.6,
-   "carbs_g": 8.7,
-   "fat_g": 3.4,
+   "calories": 699,
+   "protein_g": 75.3,
+   "carbs_g": 56.2,
+   "fat_g": 16.5,
    "meals": [
     {
      "time": "morning",
@@ -11836,9 +11836,29 @@ window.MACRO_DATA = {
      "fat_g": 2.4,
      "fiber_g": 0.4,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Baked chicken tenderloins, 141g (cooked, weighed) + Trader Joe's Buttermilk Ranch dip, 1 tbsp",
+     "calories": 268,
+     "protein_g": 44.2,
+     "carbs_g": 0.5,
+     "fat_g": 8.6,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "afternoon",
+     "description": "Tong Sui T14 Jasmine Green Tea Latte (less sweet, Oatly oat milk, crystal boba, less ice, 24oz)",
+     "calories": 240,
+     "protein_g": 2.5,
+     "carbs_g": 47,
+     "fat_g": 4.5,
+     "fiber_g": 0.5,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 3.1
+   "fiber_g": 3.6
   }
  },
  "WEIGHT_DAILY": [
