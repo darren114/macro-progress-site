@@ -11648,7 +11648,7 @@ window.MACRO_DATA = {
      "confidence": "medium"
     },
     {
-     "time": "morning",
+     "time": "lunch",
      "description": "Kirkland smoked salmon, 45g (weighed)",
      "calories": 88,
      "protein_g": 8.8,
@@ -11658,7 +11658,7 @@ window.MACRO_DATA = {
      "confidence": "high"
     },
     {
-     "time": "morning",
+     "time": "lunch",
      "description": "Leftover Joy Sushi California roll, 2 pieces, 58g (weighed)",
      "calories": 88,
      "protein_g": 2.1,
@@ -11668,7 +11668,7 @@ window.MACRO_DATA = {
      "confidence": "medium"
     },
     {
-     "time": "morning",
+     "time": "lunch",
      "description": "Leftover Joy Sushi California roll, 2 pieces, 64g (weighed)",
      "calories": 97,
      "protein_g": 2.4,
@@ -11678,7 +11678,7 @@ window.MACRO_DATA = {
      "confidence": "medium"
     },
     {
-     "time": "morning",
+     "time": "lunch",
      "description": "Leftover Joy Sushi rolls, 166g (weighed): 1 California roll piece + 2 special roll pieces + 2 rock n' roll pieces",
      "calories": 322,
      "protein_g": 10.6,
