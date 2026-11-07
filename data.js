@@ -11812,10 +11812,10 @@ window.MACRO_DATA = {
   },
   "2026-11-07": {
    "date": "2026-11-07",
-   "calories": 157,
-   "protein_g": 28,
-   "carbs_g": 6.3,
-   "fat_g": 1,
+   "calories": 191,
+   "protein_g": 28.6,
+   "carbs_g": 8.7,
+   "fat_g": 3.4,
    "meals": [
     {
      "time": "morning",
@@ -11826,9 +11826,19 @@ window.MACRO_DATA = {
      "fat_g": 1,
      "fiber_g": 2.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Ra Nissòra Brutti e Buoni hazelnut biscuits x2 (~8g total, 4g each)",
+     "calories": 34,
+     "protein_g": 0.6,
+     "carbs_g": 2.4,
+     "fat_g": 2.4,
+     "fiber_g": 0.4,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 2.7
+   "fiber_g": 3.1
   }
  },
  "WEIGHT_DAILY": [
