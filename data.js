@@ -11589,6 +11589,66 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 35.1
+  },
+  "2026-11-06": {
+   "date": "2026-11-06",
+   "calories": 1253,
+   "protein_g": 72.1,
+   "carbs_g": 146.2,
+   "fat_g": 45.9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Tong Sui Coconut Ice Bomb w/ Mango (less sweet), other half of 24oz cup",
+     "calories": 225,
+     "protein_g": 2,
+     "carbs_g": 31,
+     "fat_g": 10.5,
+     "fiber_g": 1,
+     "confidence": "low"
+    },
+    {
+     "time": "morning",
+     "description": "Tong Sui mango & mochi dessert jar (~8-9 oz: cream/yogurt base, mango puree, mochi)",
+     "calories": 320,
+     "protein_g": 4,
+     "carbs_g": 44,
+     "fat_g": 14,
+     "fiber_g": 1.5,
+     "confidence": "low"
+    },
+    {
+     "time": "morning",
+     "description": "Leftover Joy Sushi teriyaki chicken, 157g (weighed)",
+     "calories": 256,
+     "protein_g": 37,
+     "carbs_g": 9.4,
+     "fat_g": 7.8,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Leftover Joy Sushi rolls, 158g (weighed): 3 California roll + 2 rock n' roll maki",
+     "calories": 275,
+     "protein_g": 8.1,
+     "carbs_g": 41.5,
+     "fat_g": 9.1,
+     "fiber_g": 1.5,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 13.7
   }
  },
  "WEIGHT_DAILY": [
