@@ -12243,6 +12243,26 @@ window.MACRO_DATA = {
   {
    "date": "2026-10-30",
    "weight_lbs": 161.6
+  },
+  {
+   "date": "2026-11-01",
+   "weight_lbs": 160.1
+  },
+  {
+   "date": "2026-11-02",
+   "weight_lbs": 158.1
+  },
+  {
+   "date": "2026-11-03",
+   "weight_lbs": 158.3
+  },
+  {
+   "date": "2026-11-04",
+   "weight_lbs": 157.4
+  },
+  {
+   "date": "2026-11-05",
+   "weight_lbs": 160.3
   }
  ],
  "STEPS_HISTORY": [
@@ -12991,6 +13011,14 @@ window.MACRO_DATA = {
    "hip_in": 35.67,
    "left_bicep_in": 14.06,
    "left_thigh_in": 22.01
+  },
+  {
+   "date": "2026-11-06",
+   "neck_in": 14.96,
+   "waist_in": 30.51,
+   "hip_in": 34.65,
+   "left_bicep_in": 14.17,
+   "left_thigh_in": 21.97
   }
  ]
 };
