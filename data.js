@@ -11889,6 +11889,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 17.6
+  },
+  "2026-11-08": {
+   "date": "2026-11-08",
+   "calories": 409,
+   "protein_g": 43.2,
+   "carbs_g": 39.6,
+   "fat_g": 7.3,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Transparent Labs Whey Protein Isolate (1 scoop, 35g) + Matcha Powder (8g)",
+     "calories": 157,
+     "protein_g": 28,
+     "carbs_g": 6.3,
+     "fat_g": 1,
+     "fiber_g": 2.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Leftover orecchiette w/ roasted tomatoes & red onion + salmon (salmon mixed in, not weighed separately), 151g (weighed)",
+     "calories": 252,
+     "protein_g": 15.2,
+     "carbs_g": 33.3,
+     "fat_g": 6.3,
+     "fiber_g": 1.9,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 4.6
   }
  },
  "WEIGHT_DAILY": [
