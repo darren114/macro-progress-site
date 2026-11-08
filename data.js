@@ -11812,10 +11812,10 @@ window.MACRO_DATA = {
   },
   "2026-11-07": {
    "date": "2026-11-07",
-   "calories": 699,
-   "protein_g": 75.3,
-   "carbs_g": 56.2,
-   "fat_g": 16.5,
+   "calories": 2904,
+   "protein_g": 150.3,
+   "carbs_g": 338.2,
+   "fat_g": 102.5,
    "meals": [
     {
      "time": "morning",
@@ -11856,9 +11856,39 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 0.5,
      "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Crafty Fox Ale House: Japanese popcorn chicken x3 pieces (w/ some dipping sauce) + fried Brussels sprouts x4 + steak frites (hanger steak ~5oz w/ jus, 1 slice left, thick-cut fries ~220g, broccolini)",
+     "calories": 1510,
+     "protein_g": 75,
+     "carbs_g": 108,
+     "fat_g": 86,
+     "fiber_g": 14,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Crafty Fox beers x2, 12 oz each: amber ale (~175 kcal) + pilsner (~145 kcal)",
+     "calories": 320,
+     "protein_g": 0,
+     "carbs_g": 80,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Ungrafted: 3 glasses wine (1 red, 1 white, 1 light red), ~5oz pour each (15oz total)",
+     "calories": 375,
+     "protein_g": 0,
+     "carbs_g": 94,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium-low"
     }
    ],
-   "fiber_g": 3.6
+   "fiber_g": 17.6
   }
  },
  "WEIGHT_DAILY": [
