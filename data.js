@@ -11892,10 +11892,10 @@ window.MACRO_DATA = {
   },
   "2026-11-08": {
    "date": "2026-11-08",
-   "calories": 1956,
-   "protein_g": 142.9,
-   "carbs_g": 248.4,
-   "fat_g": 43.4,
+   "calories": 2616,
+   "protein_g": 181.9,
+   "carbs_g": 314.4,
+   "fat_g": 69.4,
    "meals": [
     {
      "time": "morning",
@@ -11956,9 +11956,19 @@ window.MACRO_DATA = {
      "fat_g": 3.3,
      "fiber_g": 2.3,
      "confidence": "medium-low"
+    },
+    {
+     "time": "evening",
+     "description": "La Petite Camille five spice chicken vermicelli (portion eaten; small amount left over for tomorrow)",
+     "calories": 660,
+     "protein_g": 39,
+     "carbs_g": 66,
+     "fat_g": 26,
+     "fiber_g": 3,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 17.3
+   "fiber_g": 20.3
   }
  },
  "WEIGHT_DAILY": [
