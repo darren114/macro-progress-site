@@ -11892,10 +11892,10 @@ window.MACRO_DATA = {
   },
   "2026-11-08": {
    "date": "2026-11-08",
-   "calories": 2673,
-   "protein_g": 183,
-   "carbs_g": 328.8,
-   "fat_g": 69.5,
+   "calories": 2890,
+   "protein_g": 184.8,
+   "carbs_g": 358.1,
+   "fat_g": 78.8,
    "meals": [
     {
      "time": "morning",
@@ -11976,9 +11976,29 @@ window.MACRO_DATA = {
      "fat_g": 0.1,
      "fiber_g": 2.9,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Ra Nissòra Brutti e Buoni hazelnut biscuits x3 (11g total, scale photo)",
+     "calories": 47,
+     "protein_g": 0.8,
+     "carbs_g": 3.3,
+     "fat_g": 3.3,
+     "fiber_g": 0.5,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Daelmans Caramel Stroopwafel, 1 wafel (39g)",
+     "calories": 170,
+     "protein_g": 1,
+     "carbs_g": 26,
+     "fat_g": 6,
+     "fiber_g": 0.5,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 23.2
+   "fiber_g": 24.2
   }
  },
  "WEIGHT_DAILY": [
