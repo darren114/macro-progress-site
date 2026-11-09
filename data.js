@@ -11892,10 +11892,10 @@ window.MACRO_DATA = {
   },
   "2026-11-08": {
    "date": "2026-11-08",
-   "calories": 409,
-   "protein_g": 43.2,
-   "carbs_g": 39.6,
-   "fat_g": 7.3,
+   "calories": 1737,
+   "protein_g": 128.3,
+   "carbs_g": 216,
+   "fat_g": 40.1,
    "meals": [
     {
      "time": "morning",
@@ -11916,9 +11916,39 @@ window.MACRO_DATA = {
      "fat_g": 6.3,
      "fiber_g": 1.9,
      "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Banana, 142g (peeled, scale photo)",
+     "calories": 126,
+     "protein_g": 1.6,
+     "carbs_g": 32.4,
+     "fat_g": 0.5,
+     "fiber_g": 3.7,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Bun bo Hue from Le Petite Camille: cooked rice noodles 398g + beef broth 482g (366 + 116 refill) + chả pork roll slices 40g + braised beef 146g + wife's shrimp 27g (~24g edible) + 45g bottom-of-container bits",
+     "calories": 985,
+     "protein_g": 69,
+     "carbs_g": 112,
+     "fat_g": 29,
+     "fiber_g": 4.4,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Shrimp spring roll 164g (~6 shrimp halves, vermicelli, lettuce, herbs) + peanut/hoisin-type dipping sauce (~42g, assumed finished)",
+     "calories": 217,
+     "protein_g": 14.5,
+     "carbs_g": 32,
+     "fat_g": 3.3,
+     "fiber_g": 2.3,
+     "confidence": "medium-low"
     }
    ],
-   "fiber_g": 4.6
+   "fiber_g": 15
   }
  },
  "WEIGHT_DAILY": [
