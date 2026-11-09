@@ -12002,10 +12002,10 @@ window.MACRO_DATA = {
   },
   "2026-11-09": {
    "date": "2026-11-09",
-   "calories": 793,
-   "protein_g": 53.9,
-   "carbs_g": 79.2,
-   "fat_g": 31.4,
+   "calories": 909,
+   "protein_g": 55.3,
+   "carbs_g": 108.9,
+   "fat_g": 31.8,
    "meals": [
     {
      "time": "morning",
@@ -12056,9 +12056,19 @@ window.MACRO_DATA = {
      "fat_g": 3.9,
      "fiber_g": 0.6,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Banana, 130g",
+     "calories": 116,
+     "protein_g": 1.4,
+     "carbs_g": 29.7,
+     "fat_g": 0.4,
+     "fiber_g": 3.4,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 13.1
+   "fiber_g": 16.5
   }
  },
  "WEIGHT_DAILY": [
