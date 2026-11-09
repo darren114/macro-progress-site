@@ -11892,10 +11892,10 @@ window.MACRO_DATA = {
   },
   "2026-11-08": {
    "date": "2026-11-08",
-   "calories": 1737,
-   "protein_g": 128.3,
-   "carbs_g": 216,
-   "fat_g": 40.1,
+   "calories": 1956,
+   "protein_g": 142.9,
+   "carbs_g": 248.4,
+   "fat_g": 43.4,
    "meals": [
     {
      "time": "morning",
@@ -11946,9 +11946,19 @@ window.MACRO_DATA = {
      "fat_g": 3.3,
      "fiber_g": 2.3,
      "confidence": "medium-low"
+    },
+    {
+     "time": "evening",
+     "description": "Shrimp spring roll 165g (~5-6 shrimp halves, vermicelli, lettuce, herbs) + same peanut/hoisin-type dipping sauce as lunch (~42g, assumed finished). Le Petite Camille",
+     "calories": 219,
+     "protein_g": 14.6,
+     "carbs_g": 32.4,
+     "fat_g": 3.3,
+     "fiber_g": 2.3,
+     "confidence": "medium-low"
     }
    ],
-   "fiber_g": 15
+   "fiber_g": 17.3
   }
  },
  "WEIGHT_DAILY": [
