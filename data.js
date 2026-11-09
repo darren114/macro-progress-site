@@ -11999,6 +11999,66 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 24.2
+  },
+  "2026-11-09": {
+   "date": "2026-11-09",
+   "calories": 793,
+   "protein_g": 53.9,
+   "carbs_g": 79.2,
+   "fat_g": 31.4,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Daelmans Caramel Stroopwafel, 1 wafel (39g)",
+     "calories": 170,
+     "protein_g": 1,
+     "carbs_g": 26,
+     "fat_g": 6,
+     "fiber_g": 0.5,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "La Petite Camille five spice chicken leftover, 118g (weighed)",
+     "calories": 236,
+     "protein_g": 28,
+     "carbs_g": 4,
+     "fat_g": 12,
+     "fiber_g": 0,
+     "confidence": "medium-low"
+    },
+    {
+     "time": "lunch",
+     "description": "La Petite Camille leftover vermicelli + cooked lettuce, carrot & sauce, 166g (weighed)",
+     "calories": 155,
+     "protein_g": 3,
+     "carbs_g": 25,
+     "fat_g": 5,
+     "fiber_g": 2.3,
+     "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Ra Nissòra Brutti e Buoni hazelnut biscuits x3 (13g total, scale photo)",
+     "calories": 55,
+     "protein_g": 0.9,
+     "carbs_g": 3.9,
+     "fat_g": 3.9,
+     "fiber_g": 0.6,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 13.1
   }
  },
  "WEIGHT_DAILY": [
@@ -13367,5 +13427,100 @@ window.MACRO_DATA = {
    "left_thigh_in": 21.97
   }
  ],
- "LIFTS": []
+ "LIFTS": [
+  {
+   "date": "2026-11-09",
+   "exercise": "Bulgarian Split Squat",
+   "weight_lbs": 25,
+   "reps": 8,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Bulgarian Split Squat",
+   "weight_lbs": 35,
+   "reps": 10,
+   "sets": 3,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "DB Romanian Deadlift",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 3
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "DB Bench Press",
+   "weight_lbs": 50,
+   "reps": 10,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "DB Bench Press",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "DB Bench Press",
+   "weight_lbs": 52.5,
+   "reps": 8,
+   "sets": 2,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Seated DB Overhead Press",
+   "weight_lbs": 35,
+   "reps": 8,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Seated DB Overhead Press",
+   "weight_lbs": 35,
+   "reps": 10,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Seated DB Overhead Press",
+   "weight_lbs": 35,
+   "reps": 9,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 15,
+   "reps": 10,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 12.5,
+   "reps": 14,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 12.5,
+   "reps": 15,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-09",
+   "exercise": "Overhead Triceps Extension",
+   "weight_lbs": 35,
+   "reps": 12,
+   "sets": 3
+  }
+ ]
 };
