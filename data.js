@@ -11892,10 +11892,10 @@ window.MACRO_DATA = {
   },
   "2026-11-08": {
    "date": "2026-11-08",
-   "calories": 2616,
-   "protein_g": 181.9,
-   "carbs_g": 314.4,
-   "fat_g": 69.4,
+   "calories": 2673,
+   "protein_g": 183,
+   "carbs_g": 328.8,
+   "fat_g": 69.5,
    "meals": [
     {
      "time": "morning",
@@ -11966,9 +11966,19 @@ window.MACRO_DATA = {
      "fat_g": 26,
      "fiber_g": 3,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Orange segments, 122g (peeled, scale photo)",
+     "calories": 57,
+     "protein_g": 1.1,
+     "carbs_g": 14.4,
+     "fat_g": 0.1,
+     "fiber_g": 2.9,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 20.3
+   "fiber_g": 23.2
   }
  },
  "WEIGHT_DAILY": [
