@@ -12002,9 +12002,9 @@ window.MACRO_DATA = {
   },
   "2026-11-09": {
    "date": "2026-11-09",
-   "calories": 2605,
-   "protein_g": 133.9,
-   "carbs_g": 291,
+   "calories": 2825,
+   "protein_g": 160.5,
+   "carbs_g": 320.2,
    "fat_g": 104.2,
    "meals": [
     {
@@ -12106,9 +12106,19 @@ window.MACRO_DATA = {
      "fat_g": 0.3,
      "fiber_g": 3.4,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Kirkland nonfat Greek yogurt 250g with apricot jam 29g (scale photo)",
+     "calories": 220,
+     "protein_g": 26.6,
+     "carbs_g": 29.2,
+     "fat_g": 0,
+     "fiber_g": 0.2,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 29.1
+   "fiber_g": 29.3
   }
  },
  "WEIGHT_DAILY": [
