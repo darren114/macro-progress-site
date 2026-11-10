@@ -12151,6 +12151,133 @@ window.MACRO_DATA = {
    "fiber_g": 17.5
   }
  },
+ "WEIGHT_HISTORY": [
+  {
+   "date": "2026-05-22",
+   "week": 1,
+   "weight_lbs": 173
+  },
+  {
+   "date": "2026-05-29",
+   "week": 2,
+   "weight_lbs": 173.7
+  },
+  {
+   "date": "2026-06-05",
+   "week": 3,
+   "weight_lbs": 175.9
+  },
+  {
+   "date": "2026-06-11",
+   "week": 4,
+   "weight_lbs": 176.2
+  },
+  {
+   "date": "2026-06-18",
+   "week": 5,
+   "weight_lbs": 173.8
+  },
+  {
+   "date": "2026-06-25",
+   "week": 6,
+   "weight_lbs": 172.9
+  },
+  {
+   "date": "2026-07-02",
+   "week": 7,
+   "weight_lbs": 171.7
+  },
+  {
+   "date": "2026-07-09",
+   "week": 8,
+   "weight_lbs": 169.1
+  },
+  {
+   "date": "2026-07-17",
+   "week": 9,
+   "weight_lbs": 168.2
+  },
+  {
+   "date": "2026-07-24",
+   "week": 10,
+   "weight_lbs": 166.8
+  },
+  {
+   "date": "2026-07-30",
+   "week": 11,
+   "weight_lbs": 165.6
+  },
+  {
+   "date": "2026-08-06",
+   "week": 12,
+   "weight_lbs": 164
+  },
+  {
+   "date": "2026-08-14",
+   "week": 13,
+   "weight_lbs": 161.8
+  },
+  {
+   "date": "2026-08-20",
+   "week": 14,
+   "weight_lbs": 160.1
+  },
+  {
+   "date": "2026-08-28",
+   "week": 15,
+   "weight_lbs": 157.7
+  },
+  {
+   "date": "2026-09-04",
+   "week": 16,
+   "weight_lbs": 157.2
+  },
+  {
+   "date": "2026-09-11",
+   "week": 17,
+   "weight_lbs": 156.5
+  },
+  {
+   "date": "2026-09-19",
+   "week": 18,
+   "weight_lbs": 153.6
+  },
+  {
+   "date": "2026-09-26",
+   "week": 19,
+   "weight_lbs": 154.2
+  },
+  {
+   "date": "2026-10-02",
+   "week": 20,
+   "weight_lbs": 154.5
+  },
+  {
+   "date": "2026-10-09",
+   "week": 21,
+   "weight_lbs": 157.18
+  },
+  {
+   "date": "2026-10-16",
+   "week": 22,
+   "weight_lbs": 159.9
+  },
+  {
+   "date": "2026-10-23",
+   "week": 23,
+   "weight_lbs": 158.1
+  },
+  {
+   "date": "2026-10-30",
+   "week": 24,
+   "weight_lbs": 158.34
+  },
+  {
+   "date": "2026-11-06",
+   "week": 25,
+   "weight_lbs": 159.4
+  }
+ ],
  "WEIGHT_DAILY": [
   {
    "date": "2026-05-19",
