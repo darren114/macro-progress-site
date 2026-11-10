@@ -12122,10 +12122,10 @@ window.MACRO_DATA = {
   },
   "2026-11-10": {
    "date": "2026-11-10",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 1122,
+   "protein_g": 87,
+   "carbs_g": 137.3,
+   "fat_g": 28.5,
    "meals": [
     {
      "time": "morning",
@@ -12136,9 +12136,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Spaghetti with turkey bolognese + nutritional yeast: 303g cooked Garofalo spaghetti, 153g cooked 93/7 turkey, 201g Trader Joe's Bolognese sauce, 6g Bragg nutritional yeast",
+     "calories": 945,
+     "protein_g": 66,
+     "carbs_g": 117,
+     "fat_g": 24,
+     "fiber_g": 7.8,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 17.5
   }
  },
  "WEIGHT_DAILY": [
