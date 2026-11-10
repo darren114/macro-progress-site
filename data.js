@@ -12122,10 +12122,10 @@ window.MACRO_DATA = {
   },
   "2026-11-10": {
    "date": "2026-11-10",
-   "calories": 1122,
-   "protein_g": 87,
-   "carbs_g": 137.3,
-   "fat_g": 28.5,
+   "calories": 1550,
+   "protein_g": 104,
+   "carbs_g": 201.8,
+   "fat_g": 39.3,
    "meals": [
     {
      "time": "morning",
@@ -12146,9 +12146,29 @@ window.MACRO_DATA = {
      "fat_g": 24,
      "fiber_g": 7.8,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "La Petite Camille beef vermicelli leftover (wife's): vermicelli, lettuce, carrot, onion + clear sweet fish-sauce dressing, 333g (weighed)",
+     "calories": 320,
+     "protein_g": 4,
+     "carbs_g": 62.5,
+     "fat_g": 5.3,
+     "fiber_g": 2.5,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "La Petite Camille beef leftover (wife's), 57g (weighed)",
+     "calories": 108,
+     "protein_g": 13,
+     "carbs_g": 2,
+     "fat_g": 5.5,
+     "fiber_g": 0,
+     "confidence": "medium-low"
     }
    ],
-   "fiber_g": 17.5
+   "fiber_g": 20
   }
  },
  "WEIGHT_HISTORY": [
