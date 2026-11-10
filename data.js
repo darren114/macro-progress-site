@@ -12002,10 +12002,10 @@ window.MACRO_DATA = {
   },
   "2026-11-09": {
    "date": "2026-11-09",
-   "calories": 2512,
-   "protein_g": 133.4,
-   "carbs_g": 268.1,
-   "fat_g": 103.9,
+   "calories": 2605,
+   "protein_g": 133.9,
+   "carbs_g": 291,
+   "fat_g": 104.2,
    "meals": [
     {
      "time": "morning",
@@ -12096,9 +12096,19 @@ window.MACRO_DATA = {
      "fat_g": 25,
      "fiber_g": 5.2,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Honeycrisp apple, 160g eaten (179g whole minus 19g core, scale photos)",
+     "calories": 93,
+     "protein_g": 0.5,
+     "carbs_g": 22.9,
+     "fat_g": 0.3,
+     "fiber_g": 3.4,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 25.7
+   "fiber_g": 29.1
   }
  },
  "WEIGHT_DAILY": [
