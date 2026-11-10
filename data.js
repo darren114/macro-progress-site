@@ -12002,10 +12002,10 @@ window.MACRO_DATA = {
   },
   "2026-11-09": {
    "date": "2026-11-09",
-   "calories": 1733,
-   "protein_g": 78.4,
-   "carbs_g": 183.1,
-   "fat_g": 78.9,
+   "calories": 2512,
+   "protein_g": 133.4,
+   "carbs_g": 268.1,
+   "fat_g": 103.9,
    "meals": [
     {
      "time": "morning",
@@ -12086,9 +12086,19 @@ window.MACRO_DATA = {
      "fat_g": 44,
      "fiber_g": 4,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Spaghetti with turkey bolognese and feta: 214g cooked Garofalo organic spaghetti, 129g cooked 93/7 turkey, 207g Trader Joe's Bolognese sauce, ~20g feta",
+     "calories": 779,
+     "protein_g": 55,
+     "carbs_g": 85,
+     "fat_g": 25,
+     "fiber_g": 5.2,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 20.5
+   "fiber_g": 25.7
   }
  },
  "WEIGHT_DAILY": [
