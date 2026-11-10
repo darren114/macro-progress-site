@@ -12002,10 +12002,10 @@ window.MACRO_DATA = {
   },
   "2026-11-09": {
    "date": "2026-11-09",
-   "calories": 909,
-   "protein_g": 55.3,
-   "carbs_g": 108.9,
-   "fat_g": 31.8,
+   "calories": 1733,
+   "protein_g": 78.4,
+   "carbs_g": 183.1,
+   "fat_g": 78.9,
    "meals": [
     {
      "time": "morning",
@@ -12066,9 +12066,29 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.4,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Fairlife 2% Reduced Fat ultra-filtered milk, 172g",
+     "calories": 84,
+     "protein_g": 9.1,
+     "carbs_g": 4.2,
+     "fat_g": 3.1,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Arsicault almond croissant, 169g",
+     "calories": 740,
+     "protein_g": 14,
+     "carbs_g": 70,
+     "fat_g": 44,
+     "fiber_g": 4,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 16.5
+   "fiber_g": 20.5
   }
  },
  "WEIGHT_DAILY": [
