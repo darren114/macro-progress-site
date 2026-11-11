@@ -12122,10 +12122,10 @@ window.MACRO_DATA = {
   },
   "2026-11-10": {
    "date": "2026-11-10",
-   "calories": 2644,
-   "protein_g": 190.3,
-   "carbs_g": 338.8,
-   "fat_g": 60.2,
+   "calories": 2784,
+   "protein_g": 194.8,
+   "carbs_g": 365.8,
+   "fat_g": 61.7,
    "meals": [
     {
      "time": "morning",
@@ -12186,9 +12186,19 @@ window.MACRO_DATA = {
      "fat_g": 3.9,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Popcorn, air popped (homemade), 4 handfuls ~5 cups, no oil or spray",
+     "calories": 140,
+     "protein_g": 4.5,
+     "carbs_g": 27,
+     "fat_g": 1.5,
+     "fiber_g": 5,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 29.9
+   "fiber_g": 34.9
   }
  },
  "WEIGHT_HISTORY": [
