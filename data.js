@@ -12202,10 +12202,10 @@ window.MACRO_DATA = {
   },
   "2026-11-11": {
    "date": "2026-11-11",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 477,
+   "protein_g": 31,
+   "carbs_g": 76.3,
+   "fat_g": 6.5,
    "meals": [
     {
      "time": "morning",
@@ -12216,9 +12216,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Thomas' English Muffins, 2 whole muffins (4 halves, 122g)",
+     "calories": 300,
+     "protein_g": 10,
+     "carbs_g": 56,
+     "fat_g": 2,
+     "fiber_g": 2,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 11.7
   }
  },
  "WEIGHT_HISTORY": [
