@@ -12122,10 +12122,10 @@ window.MACRO_DATA = {
   },
   "2026-11-10": {
    "date": "2026-11-10",
-   "calories": 2487,
-   "protein_g": 162,
+   "calories": 2644,
+   "protein_g": 190.3,
    "carbs_g": 338.8,
-   "fat_g": 56.3,
+   "fat_g": 60.2,
    "meals": [
     {
      "time": "morning",
@@ -12176,6 +12176,16 @@ window.MACRO_DATA = {
      "fat_g": 17,
      "fiber_g": 9.9,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Beef jerky (People's Choice, Original Old Fashioned), 44g",
+     "calories": 157,
+     "protein_g": 28.3,
+     "carbs_g": 0,
+     "fat_g": 3.9,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 29.9
