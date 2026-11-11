@@ -12202,10 +12202,10 @@ window.MACRO_DATA = {
   },
   "2026-11-11": {
    "date": "2026-11-11",
-   "calories": 594,
-   "protein_g": 32.4,
-   "carbs_g": 106.4,
-   "fat_g": 6.9,
+   "calories": 1470,
+   "protein_g": 87.9,
+   "carbs_g": 208.7,
+   "fat_g": 34.5,
    "meals": [
     {
      "time": "morning",
@@ -12236,9 +12236,39 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.4,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Spaghetti w/ homemade roasted-tomato sauce + feta: 151g cooked Garofalo organic spaghetti, 236g wife's from-scratch roasted tomato sauce (tomatoes, red onion, peppers, garlic, herbs; no nuts, little/no oil), 28g feta",
+     "calories": 431,
+     "protein_g": 14.8,
+     "carbs_g": 72.8,
+     "fat_g": 9.1,
+     "fiber_g": 7.5,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Roasted dark-meat chicken w/ skin 169g weighed incl. bone (~147g edible) + 66g roasted grapes & greens w/ balsamic reduction",
+     "calories": 362,
+     "protein_g": 38.3,
+     "carbs_g": 15,
+     "fat_g": 16.2,
+     "fiber_g": 1.5,
+     "confidence": "medium-low"
+    },
+    {
+     "time": "morning",
+     "description": "Beets, roasted/cooked, 142g (plate tared, scale photo)",
+     "calories": 83,
+     "protein_g": 2.4,
+     "carbs_g": 14.5,
+     "fat_g": 2.3,
+     "fiber_g": 2.8,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 15.1
+   "fiber_g": 26.9
   }
  },
  "WEIGHT_HISTORY": [
