@@ -13808,6 +13808,134 @@ window.MACRO_DATA = {
    "weight_lbs": 35,
    "reps": 12,
    "sets": 3
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Incline DB Press",
+   "weight_lbs": 45,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Incline DB Press",
+   "weight_lbs": 50,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Incline DB Press",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Incline DB Press",
+   "weight_lbs": 52.5,
+   "reps": 8,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "One-Arm DB Row",
+   "weight_lbs": 52.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "One-Arm DB Row",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "One-Arm DB Row",
+   "weight_lbs": 52.5,
+   "reps": 8,
+   "sets": 2
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Chest-Supported Row",
+   "weight_lbs": 40,
+   "reps": 10,
+   "sets": 2
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Chest-Supported Row",
+   "weight_lbs": 40,
+   "reps": 9,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "DB Pullover",
+   "weight_lbs": 40,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "DB Pullover",
+   "weight_lbs": 45,
+   "reps": 12,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "DB Pullover",
+   "weight_lbs": 50,
+   "reps": 10,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Incline Curl",
+   "weight_lbs": 25,
+   "reps": 2,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Incline Curl",
+   "weight_lbs": 20,
+   "reps": 8,
+   "sets": 3,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 10,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 12.5,
+   "reps": 17,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-11",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 15,
+   "reps": 17,
+   "sets": 1
   }
  ]
 };
