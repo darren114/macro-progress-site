@@ -12002,10 +12002,10 @@ window.MACRO_DATA = {
   },
   "2026-11-09": {
    "date": "2026-11-09",
-   "calories": 2825,
-   "protein_g": 160.5,
-   "carbs_g": 320.2,
-   "fat_g": 104.2,
+   "calories": 3575,
+   "protein_g": 229.9,
+   "carbs_g": 400.4,
+   "fat_g": 118.8,
    "meals": [
     {
      "time": "morning",
@@ -12116,9 +12116,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0.2,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Cooked basmati rice 165g, homemade avgolemono (Greek) soup no chicken 415g, baked chicken tenderloin 158g",
+     "calories": 749.5,
+     "protein_g": 69.4,
+     "carbs_g": 80.2,
+     "fat_g": 14.6,
+     "fiber_g": 4.5,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 29.3
+   "fiber_g": 33.8
   },
   "2026-11-10": {
    "date": "2026-11-10",
@@ -12202,10 +12212,10 @@ window.MACRO_DATA = {
   },
   "2026-11-11": {
    "date": "2026-11-11",
-   "calories": 1607,
-   "protein_g": 89.4,
-   "carbs_g": 240.7,
-   "fat_g": 35.5,
+   "calories": 2635,
+   "protein_g": 171.9,
+   "carbs_g": 334.7,
+   "fat_g": 69.4,
    "meals": [
     {
      "time": "morning",
@@ -12286,9 +12296,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 1.5,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Basmati rice 201g, homemade avgolemono soup no chicken 355g, roasted dark-meat chicken w/ skin 250g, roasted grapes/shishito peppers/garlic 44g",
+     "calories": 1028,
+     "protein_g": 82.5,
+     "carbs_g": 94,
+     "fat_g": 33.9,
+     "fiber_g": 5.1,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 29.7
+   "fiber_g": 34.8
   }
  },
  "WEIGHT_HISTORY": [
