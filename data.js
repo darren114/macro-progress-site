@@ -12202,10 +12202,10 @@ window.MACRO_DATA = {
   },
   "2026-11-11": {
    "date": "2026-11-11",
-   "calories": 1470,
-   "protein_g": 87.9,
-   "carbs_g": 208.7,
-   "fat_g": 34.5,
+   "calories": 1532,
+   "protein_g": 88.9,
+   "carbs_g": 222.7,
+   "fat_g": 35.5,
    "meals": [
     {
      "time": "morning",
@@ -12266,9 +12266,19 @@ window.MACRO_DATA = {
      "fat_g": 2.3,
      "fiber_g": 2.8,
      "confidence": "medium"
+    },
+    {
+     "time": "afternoon",
+     "description": "Realsy PB&J Date (strawberry peanut butter medjool), 1 of 3 from 60g bag",
+     "calories": 62,
+     "protein_g": 1,
+     "carbs_g": 14,
+     "fat_g": 1,
+     "fiber_g": 1.3,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 26.9
+   "fiber_g": 28.2
   }
  },
  "WEIGHT_HISTORY": [
