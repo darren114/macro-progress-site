@@ -12202,9 +12202,9 @@ window.MACRO_DATA = {
   },
   "2026-11-11": {
    "date": "2026-11-11",
-   "calories": 1532,
-   "protein_g": 88.9,
-   "carbs_g": 222.7,
+   "calories": 1607,
+   "protein_g": 89.4,
+   "carbs_g": 240.7,
    "fat_g": 35.5,
    "meals": [
     {
@@ -12276,9 +12276,19 @@ window.MACRO_DATA = {
      "fat_g": 1,
      "fiber_g": 1.3,
      "confidence": "high"
+    },
+    {
+     "time": "afternoon",
+     "description": "Natural Delights organic Medjool date, pitted, 1 date (23g on scale)",
+     "calories": 75,
+     "protein_g": 0.5,
+     "carbs_g": 18,
+     "fat_g": 0,
+     "fiber_g": 1.5,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 28.2
+   "fiber_g": 29.7
   }
  },
  "WEIGHT_HISTORY": [
