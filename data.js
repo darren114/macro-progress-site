@@ -14240,6 +14240,14 @@ window.MACRO_DATA = {
    "reps": 14,
    "sets": 1,
    "rpe": 8.5
+  },
+  {
+   "date": "2026-11-13",
+   "exercise": "Hammer Curl",
+   "weight_lbs": 30,
+   "reps": 8,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
