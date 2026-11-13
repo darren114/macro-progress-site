@@ -13904,6 +13904,10 @@ window.MACRO_DATA = {
    "hip_in": 34.65,
    "left_bicep_in": 14.17,
    "left_thigh_in": 21.97
+  },
+  {
+   "date": "2026-11-13",
+   "waist_in": 30.24
   }
  ],
  "LIFTS": [
