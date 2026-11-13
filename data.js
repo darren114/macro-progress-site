@@ -14272,6 +14272,14 @@ window.MACRO_DATA = {
    "reps": 10,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-13",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 52.5,
+   "reps": 9,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
