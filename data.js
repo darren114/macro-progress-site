@@ -14128,6 +14128,14 @@ window.MACRO_DATA = {
    "weight_lbs": 15,
    "reps": 17,
    "sets": 1
+  },
+  {
+   "date": "2026-11-13",
+   "exercise": "DB Front Squat",
+   "weight_lbs": 52.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
