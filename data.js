@@ -14142,7 +14142,8 @@ window.MACRO_DATA = {
    "exercise": "DB Front Squat",
    "weight_lbs": 52.5,
    "reps": 10,
-   "sets": 1
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
