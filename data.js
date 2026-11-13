@@ -12309,6 +12309,56 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 34.8
+  },
+  "2026-11-12": {
+   "date": "2026-11-12",
+   "calories": 2612,
+   "protein_g": 173.1,
+   "carbs_g": 348.7,
+   "fat_g": 59.9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 113g dry oats, 260g Fairlife Fat Free Ultra-Filtered Milk, 21g Manuka honey",
+     "calories": 591.3,
+     "protein_g": 29.3,
+     "carbs_g": 98.4,
+     "fat_g": 7.6,
+     "fiber_g": 13,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Spaghetti w/ ground chicken + sauce + nutritional yeast: 264g cooked Garofalo spaghetti (leftover), 201g Trader Joe's Roasted Garlic Marinara, 154g cooked organic ground chicken (93/7, no oil), 10g Bragg nutritional yeast",
+     "calories": 909.7,
+     "protein_g": 61.4,
+     "carbs_g": 111.2,
+     "fat_g": 23,
+     "fiber_g": 11.1,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Spaghetti w/ ground chicken + Trader Joe's Roasted Garlic Marinara: 300g cooked De Cecco thin spaghetti no. 11, 155g cooked organic ground chicken (93/7, no oil), 237g sauce",
+     "calories": 934.4,
+     "protein_g": 61.4,
+     "carbs_g": 118.8,
+     "fat_g": 24.8,
+     "fiber_g": 10.6,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 44.4
   }
  },
  "WEIGHT_HISTORY": [
