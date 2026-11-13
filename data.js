@@ -14216,6 +14216,14 @@ window.MACRO_DATA = {
    "reps": 12,
    "sets": 1,
    "rpe": 8
+  },
+  {
+   "date": "2026-11-13",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 52.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 8
   }
  ]
 };
