@@ -13068,6 +13068,30 @@ window.MACRO_DATA = {
   {
    "date": "2026-11-06",
    "weight_lbs": 160.7
+  },
+  {
+   "date": "2026-11-07",
+   "weight_lbs": 162.9
+  },
+  {
+   "date": "2026-11-08",
+   "weight_lbs": 161.2
+  },
+  {
+   "date": "2026-11-09",
+   "weight_lbs": 163.6
+  },
+  {
+   "date": "2026-11-10",
+   "weight_lbs": 163.4
+  },
+  {
+   "date": "2026-11-11",
+   "weight_lbs": 161.8
+  },
+  {
+   "date": "2026-11-12",
+   "weight_lbs": 161.8
   }
  ],
  "STEPS_HISTORY": [
