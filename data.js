@@ -12359,6 +12359,76 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 44.4
+  },
+  "2026-11-13": {
+   "date": "2026-11-13",
+   "calories": 2590,
+   "protein_g": 107.8,
+   "carbs_g": 360.9,
+   "fat_g": 74.7,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Overnight oats: 133g dry oats, 234g Fairlife Fat Free Ultra-Filtered Milk, 21g Manuka honey",
+     "calories": 659.5,
+     "protein_g": 30.6,
+     "carbs_g": 110.9,
+     "fat_g": 9,
+     "fiber_g": 15.4,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Spaghetti w/ ground chicken + feta (leftovers): 293g cooked Garofalo spaghetti, 248g Trader Joe's Roasted Garlic Marinara, 46g cooked organic ground chicken (93/7), 38g feta",
+     "calories": 860.9,
+     "protein_g": 35.7,
+     "carbs_g": 123.7,
+     "fat_g": 24.3,
+     "fiber_g": 10.7,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Beets, roasted/cooked, 94g eaten (237g container weight minus 143g left)",
+     "calories": 54.6,
+     "protein_g": 1.6,
+     "carbs_g": 9.4,
+     "fat_g": 1.5,
+     "fiber_g": 1.9,
+     "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Ra Nissòra Brutti e Buoni hazelnut biscuits x3 (13g total)",
+     "calories": 55,
+     "protein_g": 0.9,
+     "carbs_g": 3.9,
+     "fat_g": 3.9,
+     "fiber_g": 0.6,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Korean kimbap (frozen), entire package (2.5 servings)",
+     "calories": 460,
+     "protein_g": 14,
+     "carbs_g": 76,
+     "fat_g": 9,
+     "fiber_g": 3,
+     "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Costco Kirkland chicken pot pie w/ rotisserie chicken breast, 230g (plate tared)",
+     "calories": 500,
+     "protein_g": 25,
+     "carbs_g": 37,
+     "fat_g": 27,
+     "fiber_g": 2.5,
+     "confidence": "low"
+    }
+   ],
+   "fiber_g": 34.1
   }
  },
  "WEIGHT_HISTORY": [
