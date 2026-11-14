@@ -12452,10 +12452,10 @@ window.MACRO_DATA = {
   },
   "2026-11-14": {
    "date": "2026-11-14",
-   "calories": 1465,
-   "protein_g": 82,
-   "carbs_g": 138,
-   "fat_g": 65,
+   "calories": 1817,
+   "protein_g": 113,
+   "carbs_g": 178.3,
+   "fat_g": 71,
    "meals": [
     {
      "time": "lunch",
@@ -12466,9 +12466,29 @@ window.MACRO_DATA = {
      "fat_g": 65,
      "fiber_g": 3.5,
      "confidence": "med"
+    },
+    {
+     "time": "morning",
+     "description": "Transparent Labs Whey Protein Isolate (1 scoop, 35g) + Matcha Powder (8g)",
+     "calories": 157,
+     "protein_g": 28,
+     "carbs_g": 6.3,
+     "fat_g": 1,
+     "fiber_g": 2.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Milli (Millbrae) matcha coconut latte, 12 oz, oat milk sub, double shot matcha",
+     "calories": 195,
+     "protein_g": 3,
+     "carbs_g": 34,
+     "fat_g": 5,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 3.5
+   "fiber_g": 7.2
   }
  },
  "WEIGHT_HISTORY": [
