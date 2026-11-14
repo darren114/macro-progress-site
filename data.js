@@ -12362,10 +12362,10 @@ window.MACRO_DATA = {
   },
   "2026-11-13": {
    "date": "2026-11-13",
-   "calories": 2590,
-   "protein_g": 107.8,
-   "carbs_g": 360.9,
-   "fat_g": 74.7,
+   "calories": 2767,
+   "protein_g": 128.8,
+   "carbs_g": 381.2,
+   "fat_g": 79.2,
    "meals": [
     {
      "time": "morning",
@@ -12426,9 +12426,19 @@ window.MACRO_DATA = {
      "fat_g": 27,
      "fiber_g": 2.5,
      "confidence": "low"
+    },
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 34.1
+   "fiber_g": 43.8
   }
  },
  "WEIGHT_HISTORY": [
