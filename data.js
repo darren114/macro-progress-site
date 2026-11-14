@@ -12449,6 +12449,26 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 43.8
+  },
+  "2026-11-14": {
+   "date": "2026-11-14",
+   "calories": 1465,
+   "protein_g": 82,
+   "carbs_g": 138,
+   "fat_g": 65,
+   "meals": [
+    {
+     "time": "lunch",
+     "description": "Laka (Millbrae) 2-item over rice: BBQ pork (char siu) 166g + steamed chicken w/ ginger-scallion sauce 190g (240g minus 50g bones) + choy 157g + rice w/ soy sauce 400g",
+     "calories": 1465,
+     "protein_g": 82,
+     "carbs_g": 138,
+     "fat_g": 65,
+     "fiber_g": 3.5,
+     "confidence": "med"
+    }
+   ],
+   "fiber_g": 3.5
   }
  },
  "WEIGHT_HISTORY": [
