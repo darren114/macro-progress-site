@@ -296,7 +296,7 @@
     <div class="tabs-wrap">
       <div class="tabs" role="tablist" id="tabsScroll">
         <button class="tab-btn active" type="button" role="tab" aria-selected="true" aria-controls="tabMacro" id="tabBtnMacro">Macros</button>
-        <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="weightSection" id="tabBtnWeight">Weight</button>
+        <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="weightSection" id="tabBtnWeight">Measurements</button>
         <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="stepsSection" id="tabBtnSteps">Steps</button>
         <button class="tab-btn" type="button" role="tab" aria-selected="false" aria-controls="strengthSection" id="tabBtnStrength">Strength</button>
       </div>
@@ -374,6 +374,66 @@
       <details class="weight-table-toggle">
         <summary>View as table</summary>
         <table class="weight-table mono" id="waistTable"></table>
+      </details>
+    </section>
+
+    <section id="neckBlock" hidden>
+      <div class="section-head stacked">
+        <h2>Neck</h2>
+        <span class="hint" id="neckDelta"></span>
+      </div>
+      <div class="card weight-card">
+        <svg id="neckChart" viewBox="0 0 560 170" preserveAspectRatio="none" role="img" aria-label="Neck trend chart"></svg>
+        <div class="weight-tooltip" id="neckTooltip" hidden></div>
+      </div>
+      <details class="weight-table-toggle">
+        <summary>View as table</summary>
+        <table class="weight-table mono" id="neckTable"></table>
+      </details>
+    </section>
+
+    <section id="hipBlock" hidden>
+      <div class="section-head stacked">
+        <h2>Hip</h2>
+        <span class="hint" id="hipDelta"></span>
+      </div>
+      <div class="card weight-card">
+        <svg id="hipChart" viewBox="0 0 560 170" preserveAspectRatio="none" role="img" aria-label="Hip trend chart"></svg>
+        <div class="weight-tooltip" id="hipTooltip" hidden></div>
+      </div>
+      <details class="weight-table-toggle">
+        <summary>View as table</summary>
+        <table class="weight-table mono" id="hipTable"></table>
+      </details>
+    </section>
+
+    <section id="bicepBlock" hidden>
+      <div class="section-head stacked">
+        <h2>Left bicep</h2>
+        <span class="hint" id="bicepDelta"></span>
+      </div>
+      <div class="card weight-card">
+        <svg id="bicepChart" viewBox="0 0 560 170" preserveAspectRatio="none" role="img" aria-label="Left bicep trend chart"></svg>
+        <div class="weight-tooltip" id="bicepTooltip" hidden></div>
+      </div>
+      <details class="weight-table-toggle">
+        <summary>View as table</summary>
+        <table class="weight-table mono" id="bicepTable"></table>
+      </details>
+    </section>
+
+    <section id="thighBlock" hidden>
+      <div class="section-head stacked">
+        <h2>Left thigh</h2>
+        <span class="hint" id="thighDelta"></span>
+      </div>
+      <div class="card weight-card">
+        <svg id="thighChart" viewBox="0 0 560 170" preserveAspectRatio="none" role="img" aria-label="Left thigh trend chart"></svg>
+        <div class="weight-tooltip" id="thighTooltip" hidden></div>
+      </div>
+      <details class="weight-table-toggle">
+        <summary>View as table</summary>
+        <table class="weight-table mono" id="thighTable"></table>
       </details>
     </section>
   </section>
@@ -998,7 +1058,20 @@
       chartId:'waistChart', tooltipId:'waistTooltip', deltaId:'waistDelta', tableId:'waistTable',
       crosshairId:'waistCrosshair', hoverDotId:'waistHoverDot',
       valueKey:'waist_in', unit:'in', decimals:2, tableValueLabel:'Waist',
+      showWeek:false, periodLabel:'checks',
       onData: has => { document.getElementById('waistBlock').hidden = !has; },
+    });
+    // Remaining tape measurements (logs/measurements.csv via MACRO_DATA.MEASUREMENTS); weekly
+    // Friday check-ins, so only dates where that measurement was actually recorded are plotted.
+    [['neck','neck_in','Neck'],['hip','hip_in','Hip'],['bicep','left_bicep_in','Left bicep'],['thigh','left_thigh_in','Left thigh']].forEach(([id,key,label]) => {
+      const hist = (window.MACRO_DATA.MEASUREMENTS || []).filter(m => m[key] != null).map(m => ({date: m.date, [key]: m[key]}));
+      renderTrendChart(hist, {
+        chartId:id+'Chart', tooltipId:id+'Tooltip', deltaId:id+'Delta', tableId:id+'Table',
+        crosshairId:id+'Crosshair', hoverDotId:id+'HoverDot',
+        valueKey:key, unit:'in', decimals:2, tableValueLabel:label,
+        showWeek:false, periodLabel:'checks',
+        onData: has => { document.getElementById(id+'Block').hidden = !has; },
+      });
     });
     renderBarChart(aggregateWeeklySteps(STEPS_HISTORY), {
       chartId:'stepsChart', scrollId:'stepsChartScroll', fadeId:'stepsChartFade',
