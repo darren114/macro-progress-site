@@ -12452,10 +12452,10 @@ window.MACRO_DATA = {
   },
   "2026-11-14": {
    "date": "2026-11-14",
-   "calories": 2174,
-   "protein_g": 160.2,
-   "carbs_g": 178.3,
-   "fat_g": 88.4,
+   "calories": 3692,
+   "protein_g": 209.8,
+   "carbs_g": 414,
+   "fat_g": 130.1,
    "meals": [
     {
      "time": "lunch",
@@ -12496,9 +12496,79 @@ window.MACRO_DATA = {
      "fat_g": 17.4,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Hibiki Japanese whisky, 5 shots (1.5 oz each, 43% ABV)",
+     "calories": 530,
+     "protein_g": 0,
+     "carbs_g": 132,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Popcorn, air popped, 40g kernels (Int'l Popcorn Less-Hulls White Kernels)",
+     "calories": 144,
+     "protein_g": 5.1,
+     "carbs_g": 27.7,
+     "fat_g": 1.5,
+     "fiber_g": 2.1,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Costco Kirkland ahi wasabi poke, ~170g",
+     "calories": 223,
+     "protein_g": 36,
+     "carbs_g": 3,
+     "fat_g": 7.5,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Tortilla chips with poke, ~12 chips (~30g)",
+     "calories": 145,
+     "protein_g": 2,
+     "carbs_g": 19,
+     "fat_g": 7,
+     "fiber_g": 1.5,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Lay's tomato flavored potato chips, 40g",
+     "calories": 225,
+     "protein_g": 3,
+     "carbs_g": 22,
+     "fat_g": 14,
+     "fiber_g": 1.4,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Lay's original potato chips, 30g",
+     "calories": 171,
+     "protein_g": 2.1,
+     "carbs_g": 16,
+     "fat_g": 10.7,
+     "fiber_g": 0.9,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Asian rice cracker mix, 20g",
+     "calories": 80,
+     "protein_g": 1.4,
+     "carbs_g": 16,
+     "fat_g": 1,
+     "fiber_g": 0.3,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 7.2
+   "fiber_g": 13.4
   }
  },
  "WEIGHT_HISTORY": [
