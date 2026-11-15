@@ -14075,7 +14075,6 @@ window.MACRO_DATA = {
    "date": "2026-09-19",
    "neck_in": 15,
    "waist_in": 29.69,
-   "hip_in": 32,
    "left_bicep_in": 14,
    "left_thigh_in": 21.38
   },
@@ -14083,7 +14082,6 @@ window.MACRO_DATA = {
    "date": "2026-09-25",
    "neck_in": 15,
    "waist_in": 29.56,
-   "hip_in": 34.25,
    "left_bicep_in": 13.75,
    "left_thigh_in": 21.5
   },
