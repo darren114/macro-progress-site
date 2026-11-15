@@ -12579,10 +12579,10 @@ window.MACRO_DATA = {
   },
   "2026-11-15": {
    "date": "2026-11-15",
-   "calories": 1133,
-   "protein_g": 77.4,
-   "carbs_g": 127.8,
-   "fat_g": 32.3,
+   "calories": 1047,
+   "protein_g": 79.2,
+   "carbs_g": 118.9,
+   "fat_g": 26.8,
    "meals": [
     {
      "time": "morning",
@@ -12626,12 +12626,12 @@ window.MACRO_DATA = {
     },
     {
      "time": "lunch",
-     "description": "Costco Kirkland chicken pot pie, 215g (245g plated - 30g top/burnt crust removed)",
-     "calories": 467,
-     "protein_g": 23.4,
-     "carbs_g": 34.6,
-     "fat_g": 25.2,
-     "fiber_g": 2.3,
+     "description": "Costco Kirkland chicken pot pie, 245g plated minus 30g removed top/burnt crust (net ~215g)",
+     "calories": 381,
+     "protein_g": 25.2,
+     "carbs_g": 25.7,
+     "fat_g": 19.7,
+     "fiber_g": 2.2,
      "confidence": "low"
     },
     {
@@ -12645,7 +12645,7 @@ window.MACRO_DATA = {
      "confidence": "medium"
     }
    ],
-   "fiber_g": 3.2
+   "fiber_g": 3.1
   }
  },
  "WEIGHT_HISTORY": [
