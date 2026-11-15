@@ -12576,6 +12576,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 13.4
+  },
+  "2026-11-15": {
+   "date": "2026-11-15",
+   "calories": 315,
+   "protein_g": 5.4,
+   "carbs_g": 70.4,
+   "fat_g": 1.3,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Krusteaz Buttermilk pancakes (homemade), 159g cooked",
+     "calories": 276,
+     "protein_g": 5.4,
+     "carbs_g": 60.6,
+     "fat_g": 1.3,
+     "fiber_g": 0.7,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Organic maple syrup (Lucerne), 15g",
+     "calories": 39,
+     "protein_g": 0,
+     "carbs_g": 9.8,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 0.7
   }
  },
  "WEIGHT_HISTORY": [
