@@ -14638,6 +14638,14 @@ window.MACRO_DATA = {
    "reps": 9,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Bulgarian Split Squat",
+   "weight_lbs": 40,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
