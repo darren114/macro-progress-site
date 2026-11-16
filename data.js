@@ -12579,10 +12579,10 @@ window.MACRO_DATA = {
   },
   "2026-11-15": {
    "date": "2026-11-15",
-   "calories": 1047,
-   "protein_g": 79.2,
-   "carbs_g": 118.9,
-   "fat_g": 26.8,
+   "calories": 2200,
+   "protein_g": 162.6,
+   "carbs_g": 249.4,
+   "fat_g": 59,
    "meals": [
     {
      "time": "morning",
@@ -12643,9 +12643,59 @@ window.MACRO_DATA = {
      "fat_g": 5.4,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Yuanbao Jiaozi (Millbrae): House special beef noodle soup -- beef slices 27g + cubes 56g, bok choy 37g, noodles 312g, beef broth 414g (spicy)",
+     "calories": 693,
+     "protein_g": 51,
+     "carbs_g": 86,
+     "fat_g": 14.8,
+     "fiber_g": 3.2,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Yuanbao Jiaozi: extra beef pieces from wife's soup bowl, 31g",
+     "calories": 67,
+     "protein_g": 9.9,
+     "carbs_g": 0,
+     "fat_g": 2.8,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Yuanbao Jiaozi: Shiitake mushroom & sole fish dumplings, 4 pcs (136g; 102g for 3 + 34g)",
+     "calories": 204,
+     "protein_g": 9.4,
+     "carbs_g": 32.4,
+     "fat_g": 4.1,
+     "fiber_g": 1.8,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Yuanbao Jiaozi: napa cabbage & pork dumpling x1 (~35g, wife's) with peanut sauce (~8g)",
+     "calories": 130,
+     "protein_g": 6,
+     "carbs_g": 11,
+     "fat_g": 7.5,
+     "fiber_g": 0.8,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Yuanbao Jiaozi: marinated beef (醬牛肉) slices, 31g (wife's appetizer)",
+     "calories": 59,
+     "protein_g": 7.1,
+     "carbs_g": 1.1,
+     "fat_g": 3,
+     "fiber_g": 0,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 3.1
+   "fiber_g": 8.9
   }
  },
  "WEIGHT_HISTORY": [
