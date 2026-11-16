@@ -12579,10 +12579,10 @@ window.MACRO_DATA = {
   },
   "2026-11-15": {
    "date": "2026-11-15",
-   "calories": 2200,
+   "calories": 2164,
    "protein_g": 162.6,
    "carbs_g": 249.4,
-   "fat_g": 59,
+   "fat_g": 55,
    "meals": [
     {
      "time": "morning",
@@ -12677,10 +12677,10 @@ window.MACRO_DATA = {
     {
      "time": "evening",
      "description": "Yuanbao Jiaozi: napa cabbage & pork dumpling x1 (~35g, wife's) with peanut sauce (~8g)",
-     "calories": 130,
+     "calories": 94,
      "protein_g": 6,
      "carbs_g": 11,
-     "fat_g": 7.5,
+     "fat_g": 3.5,
      "fiber_g": 0.8,
      "confidence": "low"
     },
