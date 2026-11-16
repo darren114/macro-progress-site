@@ -12579,9 +12579,9 @@ window.MACRO_DATA = {
   },
   "2026-11-15": {
    "date": "2026-11-15",
-   "calories": 2164,
+   "calories": 2324,
    "protein_g": 162.6,
-   "carbs_g": 249.4,
+   "carbs_g": 292.4,
    "fat_g": 55,
    "meals": [
     {
@@ -12691,6 +12691,16 @@ window.MACRO_DATA = {
      "protein_g": 7.1,
      "carbs_g": 1.1,
      "fat_g": 3,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Sunkist orange soda, 1 can (12 fl oz)",
+     "calories": 160,
+     "protein_g": 0,
+     "carbs_g": 43,
+     "fat_g": 0,
      "fiber_g": 0,
      "confidence": "medium"
     }
