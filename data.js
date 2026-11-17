@@ -14903,6 +14903,14 @@ window.MACRO_DATA = {
    "reps": 12,
    "sets": 1,
    "rpe": 9
+  },
+  {
+   "date": "2026-11-17",
+   "exercise": "One-Arm DB Row",
+   "weight_lbs": 52.5,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
