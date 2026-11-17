@@ -14967,6 +14967,14 @@ window.MACRO_DATA = {
    "reps": 7,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-17",
+   "exercise": "Seated DB Overhead Press",
+   "weight_lbs": 35,
+   "reps": 8,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
