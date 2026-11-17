@@ -15031,6 +15031,14 @@ window.MACRO_DATA = {
    "reps": 17,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-17",
+   "exercise": "Overhead Triceps Extension",
+   "weight_lbs": 40,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
