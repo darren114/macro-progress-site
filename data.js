@@ -12709,10 +12709,10 @@ window.MACRO_DATA = {
   },
   "2026-11-16": {
    "date": "2026-11-16",
-   "calories": 1845,
-   "protein_g": 133.2,
-   "carbs_g": 243.8,
-   "fat_g": 38.9,
+   "calories": 3175,
+   "protein_g": 226.2,
+   "carbs_g": 367.5,
+   "fat_g": 93,
    "meals": [
     {
      "time": "morning",
@@ -12763,9 +12763,79 @@ window.MACRO_DATA = {
      "fat_g": 10.7,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): pita, 54g",
+     "calories": 150,
+     "protein_g": 4.9,
+     "carbs_g": 30.1,
+     "fat_g": 1.5,
+     "fiber_g": 1.2,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): braised lamb shank meat w/ jus, 222g",
+     "calories": 522,
+     "protein_g": 60,
+     "carbs_g": 3.3,
+     "fat_g": 30,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): potato puree, 218g",
+     "calories": 283,
+     "protein_g": 4.4,
+     "carbs_g": 37.1,
+     "fat_g": 13.1,
+     "fiber_g": 2.8,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): hummus, 40g",
+     "calories": 68,
+     "protein_g": 3.2,
+     "carbs_g": 5.7,
+     "fat_g": 3.8,
+     "fiber_g": 2.4,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): baba ganoush, 20g",
+     "calories": 26,
+     "protein_g": 0.6,
+     "carbs_g": 1.9,
+     "fat_g": 2,
+     "fiber_g": 0.6,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): lentil soup, lentils + vegetables (no broth), 212g",
+     "calories": 233,
+     "protein_g": 17,
+     "carbs_g": 39.2,
+     "fat_g": 2.1,
+     "fiber_g": 13.8,
+     "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Amoura (South San Francisco): lentil soup, broth, 159g (359g minus 200g per Darren)",
+     "calories": 48,
+     "protein_g": 2.9,
+     "carbs_g": 6.4,
+     "fat_g": 1.6,
+     "fiber_g": 1.3,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 34.2
+   "fiber_g": 56.3
   }
  },
  "WEIGHT_HISTORY": [
