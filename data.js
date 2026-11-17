@@ -12709,10 +12709,10 @@ window.MACRO_DATA = {
   },
   "2026-11-16": {
    "date": "2026-11-16",
-   "calories": 3175,
-   "protein_g": 226.2,
-   "carbs_g": 367.5,
-   "fat_g": 93,
+   "calories": 3360,
+   "protein_g": 231.2,
+   "carbs_g": 400.5,
+   "fat_g": 96.5,
    "meals": [
     {
      "time": "morning",
@@ -12832,6 +12832,16 @@ window.MACRO_DATA = {
      "carbs_g": 6.4,
      "fat_g": 1.6,
      "fiber_g": 1.3,
+     "confidence": "low"
+    },
+    {
+     "time": "afternoon",
+     "description": "Yuanbao Jiaozi jasmine green milk tea, 22 oz, 75% sweet, no toppings",
+     "calories": 185,
+     "protein_g": 5,
+     "carbs_g": 33,
+     "fat_g": 3.5,
+     "fiber_g": 0,
      "confidence": "low"
     }
    ],
