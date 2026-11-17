@@ -12706,6 +12706,66 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 8.9
+  },
+  "2026-11-16": {
+   "date": "2026-11-16",
+   "calories": 1845,
+   "protein_g": 133.2,
+   "carbs_g": 243.8,
+   "fat_g": 38.9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 156g dry oats, 263g Fairlife Fat Free Ultra-Filtered Milk (201g + 62g), 28g Manuka honey, 121g banana (peeled)",
+     "calories": 888.7,
+     "protein_g": 36.5,
+     "carbs_g": 160.2,
+     "fat_g": 10.9,
+     "fiber_g": 21.1,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Yuanbao Jiaozi: marinated beef (醬牛肉) slices, 52g (bought 11/15)",
+     "calories": 98.8,
+     "protein_g": 11.9,
+     "carbs_g": 1.8,
+     "fat_g": 5,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Yuanbao Jiaozi: Shiitake mushroom & sole fish dumplings, 258g (~7-8 pcs)",
+     "calories": 387.8,
+     "protein_g": 17.9,
+     "carbs_g": 61.5,
+     "fat_g": 7.8,
+     "fiber_g": 3.4,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie chicken (equal mix white + dark meat, no skin), 158g",
+     "calories": 292.3,
+     "protein_g": 45.9,
+     "carbs_g": 0,
+     "fat_g": 10.7,
+     "fiber_g": 0,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 34.2
   }
  },
  "WEIGHT_HISTORY": [
@@ -14652,6 +14712,115 @@ window.MACRO_DATA = {
    "exercise": "Single-Leg Calf Raise",
    "weight_lbs": 52.5,
    "reps": 15,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Bulgarian Split Squat",
+   "weight_lbs": 40,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 52.5,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Bulgarian Split Squat",
+   "weight_lbs": 40,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 52.5,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Romanian Deadlift",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Plank (seconds)",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Romanian Deadlift",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Plank (seconds)",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Romanian Deadlift",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "Plank (seconds)",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 1
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 40,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 40,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 40,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-16",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 40,
+   "reps": 12,
    "sets": 1,
    "rpe": 9
   }
