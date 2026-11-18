@@ -12849,10 +12849,10 @@ window.MACRO_DATA = {
   },
   "2026-11-17": {
    "date": "2026-11-17",
-   "calories": 1298,
-   "protein_g": 80.3,
-   "carbs_g": 162.1,
-   "fat_g": 37.3,
+   "calories": 3221,
+   "protein_g": 221.3,
+   "carbs_g": 374.8,
+   "fat_g": 87.5,
    "meals": [
     {
      "time": "morning",
@@ -12883,9 +12883,79 @@ window.MACRO_DATA = {
      "fat_g": 25.6,
      "fiber_g": 2.8,
      "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Spaghetti w/ Costco rotisserie white meat chicken + Rao's Marinara: 268g cooked Garofalo spaghetti, 205g Rao's sauce, 147g chicken (no skin)",
+     "calories": 862.8,
+     "protein_g": 62,
+     "carbs_g": 103.3,
+     "fat_g": 18.9,
+     "fiber_g": 6,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Natural Delights organic Medjool date, pitted, 1 date (21g on scale)",
+     "calories": 68.5,
+     "protein_g": 0.5,
+     "carbs_g": 16.4,
+     "fat_g": 0,
+     "fiber_g": 1.4,
+     "confidence": "high"
+    },
+    {
+     "time": "evening",
+     "description": "Amami sushi: steamed white rice, 164g",
+     "calories": 213.2,
+     "protein_g": 4.4,
+     "carbs_g": 46.2,
+     "fat_g": 0.5,
+     "fiber_g": 0.7,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amami sushi: chicken teriyaki, 105g",
+     "calories": 214.4,
+     "protein_g": 24.8,
+     "carbs_g": 6.3,
+     "fat_g": 10,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amami sushi: 2 sushi rolls (salmon/avocado roll + unagi roll), 63g",
+     "calories": 119.7,
+     "protein_g": 3.5,
+     "carbs_g": 17.6,
+     "fat_g": 4.1,
+     "fiber_g": 1,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Amami sushi: seasoned sushi rice, 74g",
+     "calories": 103.6,
+     "protein_g": 1.8,
+     "carbs_g": 22.9,
+     "fat_g": 0.1,
+     "fiber_g": 0.3,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amami sushi: sashimi (salmon, yellowtail, tuna), 200g",
+     "calories": 340.6,
+     "protein_g": 44,
+     "carbs_g": 0,
+     "fat_g": 16.6,
+     "fiber_g": 0,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 26.9
+   "fiber_g": 36.3
   }
  },
  "WEIGHT_HISTORY": [
