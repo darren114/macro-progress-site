@@ -12849,10 +12849,10 @@ window.MACRO_DATA = {
   },
   "2026-11-17": {
    "date": "2026-11-17",
-   "calories": 3221,
-   "protein_g": 221.3,
-   "carbs_g": 374.8,
-   "fat_g": 87.5,
+   "calories": 3281,
+   "protein_g": 223.1,
+   "carbs_g": 382.3,
+   "fat_g": 90.1,
    "meals": [
     {
      "time": "morning",
@@ -12953,9 +12953,19 @@ window.MACRO_DATA = {
      "fat_g": 16.6,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amami sushi: baked scallop roll, 30g",
+     "calories": 60.2,
+     "protein_g": 1.8,
+     "carbs_g": 7.5,
+     "fat_g": 2.6,
+     "fiber_g": 0.2,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 36.3
+   "fiber_g": 36.5
   }
  },
  "WEIGHT_HISTORY": [
