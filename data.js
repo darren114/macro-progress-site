@@ -12846,6 +12846,46 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 56.3
+  },
+  "2026-11-17": {
+   "date": "2026-11-17",
+   "calories": 1298,
+   "protein_g": 80.3,
+   "carbs_g": 162.1,
+   "fat_g": 37.3,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 107g dry oats, 249g Fairlife Ultra-Filtered Milk, 21g Manuka honey, 16g freeze-dried strawberries (Volupta)",
+     "calories": 623.2,
+     "protein_g": 28.4,
+     "carbs_g": 108.1,
+     "fat_g": 7.2,
+     "fiber_g": 14.4,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco Kirkland chicken pot pie, 298g plated minus 31g crust left on plate",
+     "calories": 497.9,
+     "protein_g": 30.9,
+     "carbs_g": 33.7,
+     "fat_g": 25.6,
+     "fiber_g": 2.8,
+     "confidence": "low"
+    }
+   ],
+   "fiber_g": 26.9
   }
  },
  "WEIGHT_HISTORY": [
