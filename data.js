@@ -12875,7 +12875,7 @@ window.MACRO_DATA = {
      "confidence": "high"
     },
     {
-     "time": "lunch",
+     "time": "morning",
      "description": "Costco Kirkland chicken pot pie, 298g plated minus 31g crust left on plate",
      "calories": 497.9,
      "protein_g": 30.9,
