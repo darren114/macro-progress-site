@@ -15191,6 +15191,14 @@ window.MACRO_DATA = {
    "reps": 10,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-18",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 17.5,
+   "reps": 16,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
