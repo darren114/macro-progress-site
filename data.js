@@ -13086,6 +13086,56 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 38.1
+  },
+  "2026-11-19": {
+   "date": "2026-11-19",
+   "calories": 743,
+   "protein_g": 29.8,
+   "carbs_g": 150.8,
+   "fat_g": 6.6,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Krusteaz-style pancakes, 4 frozen then reheated, 217g (578g total - 331g plate - 30g syrup)",
+     "calories": 377.6,
+     "protein_g": 7.4,
+     "carbs_g": 82.7,
+     "fat_g": 1.7,
+     "fiber_g": 0.9,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Organic maple syrup (Lucerne), 30g (1.5 tbsp)",
+     "calories": 78,
+     "protein_g": 0,
+     "carbs_g": 19.5,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Banana, 124g",
+     "calories": 110.4,
+     "protein_g": 1.4,
+     "carbs_g": 28.3,
+     "fat_g": 0.4,
+     "fiber_g": 3.2,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 13.8
   }
  },
  "WEIGHT_HISTORY": [
@@ -15557,6 +15607,54 @@ window.MACRO_DATA = {
    "exercise": "Dead Bug",
    "weight_lbs": 0,
    "reps": 17,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Barbell Shrug",
+   "weight_lbs": 125,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Dead Bug",
+   "weight_lbs": 0,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Barbell Shrug",
+   "weight_lbs": 125,
+   "reps": 16,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Dead Bug",
+   "weight_lbs": 0,
+   "reps": 14,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Side Plank",
+   "weight_lbs": 0,
+   "reps": 30,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Side Plank",
+   "weight_lbs": 0,
+   "reps": 30,
    "sets": 1,
    "rpe": 10
   }
