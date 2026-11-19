@@ -13089,10 +13089,10 @@ window.MACRO_DATA = {
   },
   "2026-11-19": {
    "date": "2026-11-19",
-   "calories": 743,
-   "protein_g": 29.8,
+   "calories": 861,
+   "protein_g": 41.6,
    "carbs_g": 150.8,
-   "fat_g": 6.6,
+   "fat_g": 14.1,
    "meals": [
     {
      "time": "morning",
@@ -13133,6 +13133,16 @@ window.MACRO_DATA = {
      "fat_g": 0.4,
      "fiber_g": 3.2,
      "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Kirkland smoked salmon, 60g (weighed)",
+     "calories": 117.9,
+     "protein_g": 11.8,
+     "carbs_g": 0,
+     "fat_g": 7.5,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 13.8
