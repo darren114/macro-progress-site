@@ -12969,10 +12969,10 @@ window.MACRO_DATA = {
   },
   "2026-11-18": {
    "date": "2026-11-18",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 3049,
+   "protein_g": 170.2,
+   "carbs_g": 434.1,
+   "fat_g": 68.1,
    "meals": [
     {
      "time": "morning",
@@ -12983,9 +12983,99 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Overnight oats: 106g dry oats, 252g Fairlife Ultra-Filtered Milk, 22g Manuka honey, 12g freeze-dried strawberries (Volupta)",
+     "calories": 609,
+     "protein_g": 28.3,
+     "carbs_g": 104.9,
+     "fat_g": 7.1,
+     "fiber_g": 13.8,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Spaghetti w/ Costco rotisserie white meat chicken + Rao's Marinara: 336g cooked Garofalo spaghetti, 263g Rao's sauce, 151g chicken (no skin)",
+     "calories": 1032.5,
+     "protein_g": 67.5,
+     "carbs_g": 129.8,
+     "fat_g": 22.8,
+     "fiber_g": 7.6,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amami leftover: steamed white rice, 235g",
+     "calories": 305.5,
+     "protein_g": 6.3,
+     "carbs_g": 66.2,
+     "fat_g": 0.7,
+     "fiber_g": 1,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amami leftover: chicken teriyaki, 95g",
+     "calories": 194,
+     "protein_g": 22.4,
+     "carbs_g": 5.7,
+     "fat_g": 9,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amoura leftover: pita bread, 38g",
+     "calories": 105.6,
+     "protein_g": 3.5,
+     "carbs_g": 21.2,
+     "fat_g": 1.1,
+     "fiber_g": 0.8,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Amoura leftover: basmati rice pilaf (w/ feta, tomato, nuts), 42g",
+     "calories": 65.1,
+     "protein_g": 1.5,
+     "carbs_g": 12.8,
+     "fat_g": 1.2,
+     "fiber_g": 0.5,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Amoura leftover: falafel, 54g (2 pieces)",
+     "calories": 179.8,
+     "protein_g": 7.2,
+     "carbs_g": 17.2,
+     "fat_g": 9.6,
+     "fiber_g": 2.6,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Amami leftover: negitoro maki, 3 small pieces (~65g of the 216g plate)",
+     "calories": 93,
+     "protein_g": 3.4,
+     "carbs_g": 14.5,
+     "fat_g": 2.6,
+     "fiber_g": 0.5,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Amami leftover: tuna + unagi + avocado roll, 5 pieces (~151g of the 216g plate)",
+     "calories": 287,
+     "protein_g": 9.1,
+     "carbs_g": 41.5,
+     "fat_g": 9.5,
+     "fiber_g": 1.2,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 37.7
   }
  },
  "WEIGHT_HISTORY": [
