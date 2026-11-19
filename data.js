@@ -12969,10 +12969,10 @@ window.MACRO_DATA = {
   },
   "2026-11-18": {
    "date": "2026-11-18",
-   "calories": 3049,
-   "protein_g": 170.2,
-   "carbs_g": 434.1,
-   "fat_g": 68.1,
+   "calories": 3126,
+   "protein_g": 178.2,
+   "carbs_g": 438.6,
+   "fat_g": 71.1,
    "meals": [
     {
      "time": "morning",
@@ -13073,9 +13073,19 @@ window.MACRO_DATA = {
      "fat_g": 9.5,
      "fiber_g": 1.2,
      "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Yuanbao Jiaozi beef noodle soup broth (leftover from earlier this week, fat skimmed off after fridge), 400g",
+     "calories": 77,
+     "protein_g": 8,
+     "carbs_g": 4.5,
+     "fat_g": 3,
+     "fiber_g": 0.4,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 37.7
+   "fiber_g": 38.1
   }
  },
  "WEIGHT_HISTORY": [
