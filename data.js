@@ -15494,7 +15494,7 @@ window.MACRO_DATA = {
    "weight_lbs": 0,
    "reps": 30,
    "sets": 1,
-   "rpe": 10
+   "rpe": 8
   }
  ]
 };
