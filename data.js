@@ -15487,6 +15487,14 @@ window.MACRO_DATA = {
    "reps": 18,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-19",
+   "exercise": "Push-Up",
+   "weight_lbs": 0,
+   "reps": 30,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
