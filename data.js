@@ -15767,6 +15767,126 @@ window.MACRO_DATA = {
    "reps": 30,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Front Squat",
+   "weight_lbs": 75,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 5
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Front Squat",
+   "weight_lbs": 95,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 7
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Front Squat",
+   "weight_lbs": 115,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Front Squat",
+   "weight_lbs": 135,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell RDL",
+   "weight_lbs": 135,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell RDL",
+   "weight_lbs": 155,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell RDL",
+   "weight_lbs": 165,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 52.5,
+   "reps": 20,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 105,
+   "reps": 20,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 165,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Hip Thrust",
+   "weight_lbs": 135,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 7
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Hip Thrust",
+   "weight_lbs": 135,
+   "reps": 7,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Hip Thrust",
+   "weight_lbs": 135,
+   "reps": 8,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Hip Thrust",
+   "weight_lbs": 135,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-20",
+   "exercise": "Barbell Hip Thrust",
+   "weight_lbs": 135,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
   }
  ]
 };
