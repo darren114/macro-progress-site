@@ -13089,10 +13089,10 @@ window.MACRO_DATA = {
   },
   "2026-11-19": {
    "date": "2026-11-19",
-   "calories": 861,
-   "protein_g": 41.6,
-   "carbs_g": 150.8,
-   "fat_g": 14.1,
+   "calories": 4002,
+   "protein_g": 199.3,
+   "carbs_g": 486.2,
+   "fat_g": 143.2,
    "meals": [
     {
      "time": "morning",
@@ -13143,9 +13143,109 @@ window.MACRO_DATA = {
      "fat_g": 7.5,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Costco Kirkland chicken pot pie, 291g plated (636 - 345g plate) minus 44g crust edges removed (592 - 345 = 247g eaten)",
+     "calories": 420,
+     "protein_g": 29.5,
+     "carbs_g": 26.6,
+     "fat_g": 20.9,
+     "fiber_g": 2.5,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Amami chicken udon: udon noodles, 315g",
+     "calories": 392,
+     "protein_g": 9.5,
+     "carbs_g": 85.1,
+     "fat_g": 1.6,
+     "fiber_g": 3.2,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Amami chicken udon: chicken broth, 515g",
+     "calories": 49,
+     "protein_g": 5.2,
+     "carbs_g": 3.6,
+     "fat_g": 1.5,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Amami chicken udon: napa cabbage, 122g",
+     "calories": 23,
+     "protein_g": 1.5,
+     "carbs_g": 3.9,
+     "fat_g": 0.2,
+     "fiber_g": 1.5,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Amami chicken udon: chicken, 106g",
+     "calories": 192,
+     "protein_g": 27,
+     "carbs_g": 0,
+     "fat_g": 9.3,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Ume Tea popcorn chicken, 247g (152g + 95g second serving)",
+     "calories": 692,
+     "protein_g": 46.9,
+     "carbs_g": 37.1,
+     "fat_g": 39.5,
+     "fiber_g": 1.2,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Modern Eats mushroom yuzu cheese pizza, 90g slice minus 17.6g crust (net ~72g)",
+     "calories": 159,
+     "protein_g": 6.6,
+     "carbs_g": 17.7,
+     "fat_g": 6.9,
+     "fiber_g": 1.3,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Modern Eats longinisa pizza, 117g + 100g slices minus 42.4g crust (net ~175g)",
+     "calories": 470,
+     "protein_g": 20.3,
+     "carbs_g": 40.5,
+     "fat_g": 25.2,
+     "fiber_g": 2.4,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Ume Tea eggette (egg waffle), 95g",
+     "calories": 278,
+     "protein_g": 6.2,
+     "carbs_g": 40.9,
+     "fat_g": 10,
+     "fiber_g": 0.8,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Ume Tea dragonfruit smoothie, large (~24oz), with cream cheese foam",
+     "calories": 466,
+     "protein_g": 5,
+     "carbs_g": 80,
+     "fat_g": 14,
+     "fiber_g": 2,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 13.8
+   "fiber_g": 28.7
   }
  },
  "WEIGHT_HISTORY": [
