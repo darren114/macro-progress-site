@@ -12459,9 +12459,9 @@ window.MACRO_DATA = {
   },
   "2026-11-14": {
    "date": "2026-11-14",
-   "calories": 3798,
+   "calories": 3745,
    "protein_g": 209.8,
-   "carbs_g": 441,
+   "carbs_g": 427.8,
    "fat_g": 130.1,
    "meals": [
     {
@@ -12506,10 +12506,10 @@ window.MACRO_DATA = {
     },
     {
      "time": "evening",
-     "description": "Hibiki Japanese whisky, 6 shots (1.5 oz each, 43% ABV)",
-     "calories": 636,
+     "description": "Hibiki Japanese whisky, 5.5 shots (1.5 oz each, 43% ABV)",
+     "calories": 583,
      "protein_g": 0,
-     "carbs_g": 159,
+     "carbs_g": 145.8,
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "low"
