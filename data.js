@@ -13089,9 +13089,9 @@ window.MACRO_DATA = {
   },
   "2026-11-19": {
    "date": "2026-11-19",
-   "calories": 4002,
+   "calories": 3922,
    "protein_g": 199.3,
-   "carbs_g": 486.2,
+   "carbs_g": 466.2,
    "fat_g": 143.2,
    "meals": [
     {
@@ -13237,9 +13237,9 @@ window.MACRO_DATA = {
     {
      "time": "evening",
      "description": "Ume Tea dragonfruit smoothie, large (~24oz), with cream cheese foam",
-     "calories": 466,
+     "calories": 386,
      "protein_g": 5,
-     "carbs_g": 80,
+     "carbs_g": 60,
      "fat_g": 14,
      "fiber_g": 2,
      "confidence": "low"
