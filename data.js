@@ -14014,6 +14014,38 @@ window.MACRO_DATA = {
   {
    "date": "2026-11-12",
    "weight_lbs": 161.8
+  },
+  {
+   "date": "2026-11-13",
+   "weight_lbs": 160.5
+  },
+  {
+   "date": "2026-11-14",
+   "weight_lbs": 160.9
+  },
+  {
+   "date": "2026-11-15",
+   "weight_lbs": 160.9
+  },
+  {
+   "date": "2026-11-16",
+   "weight_lbs": 162.7
+  },
+  {
+   "date": "2026-11-17",
+   "weight_lbs": 161.6
+  },
+  {
+   "date": "2026-11-18",
+   "weight_lbs": 163.4
+  },
+  {
+   "date": "2026-11-19",
+   "weight_lbs": 163.8
+  },
+  {
+   "date": "2026-11-20",
+   "weight_lbs": 164.9
   }
  ],
  "STEPS_HISTORY": [
