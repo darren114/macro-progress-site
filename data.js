@@ -13246,6 +13246,36 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 28.7
+  },
+  "2026-11-20": {
+   "date": "2026-11-20",
+   "calories": 467,
+   "protein_g": 25,
+   "carbs_g": 51.3,
+   "fat_g": 21.5,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Guava cream cheese pastry (pastelito-style puff pastry), 63g",
+     "calories": 290,
+     "protein_g": 4,
+     "carbs_g": 31,
+     "fat_g": 17,
+     "fiber_g": 0.8,
+     "confidence": "low"
+    }
+   ],
+   "fiber_g": 10.5
   }
  },
  "WEIGHT_HISTORY": [
