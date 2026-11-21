@@ -13249,10 +13249,10 @@ window.MACRO_DATA = {
   },
   "2026-11-20": {
    "date": "2026-11-20",
-   "calories": 1484,
-   "protein_g": 114.8,
-   "carbs_g": 117.9,
-   "fat_g": 62.9,
+   "calories": 2782,
+   "protein_g": 197.6,
+   "carbs_g": 210.5,
+   "fat_g": 128.9,
    "meals": [
     {
      "time": "morning",
@@ -13343,9 +13343,59 @@ window.MACRO_DATA = {
      "fat_g": 5.8,
      "fiber_g": 1.3,
      "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Satoshi Ramen (Burlingame): chicken karaage ~200g (7 pieces) with sweet soy dipping sauce",
+     "calories": 580,
+     "protein_g": 38.5,
+     "carbs_g": 34,
+     "fat_g": 32,
+     "fiber_g": 0.6,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Satoshi Ramen (Burlingame): spicy ramen chashu pork, ~120g (3 photographed pieces)",
+     "calories": 303,
+     "protein_g": 23.5,
+     "carbs_g": 1.5,
+     "fat_g": 22.5,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Satoshi Ramen (Burlingame): spicy ramen soy-marinated hard-boiled egg x1",
+     "calories": 80,
+     "protein_g": 6.3,
+     "carbs_g": 1.5,
+     "fat_g": 5,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Satoshi Ramen (Burlingame): spicy ramen broth, 180g (avoided floating oil)",
+     "calories": 75,
+     "protein_g": 4.5,
+     "carbs_g": 3.6,
+     "fat_g": 4.5,
+     "fiber_g": 0.4,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Satoshi Ramen (Burlingame): spicy ramen noodles, ~200g cooked",
+     "calories": 260,
+     "protein_g": 10,
+     "carbs_g": 52,
+     "fat_g": 2,
+     "fiber_g": 2,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 14.9
+   "fiber_g": 17.9
   }
  },
  "WEIGHT_HISTORY": [
