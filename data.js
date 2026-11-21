@@ -13249,10 +13249,10 @@ window.MACRO_DATA = {
   },
   "2026-11-20": {
    "date": "2026-11-20",
-   "calories": 467,
-   "protein_g": 25,
-   "carbs_g": 51.3,
-   "fat_g": 21.5,
+   "calories": 1484,
+   "protein_g": 114.8,
+   "carbs_g": 117.9,
+   "fat_g": 62.9,
    "meals": [
     {
      "time": "morning",
@@ -13273,9 +13273,79 @@ window.MACRO_DATA = {
      "fat_g": 17,
      "fiber_g": 0.8,
      "confidence": "low"
+    },
+    {
+     "time": "morning",
+     "description": "Kirkland smoked salmon, 66g (weighed)",
+     "calories": 129.7,
+     "protein_g": 13,
+     "carbs_g": 0,
+     "fat_g": 8.3,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Modern Eats mushroom yuzu cheese pizza leftovers, 142g (479g minus 337g plate)",
+     "calories": 319.5,
+     "protein_g": 12.8,
+     "carbs_g": 41.2,
+     "fat_g": 11.4,
+     "fiber_g": 2.6,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie chicken dark meat, no skin, 83g",
+     "calories": 170.2,
+     "protein_g": 22.5,
+     "carbs_g": 0,
+     "fat_g": 8.3,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Costco rotisserie chicken white meat, no skin, 86g",
+     "calories": 141.9,
+     "protein_g": 26.7,
+     "carbs_g": 0,
+     "fat_g": 3.1,
+     "fiber_g": 0,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Homemade chicken broth, fat skimmed off after refrigeration, 297g",
+     "calories": 44.5,
+     "protein_g": 7.4,
+     "carbs_g": 0.9,
+     "fat_g": 1.2,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Ra Nissòra Brutti e Buoni hazelnut biscuits x3 (11g total, scale photo)",
+     "calories": 47,
+     "protein_g": 0.8,
+     "carbs_g": 3.3,
+     "fat_g": 3.3,
+     "fiber_g": 0.5,
+     "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Modern Eats mushroom yuzu cheese pizza leftovers, 73g",
+     "calories": 164.3,
+     "protein_g": 6.6,
+     "carbs_g": 21.2,
+     "fat_g": 5.8,
+     "fiber_g": 1.3,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 10.5
+   "fiber_g": 14.9
   }
  },
  "WEIGHT_HISTORY": [
