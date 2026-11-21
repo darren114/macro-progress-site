@@ -13249,10 +13249,10 @@ window.MACRO_DATA = {
   },
   "2026-11-20": {
    "date": "2026-11-20",
-   "calories": 2782,
-   "protein_g": 197.6,
-   "carbs_g": 210.5,
-   "fat_g": 128.9,
+   "calories": 3067,
+   "protein_g": 200.1,
+   "carbs_g": 259.5,
+   "fat_g": 137.9,
    "meals": [
     {
      "time": "morning",
@@ -13393,9 +13393,19 @@ window.MACRO_DATA = {
      "fat_g": 2,
      "fiber_g": 2,
      "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Sunright Tea Studio pumpkin spice crème brûlée oat milk tea latte, 22 oz, 75% sweet",
+     "calories": 285,
+     "protein_g": 2.5,
+     "carbs_g": 49,
+     "fat_g": 9,
+     "fiber_g": 0.5,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 17.9
+   "fiber_g": 18.4
   }
  },
  "WEIGHT_HISTORY": [
