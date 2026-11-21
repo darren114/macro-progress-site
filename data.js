@@ -13406,6 +13406,46 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 18.4
+  },
+  "2026-11-21": {
+   "date": "2026-11-21",
+   "calories": 796,
+   "protein_g": 31.1,
+   "carbs_g": 159.1,
+   "fat_g": 6.9,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Krusteaz-style pancakes (homemade, leftover frozen then reheated), 296g",
+     "calories": 515,
+     "protein_g": 10.1,
+     "carbs_g": 112.8,
+     "fat_g": 2.4,
+     "fiber_g": 1.2,
+     "confidence": "medium"
+    },
+    {
+     "time": "morning",
+     "description": "Organic maple syrup (Lucerne), 2 tbsp (~40g)",
+     "calories": 104,
+     "protein_g": 0,
+     "carbs_g": 26,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    }
+   ],
+   "fiber_g": 10.9
   }
  },
  "WEIGHT_HISTORY": [
