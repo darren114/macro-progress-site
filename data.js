@@ -13409,10 +13409,10 @@ window.MACRO_DATA = {
   },
   "2026-11-21": {
    "date": "2026-11-21",
-   "calories": 1926,
-   "protein_g": 88.1,
-   "carbs_g": 272.1,
-   "fat_g": 56.4,
+   "calories": 2906,
+   "protein_g": 146.1,
+   "carbs_g": 378.1,
+   "fat_g": 92.4,
    "meals": [
     {
      "time": "morning",
@@ -13463,9 +13463,19 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 1,
      "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Spaghetti (Flour + Water organic) 269g cooked + homemade roasted tomato-feta sauce 219g + Costco rotisserie dark meat chicken (no skin) 133g",
+     "calories": 980,
+     "protein_g": 58,
+     "carbs_g": 106,
+     "fat_g": 36,
+     "fiber_g": 6.9,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 12.8
+   "fiber_g": 19.7
   }
  },
  "WEIGHT_HISTORY": [
