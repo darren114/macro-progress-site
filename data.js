@@ -13409,10 +13409,10 @@ window.MACRO_DATA = {
   },
   "2026-11-21": {
    "date": "2026-11-21",
-   "calories": 796,
-   "protein_g": 31.1,
-   "carbs_g": 159.1,
-   "fat_g": 6.9,
+   "calories": 1926,
+   "protein_g": 88.1,
+   "carbs_g": 272.1,
+   "fat_g": 56.4,
    "meals": [
     {
      "time": "morning",
@@ -13443,9 +13443,29 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Satoshi Ramen (Burlingame): leftover chicken karaage, 284g with sweet soy dipping sauce",
+     "calories": 815,
+     "protein_g": 54,
+     "carbs_g": 47,
+     "fat_g": 45,
+     "fiber_g": 0.9,
+     "confidence": "low"
+    },
+    {
+     "time": "evening",
+     "description": "Sunright Tea Studio Grass Jelly Boba Milk, 22 oz, Califia oat milk, 75% sweet, no ice",
+     "calories": 315,
+     "protein_g": 3,
+     "carbs_g": 66,
+     "fat_g": 4.5,
+     "fiber_g": 1,
+     "confidence": "low"
     }
    ],
-   "fiber_g": 10.9
+   "fiber_g": 12.8
   }
  },
  "WEIGHT_HISTORY": [
