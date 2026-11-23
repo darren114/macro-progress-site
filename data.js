@@ -16198,5 +16198,11 @@ window.MACRO_DATA = {
    "sets": 1,
    "rpe": 10
   }
+ ],
+ "EXCLUDED_DAYS": [
+  {
+   "date": "2026-11-26",
+   "note": "Thanksgiving: coach said no food tracking Thursday (week 28 Loom, relayed Mon 11/23). Excluded from weekly totals/averages."
+  }
  ]
 };
