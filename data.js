@@ -13583,6 +13583,46 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 27.7
+  },
+  "2026-11-23": {
+   "date": "2026-11-23",
+   "calories": 1274,
+   "protein_g": 83.9,
+   "carbs_g": 160.5,
+   "fat_g": 34.8,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Welch's 100% Concord Grape Juice, 243g",
+     "calories": 142,
+     "protein_g": 0.5,
+     "carbs_g": 37.5,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Spaghetti w/ ground turkey + Rao's Marinara: 262g cooked Flour + Water spaghetti, 235g Rao's sauce, 157g cooked Norbest 93/7 ground turkey",
+     "calories": 955,
+     "protein_g": 62.4,
+     "carbs_g": 102.7,
+     "fat_g": 30.3,
+     "fiber_g": 6.4,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 16.1
   }
  },
  "WEIGHT_HISTORY": [
