@@ -13486,10 +13486,10 @@ window.MACRO_DATA = {
   },
   "2026-11-22": {
    "date": "2026-11-22",
-   "calories": 2413,
-   "protein_g": 152.3,
-   "carbs_g": 257.3,
-   "fat_g": 86.3,
+   "calories": 2578,
+   "protein_g": 154.3,
+   "carbs_g": 280.3,
+   "fat_g": 93.3,
    "meals": [
     {
      "time": "lunch",
@@ -13550,6 +13550,16 @@ window.MACRO_DATA = {
      "fat_g": 27.8,
      "fiber_g": 5.6,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Lotte corn ice cream bar (Korean, 140ml), 1 whole bar",
+     "calories": 165,
+     "protein_g": 2,
+     "carbs_g": 23,
+     "fat_g": 7,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 23.9
