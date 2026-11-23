@@ -13483,6 +13483,26 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 19.7
+  },
+  "2026-11-22": {
+   "date": "2026-11-22",
+   "calories": 1115,
+   "protein_g": 60,
+   "carbs_g": 104,
+   "fat_g": 51,
+   "meals": [
+    {
+     "time": "lunch",
+     "description": "Tai Wu (Foster City): egg & shrimp chow fun 280g, beef & green beans 205g, beef chow fun 100g, salt & pepper fish fillet 50g (shared dishes; portions eaten per photos)",
+     "calories": 1115,
+     "protein_g": 60,
+     "carbs_g": 104,
+     "fat_g": 51,
+     "fiber_g": 7,
+     "confidence": "low"
+    }
+   ],
+   "fiber_g": 7
   }
  },
  "WEIGHT_HISTORY": [
