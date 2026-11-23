@@ -16297,6 +16297,101 @@ window.MACRO_DATA = {
    "reps": 10,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Bulgarian Split Squat",
+   "weight_lbs": 45,
+   "reps": 10,
+   "sets": 3,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 90,
+   "reps": 17,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 90,
+   "reps": 18,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Single-Leg Calf Raise",
+   "weight_lbs": 90,
+   "reps": 17,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Barbell RDL",
+   "weight_lbs": 185,
+   "reps": 8,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Barbell RDL",
+   "weight_lbs": 185,
+   "reps": 10,
+   "sets": 2,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "Plank (seconds)",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 3
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 50,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 50,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 50,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 50,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-23",
+   "exercise": "DB Step-Up",
+   "weight_lbs": 50,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
   }
  ],
  "EXCLUDED_DAYS": [
