@@ -13586,10 +13586,10 @@ window.MACRO_DATA = {
   },
   "2026-11-23": {
    "date": "2026-11-23",
-   "calories": 1274,
-   "protein_g": 83.9,
-   "carbs_g": 160.5,
-   "fat_g": 34.8,
+   "calories": 2525,
+   "protein_g": 132,
+   "carbs_g": 321.5,
+   "fat_g": 82.1,
    "meals": [
     {
      "time": "morning",
@@ -13620,9 +13620,29 @@ window.MACRO_DATA = {
      "fat_g": 30.3,
      "fiber_g": 6.4,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Tai Wu (Foster City) leftovers, deconstructed: egg chow fun 525g, garlic beef 79g, green beans 123g, garlic shrimp 22g (2 pcs) + Fly By Jing chili crisp 8g",
+     "calories": 1120,
+     "protein_g": 46.5,
+     "carbs_g": 127.5,
+     "fat_g": 46.8,
+     "fiber_g": 6.3,
+     "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Banana, 147g",
+     "calories": 131,
+     "protein_g": 1.6,
+     "carbs_g": 33.5,
+     "fat_g": 0.5,
+     "fiber_g": 3.8,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 16.1
+   "fiber_g": 26.2
   }
  },
  "WEIGHT_HISTORY": [
