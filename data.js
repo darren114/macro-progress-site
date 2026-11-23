@@ -13486,10 +13486,10 @@ window.MACRO_DATA = {
   },
   "2026-11-22": {
    "date": "2026-11-22",
-   "calories": 2666,
-   "protein_g": 155.6,
-   "carbs_g": 294.1,
-   "fat_g": 96.4,
+   "calories": 2749,
+   "protein_g": 156.1,
+   "carbs_g": 316.2,
+   "fat_g": 96.7,
    "meals": [
     {
      "time": "lunch",
@@ -13570,9 +13570,19 @@ window.MACRO_DATA = {
      "fat_g": 3.1,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Apple, medium (photo estimate ~160g, bite taken, counted whole)",
+     "calories": 83,
+     "protein_g": 0.5,
+     "carbs_g": 22.1,
+     "fat_g": 0.3,
+     "fiber_g": 3.8,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 23.9
+   "fiber_g": 27.7
   }
  },
  "WEIGHT_HISTORY": [
