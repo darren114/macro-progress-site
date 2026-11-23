@@ -486,6 +486,8 @@
 <script>
   const { TARGETS_HISTORY, DAYS, WEIGHT_DAILY, STEPS_HISTORY } = window.MACRO_DATA;
   const LIFTS = window.MACRO_DATA.LIFTS || [];
+  // Days excluded from weekly math (logs/excluded_days.csv), e.g. Thanksgiving off-tracking.
+  const EXCLUDED_DAYS = new Set((window.MACRO_DATA.EXCLUDED_DAYS || []).map(d => d.date));
     // Data embedded at publish time. Refresh by republishing.
   // One entry per targets change; only ever appended to, never edited in place.
   // Rendering resolves the entry effective on each specific date, so a target change
@@ -1195,7 +1197,9 @@
       // a Friday (the week boundary), so every date in a Friday-Thursday week resolves to the same
       // targets_history entry in practice; this is a representative sample, not a re-derivation.
       const weekTrackTargets = resolveTargets(weekDates[0]);
+      const countedDates = weekDates.filter(d => !EXCLUDED_DAYS.has(d));
       weekDates.forEach(dateStr => {
+        if (EXCLUDED_DAYS.has(dateStr)) return;
         const tg = resolveTargets(dateStr);
         weekTargetTotal.calories += calTargetFor(tg);
         weekTargetTotal.protein_g += (tg.protein_g || 0);
@@ -1216,17 +1220,17 @@
       // Running daily average across the days of this week that have already started (today
       // counts in full from 12:01am, not prorated) -- shows how close the pace is tracking to
       // target before the week is over.
-      const elapsedDates = weekDates.filter(d => d <= TODAY_DATE);
+      const elapsedDates = countedDates.filter(d => d <= TODAY_DATE);
       const elapsedCount = elapsedDates.length || 1;
       const weekUntrackedKeys = Object.keys(MACRO_META).filter(k => !isMacroTracked(weekTrackTargets, k));
       const untrackedHeadingNote = weekUntrackedKeys.length
         ? ` · ${weekUntrackedKeys.map(k => MACRO_META[k].label).join('/')} not tracked this week`
         : '';
-      document.getElementById('weekAvgHeading').textContent = `Daily average so far · ${elapsedDates.length} of 7 days${untrackedHeadingNote}`;
+      document.getElementById('weekAvgHeading').textContent = `Daily average so far · ${elapsedDates.length} of ${countedDates.length} days${untrackedHeadingNote}`;
       document.getElementById('weekAvgLine').innerHTML = Object.keys(MACRO_META).map(k => {
         const meta = MACRO_META[k];
         const avgVal = weekEatenTotal[k] / elapsedCount;
-        const targetVal = weekTargetTotal[k] / 7;
+        const targetVal = weekTargetTotal[k] / (countedDates.length || 1);
         const label = meta.label[0];
         if (!isMacroTracked(weekTrackTargets, k)){
           return `<span>${label} <b class="avg-untracked">${fmtNum(avgVal)}</b></span>`;
@@ -1235,7 +1239,7 @@
         return `<span>${label} <b class="${outOfRange ? 'avg-over' : 'avg-ok'}">${fmtNum(avgVal)}</b>/${fmtNum(targetVal)}</span>`;
       }).join('');
 
-      const remainingDaysCount = weekDates.filter(d => d > TODAY_DATE).length;
+      const remainingDaysCount = countedDates.filter(d => d > TODAY_DATE).length;
       // Evenly spread whatever's left of the week's budget across the days that haven't happened
       // yet, so hitting that daily figure each remaining day lands exactly on the week's target.
       const perDayLeft = {
@@ -1250,22 +1254,23 @@
         const t = dayTotals(day);
         const label = dayLabel(dateStr);
         const isToday = dateStr === TODAY_DATE;
-        const isFuture = isCurrentWeek && dateStr > TODAY_DATE;
+        const isExcluded = EXCLUDED_DAYS.has(dateStr);
+        const isFuture = isCurrentWeek && dateStr > TODAY_DATE && !isExcluded;
         const dayCalTarget = calTargetFor(resolveTargets(dateStr));
         const pct = dayCalTarget > 0 ? Math.max(0, Math.min(100, (t.calories/dayCalTarget)*100)) : 0;
         const over = t.calories > dayCalTarget;
         const meals = (day && day.meals) || [];
 
-        const kcalMain = isFuture ? `~${fmtNum(perDayLeft.calories,0)} kcal` : `${fmtNum(t.calories,0)} kcal`;
-        const kcalSub = isFuture ? '' : `of ${fmtNum(dayCalTarget,0)}`;
-        const barPct = isFuture ? 0 : pct;
+        const kcalMain = isExcluded ? 'Not tracked' : isFuture ? `~${fmtNum(perDayLeft.calories,0)} kcal` : `${fmtNum(t.calories,0)} kcal`;
+        const kcalSub = (isFuture || isExcluded) ? '' : `of ${fmtNum(dayCalTarget,0)}`;
+        const barPct = (isFuture || isExcluded) ? 0 : pct;
         const macroClass = isFuture ? 'meal-macros mono day-macros is-estimate' : 'meal-macros mono day-macros';
         const macroLabel = isFuture ? '<span class="day-macros-label">(Allowed estimate)</span>' : '';
         const pVal = isFuture ? perDayLeft.protein_g : t.protein_g;
         const cVal = isFuture ? perDayLeft.carbs_g : t.carbs_g;
         const fVal = isFuture ? perDayLeft.fat_g : t.fat_g;
         const macroPrefix = isFuture ? '~' : '';
-        const innerHtml = isFuture ? '<div class="empty-note">This day has not happened yet.</div>' : mealsListHtml(meals);
+        const innerHtml = isExcluded ? '<div class="empty-note">Off tracking this day \u2014 excluded from the weekly totals and averages.</div>' : isFuture ? '<div class="empty-note">This day has not happened yet.</div>' : mealsListHtml(meals);
 
         return `
           <details class="day" ${isToday ? 'open' : ''}>
@@ -1281,7 +1286,7 @@
                   ${kcalSub ? `<span>${kcalSub}</span>` : ''}
                 </div>
                 <div class="bar-track"><div class="bar-fill" style="width:${barPct}%; background:${over ? 'var(--over)' : 'var(--accent)'};"></div></div>
-                <div class="${macroClass}">
+                <div class="${macroClass}" ${isExcluded ? 'hidden' : ''}>
                   <span>P <b>${macroPrefix}${fmtNum(pVal)}</b></span>
                   <span>C <b>${macroPrefix}${fmtNum(cVal)}</b></span>
                   <span>F <b>${macroPrefix}${fmtNum(fVal)}</b></span>
