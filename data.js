@@ -13486,10 +13486,10 @@ window.MACRO_DATA = {
   },
   "2026-11-22": {
    "date": "2026-11-22",
-   "calories": 2578,
-   "protein_g": 154.3,
-   "carbs_g": 280.3,
-   "fat_g": 93.3,
+   "calories": 2666,
+   "protein_g": 155.6,
+   "carbs_g": 294.1,
+   "fat_g": 96.4,
    "meals": [
     {
      "time": "lunch",
@@ -13558,6 +13558,16 @@ window.MACRO_DATA = {
      "protein_g": 2,
      "carbs_g": 23,
      "fat_g": 7,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Trader Joe's O' Nog non-dairy oat beverage, 151g",
+     "calories": 88,
+     "protein_g": 1.3,
+     "carbs_g": 13.8,
+     "fat_g": 3.1,
      "fiber_g": 0,
      "confidence": "high"
     }
