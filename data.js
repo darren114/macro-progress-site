@@ -13486,9 +13486,9 @@ window.MACRO_DATA = {
   },
   "2026-11-22": {
    "date": "2026-11-22",
-   "calories": 1363,
-   "protein_g": 88.7,
-   "carbs_g": 127.9,
+   "calories": 1529,
+   "protein_g": 91.4,
+   "carbs_g": 164.4,
    "fat_g": 58.5,
    "meals": [
     {
@@ -13520,9 +13520,29 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Trader Joe's Organic Carrot Juice, 265g",
+     "calories": 88,
+     "protein_g": 2.2,
+     "carbs_g": 17.7,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Natural Delights organic Medjool date, pitted, 1 date (24g on scale)",
+     "calories": 78,
+     "protein_g": 0.5,
+     "carbs_g": 18.8,
+     "fat_g": 0,
+     "fiber_g": 1.6,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 16.7
+   "fiber_g": 18.3
   }
  },
  "WEIGHT_HISTORY": [
