@@ -13586,9 +13586,9 @@ window.MACRO_DATA = {
   },
   "2026-11-23": {
    "date": "2026-11-23",
-   "calories": 2525,
-   "protein_g": 132,
-   "carbs_g": 321.5,
+   "calories": 2614,
+   "protein_g": 134.2,
+   "carbs_g": 339.4,
    "fat_g": 82.1,
    "meals": [
     {
@@ -13639,6 +13639,16 @@ window.MACRO_DATA = {
      "carbs_g": 33.5,
      "fat_g": 0.5,
      "fiber_g": 3.8,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Trader Joe's Organic Carrot Juice, 268g",
+     "calories": 89,
+     "protein_g": 2.2,
+     "carbs_g": 17.9,
+     "fat_g": 0,
+     "fiber_g": 0,
      "confidence": "high"
     }
    ],
