@@ -13486,10 +13486,10 @@ window.MACRO_DATA = {
   },
   "2026-11-22": {
    "date": "2026-11-22",
-   "calories": 1529,
-   "protein_g": 91.4,
-   "carbs_g": 164.4,
-   "fat_g": 58.5,
+   "calories": 2413,
+   "protein_g": 152.3,
+   "carbs_g": 257.3,
+   "fat_g": 86.3,
    "meals": [
     {
      "time": "lunch",
@@ -13540,9 +13540,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 1.6,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Spaghetti w/ ground turkey + Rao's Marinara: 240g cooked Flour + Water spaghetti (leftover), 191g Rao's sauce (leftover), 159g cooked Norbest 93/7 ground turkey",
+     "calories": 884,
+     "protein_g": 60.9,
+     "carbs_g": 92.9,
+     "fat_g": 27.8,
+     "fiber_g": 5.6,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 18.3
+   "fiber_g": 23.9
   }
  },
  "WEIGHT_HISTORY": [
