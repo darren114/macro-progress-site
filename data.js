@@ -165,6 +165,13 @@ window.MACRO_DATA = {
    "carbs_g": 390,
    "fat_g": 95,
    "calories": 3155
+  },
+  {
+   "effective_from": "2026-11-20",
+   "protein_g": 185,
+   "carbs_g": 375,
+   "fat_g": 95,
+   "calories": 3095
   }
  ],
  "DAYS": {
