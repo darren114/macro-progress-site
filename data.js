@@ -13486,10 +13486,10 @@ window.MACRO_DATA = {
   },
   "2026-11-22": {
    "date": "2026-11-22",
-   "calories": 1115,
-   "protein_g": 60,
-   "carbs_g": 104,
-   "fat_g": 51,
+   "calories": 1186,
+   "protein_g": 67.7,
+   "carbs_g": 107.6,
+   "fat_g": 54,
    "meals": [
     {
      "time": "lunch",
@@ -13500,6 +13500,16 @@ window.MACRO_DATA = {
      "fat_g": 51,
      "fiber_g": 7,
      "confidence": "low"
+    },
+    {
+     "time": "snack",
+     "description": "Fairlife 2% Reduced Fat milk, 142g",
+     "calories": 71,
+     "protein_g": 7.7,
+     "carbs_g": 3.6,
+     "fat_g": 3,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 7
