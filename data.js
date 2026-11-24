@@ -13586,10 +13586,10 @@ window.MACRO_DATA = {
   },
   "2026-11-23": {
    "date": "2026-11-23",
-   "calories": 2614,
-   "protein_g": 134.2,
-   "carbs_g": 339.4,
-   "fat_g": 82.1,
+   "calories": 3054,
+   "protein_g": 160.2,
+   "carbs_g": 385.9,
+   "fat_g": 98.1,
    "meals": [
     {
      "time": "morning",
@@ -13650,9 +13650,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "In-N-Out Double-Meat (no cheese), mustard-fried, no spread, extra lettuce + tomato, grilled onions, pickles + 3 ketchup packets (~27g)",
+     "calories": 440,
+     "protein_g": 26,
+     "carbs_g": 46.5,
+     "fat_g": 16,
+     "fiber_g": 2.5,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 26.2
+   "fiber_g": 28.7
   }
  },
  "WEIGHT_HISTORY": [
