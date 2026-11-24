@@ -16612,6 +16612,22 @@ window.MACRO_DATA = {
    "reps": 11,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-24",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 17.5,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-24",
+   "exercise": "Overhead Triceps Extension",
+   "weight_lbs": 40,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
   }
  ],
  "EXCLUDED_DAYS": [
