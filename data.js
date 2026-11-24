@@ -13596,10 +13596,10 @@ window.MACRO_DATA = {
   },
   "2026-11-23": {
    "date": "2026-11-23",
-   "calories": 3054,
-   "protein_g": 160.2,
-   "carbs_g": 385.9,
-   "fat_g": 98.1,
+   "calories": 3184,
+   "protein_g": 163.2,
+   "carbs_g": 411.9,
+   "fat_g": 99.6,
    "meals": [
     {
      "time": "morning",
@@ -13670,6 +13670,16 @@ window.MACRO_DATA = {
      "fat_g": 16,
      "fiber_g": 2.5,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Trader Joe's Chocolate Pudding, 1 container (100g)",
+     "calories": 130,
+     "protein_g": 3,
+     "carbs_g": 26,
+     "fat_g": 1.5,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 28.7
