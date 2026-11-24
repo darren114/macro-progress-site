@@ -16508,6 +16508,14 @@ window.MACRO_DATA = {
    "reps": 10,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-24",
+   "exercise": "DB Bench Press",
+   "weight_lbs": 52.5,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
   }
  ],
  "EXCLUDED_DAYS": [
