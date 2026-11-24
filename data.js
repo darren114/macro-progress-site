@@ -13683,6 +13683,46 @@ window.MACRO_DATA = {
     }
    ],
    "fiber_g": 28.7
+  },
+  "2026-11-24": {
+   "date": "2026-11-24",
+   "calories": 1256,
+   "protein_g": 97.5,
+   "carbs_g": 140.2,
+   "fat_g": 34.8,
+   "meals": [
+    {
+     "time": "morning",
+     "description": "Orgain Organic Vegan Protein Powder (Plant-Based), 2 scoops (46g) + Matcha powder, 8g, mixed w/ water",
+     "calories": 177,
+     "protein_g": 21,
+     "carbs_g": 20.3,
+     "fat_g": 4.5,
+     "fiber_g": 9.7,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Cream of Wheat Instant Original, 1 packet (28g dry) prepared w/ 169g Fairlife fat-free milk + 15g brown sugar",
+     "calories": 213,
+     "protein_g": 12.2,
+     "carbs_g": 39.9,
+     "fat_g": 0,
+     "fiber_g": 1,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Spaghetti w/ ground turkey + Rao's Marinara: 201g cooked Flour + Water spaghetti, 207g Rao's sauce, 179g cooked Norbest 93/7 ground turkey",
+     "calories": 866,
+     "protein_g": 64.3,
+     "carbs_g": 80,
+     "fat_g": 30.3,
+     "fiber_g": 5.1,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 15.8
   }
  },
  "WEIGHT_HISTORY": [
