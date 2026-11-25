@@ -13686,9 +13686,9 @@ window.MACRO_DATA = {
   },
   "2026-11-24": {
    "date": "2026-11-24",
-   "calories": 2461,
-   "protein_g": 193.3,
-   "carbs_g": 266.2,
+   "calories": 2711,
+   "protein_g": 208.2,
+   "carbs_g": 313.4,
    "fat_g": 66.9,
    "meals": [
     {
@@ -13760,6 +13760,16 @@ window.MACRO_DATA = {
      "fat_g": 11.5,
      "fiber_g": 0,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Kellogg's Corn Pops cereal 46g with Fairlife fat-free milk 232g",
+     "calories": 250,
+     "protein_g": 14.9,
+     "carbs_g": 47.2,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 21.7
