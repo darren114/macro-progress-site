@@ -13796,10 +13796,10 @@ window.MACRO_DATA = {
   },
   "2026-11-25": {
    "date": "2026-11-25",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 941,
+   "protein_g": 82,
+   "carbs_g": 99.8,
+   "fat_g": 27.8,
    "meals": [
     {
      "time": "morning",
@@ -13810,9 +13810,29 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Welch's 100% Concord Grape Juice, 168g (pre-workout)",
+     "calories": 98,
+     "protein_g": 0.4,
+     "carbs_g": 25.9,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Basmati rice 186g + cooked Norbest 93/7 ground turkey 201g + 1 tsp Fly By Jing chili crisp (leftovers)",
+     "calories": 666,
+     "protein_g": 60.6,
+     "carbs_g": 53.6,
+     "fat_g": 23.3,
+     "fiber_g": 0.8,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 10.5
   }
  },
  "WEIGHT_HISTORY": [
