@@ -13796,10 +13796,10 @@ window.MACRO_DATA = {
   },
   "2026-11-25": {
    "date": "2026-11-25",
-   "calories": 1087,
-   "protein_g": 85.6,
-   "carbs_g": 128.9,
-   "fat_g": 27.8,
+   "calories": 1733,
+   "protein_g": 115.3,
+   "carbs_g": 239.2,
+   "fat_g": 36.6,
    "meals": [
     {
      "time": "morning",
@@ -13840,9 +13840,29 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "high"
+    },
+    {
+     "time": "lunch",
+     "description": "Kix cereal 44g with Fairlife fat-free milk 260g",
+     "calories": 258,
+     "protein_g": 16.5,
+     "carbs_g": 41.9,
+     "fat_g": 1.8,
+     "fiber_g": 3.7,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Mazra pita 112g + Trader Joe's Creamy Dreamy Hummus, 3 tbsp (42g)",
+     "calories": 388,
+     "protein_g": 13.2,
+     "carbs_g": 68.4,
+     "fat_g": 7,
+     "fiber_g": 4,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 10.5
+   "fiber_g": 18.2
   }
  },
  "WEIGHT_HISTORY": [
