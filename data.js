@@ -13686,10 +13686,10 @@ window.MACRO_DATA = {
   },
   "2026-11-24": {
    "date": "2026-11-24",
-   "calories": 1819,
-   "protein_g": 139.3,
-   "carbs_g": 193.9,
-   "fat_g": 53.4,
+   "calories": 2181,
+   "protein_g": 149.3,
+   "carbs_g": 266.2,
+   "fat_g": 55.4,
    "meals": [
     {
      "time": "morning",
@@ -13740,9 +13740,19 @@ window.MACRO_DATA = {
      "fat_g": 15.5,
      "fiber_g": 3.6,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Thomas' English Muffins, 2 whole muffins (4 halves) with peach jam 25g",
+     "calories": 362,
+     "protein_g": 10,
+     "carbs_g": 72.3,
+     "fat_g": 2,
+     "fiber_g": 2.2,
+     "confidence": "high"
     }
    ],
-   "fiber_g": 19.5
+   "fiber_g": 21.7
   }
  },
  "WEIGHT_HISTORY": [
