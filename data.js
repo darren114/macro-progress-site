@@ -13686,10 +13686,10 @@ window.MACRO_DATA = {
   },
   "2026-11-24": {
    "date": "2026-11-24",
-   "calories": 1256,
-   "protein_g": 97.5,
-   "carbs_g": 140.2,
-   "fat_g": 34.8,
+   "calories": 1819,
+   "protein_g": 139.3,
+   "carbs_g": 193.9,
+   "fat_g": 53.4,
    "meals": [
     {
      "time": "morning",
@@ -13720,9 +13720,29 @@ window.MACRO_DATA = {
      "fat_g": 30.3,
      "fiber_g": 5.1,
      "confidence": "medium"
+    },
+    {
+     "time": "snack",
+     "description": "Tai Wu (Foster City) leftover beef chow fun: beef 28g + chow fun 18g",
+     "calories": 82,
+     "protein_g": 5.7,
+     "carbs_g": 5,
+     "fat_g": 3.1,
+     "fiber_g": 0.1,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Spaghetti w/ wife's roasted tomato-feta sauce + shrimp: 116g cooked Flour + Water spaghetti, 152g sauce, 94g cooked Kirkland shrimp (home-cooked from raw)",
+     "calories": 481,
+     "protein_g": 36.1,
+     "carbs_g": 48.7,
+     "fat_g": 15.5,
+     "fiber_g": 3.6,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 15.8
+   "fiber_g": 19.5
   }
  },
  "WEIGHT_HISTORY": [
