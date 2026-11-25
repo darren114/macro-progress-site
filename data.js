@@ -13686,9 +13686,9 @@ window.MACRO_DATA = {
   },
   "2026-11-24": {
    "date": "2026-11-24",
-   "calories": 2711,
+   "calories": 2891,
    "protein_g": 208.2,
-   "carbs_g": 313.4,
+   "carbs_g": 358.4,
    "fat_g": 66.9,
    "meals": [
     {
@@ -13767,6 +13767,26 @@ window.MACRO_DATA = {
      "calories": 250,
      "protein_g": 14.9,
      "carbs_g": 47.2,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Vita peach tea drink, 1 carton (250 mL)",
+     "calories": 90,
+     "protein_g": 0,
+     "carbs_g": 23,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "snack",
+     "description": "Vita chrysanthemum tea drink, 1 carton (250 mL)",
+     "calories": 90,
+     "protein_g": 0,
+     "carbs_g": 22,
      "fat_g": 0,
      "fiber_g": 0,
      "confidence": "high"
