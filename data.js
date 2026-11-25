@@ -16738,6 +16738,150 @@ window.MACRO_DATA = {
    "reps": 11,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Barbell Bent-Over Row",
+   "weight_lbs": 115,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Barbell Bent-Over Row",
+   "weight_lbs": 115,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Barbell Bent-Over Row",
+   "weight_lbs": 125,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Barbell Bent-Over Row",
+   "weight_lbs": 125,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Chest-Supported Row",
+   "weight_lbs": 45,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 22.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Chest-Supported Row",
+   "weight_lbs": 45,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 22.5,
+   "reps": 9,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Chest-Supported Row",
+   "weight_lbs": 45,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 17.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Chest-Supported Row",
+   "weight_lbs": 45,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Rear-Delt Fly",
+   "weight_lbs": 17.5,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "DB Pullover",
+   "weight_lbs": 52.5,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Incline Curl",
+   "weight_lbs": 22.5,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "DB Pullover",
+   "weight_lbs": 52.5,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Incline Curl",
+   "weight_lbs": 22.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "DB Pullover",
+   "weight_lbs": 52.5,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-25",
+   "exercise": "Incline Curl",
+   "weight_lbs": 22.5,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
   }
  ],
  "EXCLUDED_DAYS": [
