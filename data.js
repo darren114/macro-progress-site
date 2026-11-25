@@ -13686,10 +13686,10 @@ window.MACRO_DATA = {
   },
   "2026-11-24": {
    "date": "2026-11-24",
-   "calories": 2181,
-   "protein_g": 149.3,
+   "calories": 2461,
+   "protein_g": 193.3,
    "carbs_g": 266.2,
-   "fat_g": 55.4,
+   "fat_g": 66.9,
    "meals": [
     {
      "time": "morning",
@@ -13750,6 +13750,16 @@ window.MACRO_DATA = {
      "fat_g": 2,
      "fiber_g": 2.2,
      "confidence": "high"
+    },
+    {
+     "time": "evening",
+     "description": "Mazra rotisserie chicken, skinless, mixed dark and white meat, 163g",
+     "calories": 280,
+     "protein_g": 44,
+     "carbs_g": 0,
+     "fat_g": 11.5,
+     "fiber_g": 0,
+     "confidence": "medium"
     }
    ],
    "fiber_g": 21.7
