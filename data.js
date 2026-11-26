@@ -13796,9 +13796,9 @@ window.MACRO_DATA = {
   },
   "2026-11-25": {
    "date": "2026-11-25",
-   "calories": 3146,
-   "protein_g": 210.3,
-   "carbs_g": 377.2,
+   "calories": 3287,
+   "protein_g": 210.8,
+   "carbs_g": 414.5,
    "fat_g": 88.6,
    "meals": [
     {
@@ -13880,6 +13880,16 @@ window.MACRO_DATA = {
      "fat_g": 52,
      "fiber_g": 8,
      "confidence": "medium"
+    },
+    {
+     "time": "evening",
+     "description": "Welch's 100% Concord Grape Juice, 242g",
+     "calories": 141,
+     "protein_g": 0.5,
+     "carbs_g": 37.3,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
     }
    ],
    "fiber_g": 29.2
