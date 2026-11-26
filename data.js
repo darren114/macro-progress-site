@@ -17012,6 +17012,222 @@ window.MACRO_DATA = {
    "reps": 12,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 20,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Curl",
+   "weight_lbs": 65,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 20,
+   "reps": 14,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Curl",
+   "weight_lbs": 65,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 20,
+   "reps": 14,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Curl",
+   "weight_lbs": 65,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Lateral Raise",
+   "weight_lbs": 20,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Curl",
+   "weight_lbs": 65,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Lying Triceps Extension",
+   "weight_lbs": 65,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Push-Up",
+   "weight_lbs": 0,
+   "reps": 17,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Lying Triceps Extension",
+   "weight_lbs": 65,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Push-Up",
+   "weight_lbs": 0,
+   "reps": 16,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Lying Triceps Extension",
+   "weight_lbs": 65,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Push-Up",
+   "weight_lbs": 0,
+   "reps": 13,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Lying Triceps Extension",
+   "weight_lbs": 65,
+   "reps": 11,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Push-Up",
+   "weight_lbs": 0,
+   "reps": 16,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Shrug",
+   "weight_lbs": 135,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Dead Bug",
+   "weight_lbs": 0,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Shrug",
+   "weight_lbs": 135,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Dead Bug",
+   "weight_lbs": 10,
+   "reps": 10,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Barbell Shrug",
+   "weight_lbs": 135,
+   "reps": 15,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Dead Bug",
+   "weight_lbs": 10,
+   "reps": 12,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Pull-Up",
+   "weight_lbs": 0,
+   "reps": 4,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Pull-Up",
+   "weight_lbs": 0,
+   "reps": 5,
+   "sets": 1,
+   "rpe": 8
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Pull-Up",
+   "weight_lbs": 0,
+   "reps": 5,
+   "sets": 1,
+   "rpe": 9
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Side Plank",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 1,
+   "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Side Plank",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 1,
+   "rpe": 10
   }
  ],
  "EXCLUDED_DAYS": [
