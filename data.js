@@ -17228,6 +17228,14 @@ window.MACRO_DATA = {
    "reps": 60,
    "sets": 1,
    "rpe": 10
+  },
+  {
+   "date": "2026-11-26",
+   "exercise": "Side Plank",
+   "weight_lbs": 0,
+   "reps": 60,
+   "sets": 1,
+   "rpe": 10
   }
  ],
  "EXCLUDED_DAYS": [
