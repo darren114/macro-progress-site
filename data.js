@@ -13796,10 +13796,10 @@ window.MACRO_DATA = {
   },
   "2026-11-25": {
    "date": "2026-11-25",
-   "calories": 1883,
-   "protein_g": 116.3,
-   "carbs_g": 275.2,
-   "fat_g": 36.6,
+   "calories": 3146,
+   "protein_g": 210.3,
+   "carbs_g": 377.2,
+   "fat_g": 88.6,
    "meals": [
     {
      "time": "morning",
@@ -13870,9 +13870,19 @@ window.MACRO_DATA = {
      "fat_g": 0,
      "fiber_g": 3,
      "confidence": "high"
+    },
+    {
+     "time": "dinner",
+     "description": "Thanksgiving dinner (Veeva meal kit): turkey 255g (white+dark, no skin), mashed potatoes 153g, stuffing 102g (incl. 3 pork sausage slices), gravy 90g, shaved Brussels salad 87g + maple balsamic dressing 15g, cranberry sauce 68g, TJ O' Nog 135g",
+     "calories": 1263,
+     "protein_g": 94,
+     "carbs_g": 102,
+     "fat_g": 52,
+     "fiber_g": 8,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 21.2
+   "fiber_g": 29.2
   }
  },
  "WEIGHT_HISTORY": [
