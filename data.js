@@ -13906,10 +13906,10 @@ window.MACRO_DATA = {
   },
   "2026-11-26": {
    "date": "2026-11-26",
-   "calories": 3855,
-   "protein_g": 216.1,
-   "carbs_g": 431.4,
-   "fat_g": 142.6,
+   "calories": 3901,
+   "protein_g": 220.5,
+   "carbs_g": 434.3,
+   "fat_g": 144.8,
    "meals": [
     {
      "time": "morning",
@@ -13944,11 +13944,11 @@ window.MACRO_DATA = {
     {
      "time": "dinner",
      "description": "Thanksgiving plate 1: macaroni salad 50g, potato stack 25g, pork slices 30g, stuffing 40g, dark turkey 120g, white turkey 50g, gravy 70g, Vietnamese pancake w/ shrimp ~45g, green beans+cucumber 65g",
-     "calories": 738,
-     "protein_g": 63.2,
-     "carbs_g": 37.1,
-     "fat_g": 37.2,
-     "fiber_g": 3.9,
+     "calories": 759,
+     "protein_g": 65.2,
+     "carbs_g": 38.4,
+     "fat_g": 38.2,
+     "fiber_g": 3.7,
      "confidence": "low"
     },
     {
@@ -13964,11 +13964,11 @@ window.MACRO_DATA = {
     {
      "time": "dinner",
      "description": "Thanksgiving plate 2 (not photographed): dark turkey 60g, white chicken 50g, macaroni salad 60g, gravy 35g",
-     "calories": 332,
-     "protein_g": 33.4,
-     "carbs_g": 13.8,
-     "fat_g": 15.7,
-     "fiber_g": 0.6,
+     "calories": 357,
+     "protein_g": 35.8,
+     "carbs_g": 15.4,
+     "fat_g": 16.9,
+     "fiber_g": 0.4,
      "confidence": "low"
     },
     {
@@ -14002,7 +14002,57 @@ window.MACRO_DATA = {
      "confidence": "medium-low"
     }
    ],
-   "fiber_g": 17
+   "fiber_g": 16.6
+  },
+  "2026-11-27": {
+   "date": "2026-11-27",
+   "calories": 997,
+   "protein_g": 72.3,
+   "carbs_g": 93.8,
+   "fat_g": 37.3,
+   "meals": [
+    {
+     "time": "lunch",
+     "description": "Banh xeo leftover 50g + lettuce wrap 30g + fish sauce 3 tsp",
+     "calories": 93,
+     "protein_g": 7.2,
+     "carbs_g": 9,
+     "fat_g": 4,
+     "fiber_g": 0.8,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "White meat turkey 159g + Thanksgiving gravy 85g (39+46) + white rice 136g cooked",
+     "calories": 480,
+     "protein_g": 52.6,
+     "carbs_g": 42.8,
+     "fat_g": 10.5,
+     "fiber_g": 0.6,
+     "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Light macaroni salad (red wine vinegar, mayo, red bell pepper, gherkins, red onion), 2 bites ~25g",
+     "calories": 38,
+     "protein_g": 0.8,
+     "carbs_g": 4.3,
+     "fat_g": 1.9,
+     "fiber_g": 0.3,
+     "confidence": "low"
+    },
+    {
+     "time": "lunch",
+     "description": "Grandma's mayo-sugar macaroni salad (with diced egg) 167g",
+     "calories": 386,
+     "protein_g": 11.7,
+     "carbs_g": 37.7,
+     "fat_g": 20.9,
+     "fiber_g": 1,
+     "confidence": "medium"
+    }
+   ],
+   "fiber_g": 2.7
   }
  },
  "WEIGHT_HISTORY": [
