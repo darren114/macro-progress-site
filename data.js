@@ -13906,10 +13906,10 @@ window.MACRO_DATA = {
   },
   "2026-11-26": {
    "date": "2026-11-26",
-   "calories": 177,
-   "protein_g": 21,
-   "carbs_g": 20.3,
-   "fat_g": 4.5,
+   "calories": 959,
+   "protein_g": 84.4,
+   "carbs_g": 124.5,
+   "fat_g": 16.3,
    "meals": [
     {
      "time": "morning",
@@ -13920,9 +13920,29 @@ window.MACRO_DATA = {
      "fat_g": 4.5,
      "fiber_g": 9.7,
      "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Kellogg's Corn Pops cereal 45g with Fairlife fat-free milk 251g + Egmont manuka honey 11g",
+     "calories": 286,
+     "protein_g": 15.9,
+     "carbs_g": 55.8,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "high"
+    },
+    {
+     "time": "morning",
+     "description": "Mazra rotisserie chicken, skinless, mixed meat, 157g + basmati rice 171g cooked",
+     "calories": 496,
+     "protein_g": 47.5,
+     "carbs_g": 48.4,
+     "fat_g": 11.8,
+     "fiber_g": 0.8,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 9.7
+   "fiber_g": 10.5
   }
  },
  "WEIGHT_HISTORY": [

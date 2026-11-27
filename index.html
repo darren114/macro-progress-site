@@ -1261,8 +1261,9 @@
         const over = t.calories > dayCalTarget;
         const meals = (day && day.meals) || [];
 
-        const kcalMain = isExcluded ? 'Not tracked' : isFuture ? `~${fmtNum(perDayLeft.calories,0)} kcal` : `${fmtNum(t.calories,0)} kcal`;
-        const kcalSub = (isFuture || isExcluded) ? '' : `of ${fmtNum(dayCalTarget,0)}`;
+        const hasMeals = meals.length > 0;
+        const kcalMain = (isExcluded && !hasMeals) ? 'Not tracked' : isFuture ? `~${fmtNum(perDayLeft.calories,0)} kcal` : `${fmtNum(t.calories,0)} kcal`;
+        const kcalSub = isFuture ? '' : isExcluded ? (hasMeals ? 'not counted' : '') : `of ${fmtNum(dayCalTarget,0)}`;
         const barPct = (isFuture || isExcluded) ? 0 : pct;
         const macroClass = isFuture ? 'meal-macros mono day-macros is-estimate' : 'meal-macros mono day-macros';
         const macroLabel = isFuture ? '<span class="day-macros-label">(Allowed estimate)</span>' : '';
@@ -1270,7 +1271,7 @@
         const cVal = isFuture ? perDayLeft.carbs_g : t.carbs_g;
         const fVal = isFuture ? perDayLeft.fat_g : t.fat_g;
         const macroPrefix = isFuture ? '~' : '';
-        const innerHtml = isExcluded ? '<div class="empty-note">Off tracking this day \u2014 excluded from the weekly totals and averages.</div>' : isFuture ? '<div class="empty-note">This day has not happened yet.</div>' : mealsListHtml(meals);
+        const innerHtml = isExcluded ? ('<div class="empty-note">Off tracking this day \u2014 excluded from the weekly totals and averages.</div>' + (hasMeals ? mealsListHtml(meals) : '')) : isFuture ? '<div class="empty-note">This day has not happened yet.</div>' : mealsListHtml(meals);
 
         return `
           <details class="day" ${isToday ? 'open' : ''}>
@@ -1286,7 +1287,7 @@
                   ${kcalSub ? `<span>${kcalSub}</span>` : ''}
                 </div>
                 <div class="bar-track"><div class="bar-fill" style="width:${barPct}%; background:${over ? 'var(--over)' : 'var(--accent)'};"></div></div>
-                <div class="${macroClass}" ${isExcluded ? 'hidden' : ''}>
+                <div class="${macroClass}" ${(isExcluded && !hasMeals) ? 'hidden' : ''}>
                   <span>P <b>${macroPrefix}${fmtNum(pVal)}</b></span>
                   <span>C <b>${macroPrefix}${fmtNum(cVal)}</b></span>
                   <span>F <b>${macroPrefix}${fmtNum(fVal)}</b></span>
