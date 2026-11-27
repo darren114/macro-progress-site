@@ -13948,7 +13948,7 @@ window.MACRO_DATA = {
      "protein_g": 65.2,
      "carbs_g": 38.4,
      "fat_g": 38.2,
-     "fiber_g": 3.7,
+     "fiber_g": 4.1,
      "confidence": "low"
     },
     {
@@ -13968,7 +13968,7 @@ window.MACRO_DATA = {
      "protein_g": 35.8,
      "carbs_g": 15.4,
      "fat_g": 16.9,
-     "fiber_g": 0.4,
+     "fiber_g": 0.8,
      "confidence": "low"
     },
     {
@@ -14002,7 +14002,7 @@ window.MACRO_DATA = {
      "confidence": "medium-low"
     }
    ],
-   "fiber_g": 16.6
+   "fiber_g": 17.4
   },
   "2026-11-27": {
    "date": "2026-11-27",
@@ -14038,7 +14038,7 @@ window.MACRO_DATA = {
      "protein_g": 0.8,
      "carbs_g": 4.3,
      "fat_g": 1.9,
-     "fiber_g": 0.3,
+     "fiber_g": 0.5,
      "confidence": "low"
     },
     {
@@ -14048,11 +14048,11 @@ window.MACRO_DATA = {
      "protein_g": 11.7,
      "carbs_g": 37.7,
      "fat_g": 20.9,
-     "fiber_g": 1,
+     "fiber_g": 2.3,
      "confidence": "medium"
     }
    ],
-   "fiber_g": 2.7
+   "fiber_g": 4.2
   }
  },
  "WEIGHT_HISTORY": [
