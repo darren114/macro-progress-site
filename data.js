@@ -13906,10 +13906,10 @@ window.MACRO_DATA = {
   },
   "2026-11-26": {
    "date": "2026-11-26",
-   "calories": 959,
-   "protein_g": 84.4,
-   "carbs_g": 124.5,
-   "fat_g": 16.3,
+   "calories": 3255,
+   "protein_g": 216.1,
+   "carbs_g": 281.4,
+   "fat_g": 142.6,
    "meals": [
     {
      "time": "morning",
@@ -13940,9 +13940,59 @@ window.MACRO_DATA = {
      "fat_g": 11.8,
      "fiber_g": 0.8,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Thanksgiving plate 1: macaroni salad 50g, potato stack 25g, pork slices 30g, stuffing 40g, dark turkey 120g, white turkey 50g, gravy 70g, Vietnamese pancake w/ shrimp ~45g, green beans+cucumber 65g",
+     "calories": 738,
+     "protein_g": 63.2,
+     "carbs_g": 37.1,
+     "fat_g": 37.2,
+     "fiber_g": 3.9,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Wife's leftover pork 75g (Thanksgiving)",
+     "calories": 208,
+     "protein_g": 16.5,
+     "carbs_g": 0,
+     "fat_g": 15.8,
+     "fiber_g": 0,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Thanksgiving plate 2 (not photographed): dark turkey 60g, white chicken 50g, macaroni salad 60g, gravy 35g",
+     "calories": 332,
+     "protein_g": 33.4,
+     "carbs_g": 13.8,
+     "fat_g": 15.7,
+     "fiber_g": 0.6,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Thanksgiving dessert 1 2/3 plates: Lady M matcha crepe 150g + homemade dan tat (egg custard pie) 167g",
+     "calories": 838,
+     "protein_g": 16.7,
+     "carbs_g": 84,
+     "fat_g": 48.2,
+     "fiber_g": 1,
+     "confidence": "low"
+    },
+    {
+     "time": "dinner",
+     "description": "Apple turnover, 2 small slices, 55g (Thanksgiving)",
+     "calories": 180,
+     "protein_g": 1.9,
+     "carbs_g": 22,
+     "fat_g": 9.4,
+     "fiber_g": 1,
+     "confidence": "medium"
     }
    ],
-   "fiber_g": 10.5
+   "fiber_g": 17
   }
  },
  "WEIGHT_HISTORY": [
