@@ -13906,9 +13906,9 @@ window.MACRO_DATA = {
   },
   "2026-11-26": {
    "date": "2026-11-26",
-   "calories": 3255,
+   "calories": 3855,
    "protein_g": 216.1,
-   "carbs_g": 281.4,
+   "carbs_g": 431.4,
    "fat_g": 142.6,
    "meals": [
     {
@@ -13990,6 +13990,16 @@ window.MACRO_DATA = {
      "fat_g": 9.4,
      "fiber_g": 1,
      "confidence": "medium"
+    },
+    {
+     "time": "dinner",
+     "description": "Wine, 4 glasses x 6 oz (24 oz total) with Thanksgiving dinner",
+     "calories": 600,
+     "protein_g": 0,
+     "carbs_g": 150,
+     "fat_g": 0,
+     "fiber_g": 0,
+     "confidence": "medium-low"
     }
    ],
    "fiber_g": 17
