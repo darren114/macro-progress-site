@@ -14006,10 +14006,10 @@ window.MACRO_DATA = {
   },
   "2026-11-27": {
    "date": "2026-11-27",
-   "calories": 997,
-   "protein_g": 72.3,
+   "calories": 1252,
+   "protein_g": 92.3,
    "carbs_g": 93.8,
-   "fat_g": 37.3,
+   "fat_g": 56.3,
    "meals": [
     {
      "time": "lunch",
@@ -14050,6 +14050,16 @@ window.MACRO_DATA = {
      "fat_g": 20.9,
      "fiber_g": 2.3,
      "confidence": "medium"
+    },
+    {
+     "time": "lunch",
+     "description": "Leftover Thanksgiving pork slices 91g",
+     "calories": 255,
+     "protein_g": 20,
+     "carbs_g": 0,
+     "fat_g": 19,
+     "fiber_g": 0,
+     "confidence": "low"
     }
    ],
    "fiber_g": 4.2
